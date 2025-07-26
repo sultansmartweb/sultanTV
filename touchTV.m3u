@@ -1,0 +1,256 @@
+#EXTM3U
+#EXTINF:0,Jednotka
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=stv1
+#EXTINF:0,Dvojka
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=stv2
+#EXTINF:0,Trojka
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=stv3
+#EXTINF:0,Markíza	
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=markiza
+#EXTINF:0,Markíza Krimi	
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+http://localhost/Touch.php?ID=markizakrimi
+#EXTINF:0,Doma	
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=doma
+#EXTINF:0,Dajto
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=dajto
+#EXTINF:0,JOJ
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=joj
+#EXTINF:0,JOJ Plus
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojplus
+#EXTINF:0,WAU
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=wau
+#EXTINF:0,JOJKO
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojko
+#EXTINF:0,TA3
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ta3
+#EXTINF:0,ČT1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ct1
+#EXTINF:0,ČT2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ct2
+#EXTINF:0,ČT3
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ct3
+#EXTINF:0,ČT24
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ct24
+#EXTINF:0,ČT:D/Art
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ctd
+#EXTINF:0,ČT sport
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ctsport
+#EXTINF:0,Prima Plus
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=primaplus
+#EXTINF:0,CNN Prima News
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=cnnprimanews
+#EXTINF:0,Barrandov Krimi		
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=barrandovkrimi
+#EXTINF:0,Nova International
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=novaint
+#EXTINF:0,TV Barrandov
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=barrandov
+#EXTINF:0,Kino Barrandov
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=kinobarrandov
+#EXTINF:0,Prima Cool
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=primacool
+#EXTINF:0,Prima Love
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=primalove
+#EXTINF:0,Prima Zoom
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=primazoom
+#EXTINF:0,Prima Krimi
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=primakrimi
+#EXTINF:0,Prima MAX
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=primamax
+#EXTINF:0,Arena Sport 1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=arenasport1
+#EXTINF:0,Arena Sport 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=arenasport2
+#EXTINF:0,Epic Drama
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=epicdrama
+#EXTINF:0,Viasat Explore
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=viasatexplorer
+#EXTINF:0,Viasat History
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=viasathistory
+#EXTINF:0,Viasat Nature
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=viasatnature
+#EXTINF:0,Nova Sport 1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=novasport1
+#EXTINF:0,Nova Sport 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=novasport2
+#EXTINF:0,Sport 1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=sport1
+#EXTINF:0,Sport 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=sport2
+#EXTINF:0,Joj Sport
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojsport
+#EXTINF:0,Joj Cinema
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojcinema
+#EXTINF:0,FilmBOX
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmbox
+#EXTINF:0,FilmBOX PREMIUM
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmboxpremium
+#EXTINF:0,FilmBOX EXRA	
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmboxextra
+#EXTINF:0,FilmBOX STARS	
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmboxstars
+#EXTINF:0,AMC
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=amc
+#EXTINF:0,Nat Geo Wild	
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=natgeowild
+#EXTINF:0,Rik TV
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=tvrik
+#EXTINF:0,Minimax
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=minimax
+#EXTINF:0,LaLa TV
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=lalatv
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=nickelodeon
+#EXTINF:0,Nick JR
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=nickjr
+#EXTINF:0,JimJam
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jimjam
+#EXTINF:0,CS Film
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=csfilm
+#EXTINF:0,CS Film +
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=csfilm+
+#EXTINF:0,CS History
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=cshistory
+#EXTINF:0,CS Mystery
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=csmystery
+#EXTINF:0,Film Europe Channel
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmeurope
+#EXTINF:0,Film Europe +
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmeurope+
+#EXTINF:0,Travel XP
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=travelxp
+#EXTINF:0,Spektrum Home
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=spektrumhome
+#EXTINF:0,TV Paprika
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=tvpaprika
+#EXTINF:0,SPORTS 5
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=sport5
+#EXTINF:0,Šport
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=rtvssport
+#EXTINF:0,Extreme Sports
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=extremesports
+#EXTINF:0,Auto Motor Sport
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=automotorsport
+#EXTINF:0,M4 Sport
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=m4sport
+#EXTINF:0,Eurosport 1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=eurosport1
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=eurosport2
+#EXTINF:0,TLC
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=tlc
+#EXTINF:0,Discovery
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=discovery
+#EXTINF:0,Travel Channel
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=travelchannel
+#EXTINF:0,Discovery DTX
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=dtx
+#EXTINF:0,HGTV
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=hgtv
+#EXTINF:0,HBO
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=hbo
+#EXTINF:0,HBO 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=hbo2
+#EXTINF:0,HBO 3
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=hbo3
+#EXTINF:0,CINEMAX
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=cinemax
+#EXTINF:0,CINEMAX 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=cinemax2
+#EXTINF:0,M1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=m1
+#EXTINF:0,M2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=m2
+#EXTINF:0,M5
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=m5
+#EXTINF:0,DUNA TV
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=duna
+#EXTINF:0,DUNA WORLD
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=dunaworld
+#EXTINF:0,FASHION TV
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=fashiontv

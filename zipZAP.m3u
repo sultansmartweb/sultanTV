@@ -1,0 +1,411 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bht1.png",BHT1
+https://zipzap.mark-clark.workers.dev/?ID=bht1
+#EXTINF:-1 tvg-id="ftv" tvg-name="Federalna TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/ftv.png",Federalna TV
+https://zipzap.mark-clark.workers.dev/?ID=ftv
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtrs.png",RTRS
+https://zipzap.mark-clark.workers.dev/?ID=rtrs
+#EXTINF:-1 tvg-id="tv_zenica" tvg-name="TV Zenica" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tv_zenica.png",TV Zenica
+https://zipzap.mark-clark.workers.dev/?ID=tv_zenica
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/obn.png",OBN
+https://zipzap.mark-clark.workers.dev/?ID=obn
+#EXTINF:-1 tvg-id="hayat" tvg-name="Hayat" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hayat.png",Hayat
+https://zipzap.mark-clark.workers.dev/?ID=hayat
+#EXTINF:-1 tvg-id="hayat2" tvg-name="Hayat2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hayat2.png",Hayat2
+https://zipzap.mark-clark.workers.dev/?ID=hayat2
+#EXTINF:-1 tvg-id="nova_bh" tvg-name="Nova BH" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/nova_bh.png",Nova BH
+https://zipzap.mark-clark.workers.dev/?ID=nova_bh
+#EXTINF:-1 tvg-id="face" tvg-name="Face TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/face.png",Face TV
+https://zipzap.mark-clark.workers.dev/?ID=face
+#EXTINF:-1 tvg-id="pink_bh" tvg-name="Pink BH" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_bh.png",Pink BH
+https://zipzap.mark-clark.workers.dev/?ID=pink_bh
+#EXTINF:-1 tvg-id="al_jazeera_balkans" tvg-name="Al Jazeera Balkans" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/al_jazeera_balkans.png",Al Jazeera Balkans
+https://zipzap.mark-clark.workers.dev/?ID=al_jazeera_balkans
+#EXTINF:-1 tvg-id="bn_tv" tvg-name="BN" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bn_tv.png",BN
+https://zipzap.mark-clark.workers.dev/?ID=bn_tv
+#EXTINF:-1 tvg-id="bn_tv2" tvg-name="BN 2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bn_tv2.png",BN 2
+https://zipzap.mark-clark.workers.dev/?ID=bn_tv2
+#EXTINF:-1 tvg-id="alfa_tv" tvg-name="Alfa TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/alfa_tv.png",Alfa TV
+https://zipzap.mark-clark.workers.dev/?ID=alfa_tv
+#EXTINF:-1 tvg-id="o_kanal" tvg-name="O Kanal" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/o_kanal.png",O Kanal
+https://zipzap.mark-clark.workers.dev/?ID=o_kanal
+#EXTINF:-1 tvg-id="tvsa" tvg-name="TV Sarajevo" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tvsa.png",TV Sarajevo
+https://zipzap.mark-clark.workers.dev/?ID=tvsa
+#EXTINF:-1 tvg-id="vogosca" tvg-name="Vogošća" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/vogosca.png",Vogošća
+https://zipzap.mark-clark.workers.dev/?ID=vogosca
+#EXTINF:-1 tvg-id="visoko" tvg-name="Visoko" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/visoko.png",Visoko
+https://zipzap.mark-clark.workers.dev/?ID=visoko
+#EXTINF:-1 tvg-id="smart" tvg-name="Smart TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/smart.png",Smart TV
+https://zipzap.mark-clark.workers.dev/?ID=smart
+#EXTINF:-1 tvg-id="usk" tvg-name="USK" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/usk.png",USK
+https://zipzap.mark-clark.workers.dev/?ID=usk
+#EXTINF:-1 tvg-id="lukavac" tvg-name="Lukavac" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/lukavac.png",Lukavac
+https://zipzap.mark-clark.workers.dev/?ID=lukavac
+#EXTINF:-1 tvg-id="zivinice" tvg-name="RTV Živinice" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/zivinice.png",RTV Živinice
+https://zipzap.mark-clark.workers.dev/?ID=zivinice
+#EXTINF:-1 tvg-id="bugojno" tvg-name="Bugojno" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bugojno.png",Bugojno
+https://zipzap.mark-clark.workers.dev/?ID=bugojno
+#EXTINF:-1 tvg-id="tvtk" tvg-name="TK" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tvtk.png",TK
+https://zipzap.mark-clark.workers.dev/?ID=tvtk
+#EXTINF:-1 tvg-id="maglaj" tvg-name="Maglaj" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/maglaj.png",Maglaj
+https://zipzap.mark-clark.workers.dev/?ID=maglaj
+#EXTINF:-1 tvg-id="jata" tvg-name="Jata" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/jata.png",Jata
+https://zipzap.mark-clark.workers.dev/?ID=jata
+#EXTINF:-1 tvg-id="kanal6" tvg-name="Kanal 6" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/kanal6.png",Kanal 6
+https://zipzap.mark-clark.workers.dev/?ID=kanal6
+#EXTINF:-1 tvg-id="hema" tvg-name="Hema" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hema.png",Hema
+https://zipzap.mark-clark.workers.dev/?ID=hema
+#EXTINF:-1 tvg-id="hit_tv" tvg-name="HIT" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hit_tv.png",HIT
+https://zipzap.mark-clark.workers.dev/?ID=hit_tv
+#EXTINF:-1 tvg-id="tatabrada_tv" tvg-name="TataBrada.TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tatabrada_tv.png",TataBrada.TV
+https://zipzap.mark-clark.workers.dev/?ID=tatabrada_tv
+#EXTINF:-1 tvg-id="dobra_tv" tvg-name="Dobra TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/dobra_tv.png",Dobra TV
+https://zipzap.mark-clark.workers.dev/?ID=dobra_tv
+#EXTINF:-1 tvg-id="neon" tvg-name="Neon" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/neon.png",Neon
+https://zipzap.mark-clark.workers.dev/?ID=neon
+#EXTINF:-1 tvg-id="slon_extra" tvg-name="Slon Extra" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/slon_extra.png",Slon Extra
+https://zipzap.mark-clark.workers.dev/?ID=slon_extra
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/atv.png",ATV
+https://zipzap.mark-clark.workers.dev/?ID=atv
+#EXTINF:-1 tvg-id="k3" tvg-name="K3" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/k3.png",K3
+https://zipzap.mark-clark.workers.dev/?ID=k3
+#EXTINF:-1 tvg-id="rtv_is" tvg-name="Istočno Sarajevo" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtv_is.png",Istočno Sarajevo
+https://zipzap.mark-clark.workers.dev/?ID=rtv_is
+#EXTINF:-1 tvg-id="rtrs_plus" tvg-name="RTRS Plus" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtrs_plus.png",RTRS Plus
+https://zipzap.mark-clark.workers.dev/?ID=rtrs_plus
+#EXTINF:-1 tvg-id="herceg_tv" tvg-name="Herceg TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/herceg_tv.png",Herceg TV
+https://zipzap.mark-clark.workers.dev/?ID=herceg_tv
+#EXTINF:-1 tvg-id="tv_m" tvg-name="TV M" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/ntvic_kakanj.png",TV M
+https://zipzap.mark-clark.workers.dev/?ID=tv_m
+#EXTINF:-1 tvg-id="mtv_igman" tvg-name="MTV Igman" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/mtv_igman.png",MTV Igman
+https://zipzap.mark-clark.workers.dev/?ID=mtv_igman
+#EXTINF:-1 tvg-id="tv5" tvg-name="Televizija 5" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tv5.png",Televizija 5
+https://zipzap.mark-clark.workers.dev/?ID=tv5
+#EXTINF:-1 tvg-id="bir" tvg-name="BIR TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bir.png",BIR TV
+https://zipzap.mark-clark.workers.dev/?ID=bir
+#EXTINF:-1 tvg-id="saudi_quran" tvg-name="Saudi Quran" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/saudi_quran.png",Saudi Quran
+https://zipzap.mark-clark.workers.dev/?ID=saudi_quran
+#EXTINF:-1 tvg-id="podrinje" tvg-name="Podrinje" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/podrinje.png",Podrinje
+https://zipzap.mark-clark.workers.dev/?ID=podrinje
+#EXTINF:-1 tvg-id="sandzak_tv" tvg-name="Sandžak TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/sandzak_tv.png",Sandžak TV
+https://zipzap.mark-clark.workers.dev/?ID=sandzak_tv
+#EXTINF:-1 tvg-id="novi_pazar_stream_p8" tvg-name="Novi Pazar" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/super_media.png",Novi Pazar
+https://zipzap.mark-clark.workers.dev/?ID=novi_pazar_stream_p8
+#EXTINF:-1 tvg-id="hb" tvg-name="RTV HB" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hb.png",RTV HB
+https://zipzap.mark-clark.workers.dev/?ID=hb
+#EXTINF:-1 tvg-id="hrt1" tvg-name="HRT1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hrt1.png",HRT1
+https://zipzap.mark-clark.workers.dev/?ID=hrt1
+#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hrt2.png",HRT2
+https://zipzap.mark-clark.workers.dev/?ID=hrt2
+#EXTINF:-1 tvg-id="hrt3" tvg-name="HRT3" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hrt3.png",HRT3
+https://zipzap.mark-clark.workers.dev/?ID=hrt3
+#EXTINF:-1 tvg-id="hrt4" tvg-name="HRT4" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hrt4.png",HRT4
+https://zipzap.mark-clark.workers.dev/?ID=hrt4
+#EXTINF:-1 tvg-id="nova_hr" tvg-name="Nova" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/nova_hr.png",Nova
+https://zipzap.mark-clark.workers.dev/?ID=nova_hr
+#EXTINF:-1 tvg-id="doma" tvg-name="Doma" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/doma.png",Doma
+https://zipzap.mark-clark.workers.dev/?ID=doma
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtl.png",RTL
+https://zipzap.mark-clark.workers.dev/?ID=rtl
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtl2.png",RTL2
+https://zipzap.mark-clark.workers.dev/?ID=rtl2
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/z1.png",Z1
+https://zipzap.mark-clark.workers.dev/?ID=z1
+#EXTINF:-1 tvg-id="libertas_tv" tvg-name="Libertas TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/jadran_tv.png",Libertas TV
+https://zipzap.mark-clark.workers.dev/?ID=libertas_tv
+#EXTINF:-1 tvg-id="zapad_tv" tvg-name="Zapad TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/zapad_tv.png",Zapad TV
+https://zipzap.mark-clark.workers.dev/?ID=zapad_tv
+#EXTINF:-1 tvg-id="pink_m" tvg-name="Pink M" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_m.png",Pink M
+https://zipzap.mark-clark.workers.dev/?ID=pink_m
+#EXTINF:-1 tvg-id="mne" tvg-name="MNE" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/mne.png",MNE
+https://zipzap.mark-clark.workers.dev/?ID=mne
+#EXTINF:-1 tvg-id="tvcg1" tvg-name="TVCG1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tvcg1.png",TVCG1
+https://zipzap.mark-clark.workers.dev/?ID=tvcg1
+#EXTINF:-1 tvg-id="tvcg2" tvg-name="TVCG2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tvcg2.png",TVCG2
+https://zipzap.mark-clark.workers.dev/?ID=tvcg2
+#EXTINF:-1 tvg-id="tvcg3" tvg-name="TVCG3" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tvcg3.png",TVCG3
+https://zipzap.mark-clark.workers.dev/?ID=tvcg3
+#EXTINF:-1 tvg-id="pink_sr" tvg-name="Pink" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_sr.png",Pink
+https://zipzap.mark-clark.workers.dev/?ID=pink_sr
+#EXTINF:-1 tvg-id="pink_plus" tvg-name="Pink Plus" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_plus.png",Pink Plus
+https://zipzap.mark-clark.workers.dev/?ID=pink_plus
+#EXTINF:-1 tvg-id="pink_extra" tvg-name="Pink Extra" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_extra.png",Pink Extra
+https://zipzap.mark-clark.workers.dev/?ID=pink_extra
+#EXTINF:-1 tvg-id="vesti" tvg-name="Vesti" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/vesti.png",Vesti
+https://zipzap.mark-clark.workers.dev/?ID=vesti
+#EXTINF:-1 tvg-id="narodna" tvg-name="Narodna TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/narodna.png",Narodna TV
+https://zipzap.mark-clark.workers.dev/?ID=narodna
+#EXTINF:-1 tvg-id="red" tvg-name="RED" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/red.png",RED
+https://zipzap.mark-clark.workers.dev/?ID=red
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts1.png",RTS1
+https://zipzap.mark-clark.workers.dev/?ID=rts1
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts2.png",RTS2
+https://zipzap.mark-clark.workers.dev/?ID=rts2
+#EXTINF:-1 tvg-id="rts_svet" tvg-name="RTS Svet" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts_svet.png",RTS Svet
+https://zipzap.mark-clark.workers.dev/?ID=rts_svet
+#EXTINF:-1 tvg-id="rts_trezor" tvg-name="RTS Trezor" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts_trezor.png",RTS Trezor
+https://zipzap.mark-clark.workers.dev/?ID=rts_trezor
+#EXTINF:-1 tvg-id="rtv1" tvg-name="RTV1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtv1.png",RTV1
+https://zipzap.mark-clark.workers.dev/?ID=rtv1
+#EXTINF:-1 tvg-id="rtv2" tvg-name="RTV2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtv2.png",RTV2
+https://zipzap.mark-clark.workers.dev/?ID=rtv2
+#EXTINF:-1 tvg-id="balkan_tv" tvg-name="Balkan TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/balkan_tv.png",Balkan TV
+https://zipzap.mark-clark.workers.dev/?ID=balkan_tv
+#EXTINF:-1 tvg-id="tropik" tvg-name="Tropik TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tropik.png",Tropik TV
+https://zipzap.mark-clark.workers.dev/?ID=tropik
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hayatovci.png",Hayatovci
+https://zipzap.mark-clark.workers.dev/?ID=hayatovci
+#EXTINF:-1 tvg-id="tnt_kids" tvg-name="TNT Kids" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/tnt_kids.png",TNT Kids
+https://zipzap.mark-clark.workers.dev/?ID=tnt_kids
+#EXTINF:-1 tvg-id="rtl_kockica" tvg-name="RTL Kockica" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtl_kockica.png",RTL Kockica
+https://zipzap.mark-clark.workers.dev/?ID=rtl_kockica
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/nickelodeon.png",Nickelodeon
+https://zipzap.mark-clark.workers.dev/?ID=nickelodeon
+#EXTINF:-1 tvg-id="nick_jr" tvg-name="Nick Jr." group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/nick_jr.png",Nick Jr.
+https://zipzap.mark-clark.workers.dev/?ID=nick_jr
+#EXTINF:-1 tvg-id="disney" tvg-name="Disney" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/disney.png",Disney
+https://zipzap.mark-clark.workers.dev/?ID=disney
+#EXTINF:-1 tvg-id="baby_tv" tvg-name="Baby TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/baby_tv.png",Baby TV
+https://zipzap.mark-clark.workers.dev/?ID=baby_tv
+#EXTINF:-1 tvg-id="minimax" tvg-name="MiniMax" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/minimax.png",MiniMax
+https://zipzap.mark-clark.workers.dev/?ID=minimax
+#EXTINF:-1 tvg-id="pink_kids" tvg-name="Pink Kids" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_kids.png",Pink Kids
+https://zipzap.mark-clark.workers.dev/?ID=pink_kids
+#EXTINF:-1 tvg-id="pink_super_kids" tvg-name="Pink Super Kids" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_super_kids.png",Pink Super Kids
+https://zipzap.mark-clark.workers.dev/?ID=pink_super_kids
+#EXTINF:-1 tvg-id="toggo_de" tvg-name="Toggo" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/toggo_de.png",Toggo
+https://zipzap.mark-clark.workers.dev/?ID=toggo_de
+#EXTINF:-1 tvg-id="toggo_plus_de" tvg-name="Toggo Plus" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/toggo_plus_de.png",Toggo Plus
+https://zipzap.mark-clark.workers.dev/?ID=toggo_plus_de
+#EXTINF:-1 tvg-id="pink_family" tvg-name="Pink Family" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_family.png",Pink Family
+https://zipzap.mark-clark.workers.dev/?ID=pink_family
+#EXTINF:-1 tvg-id="rts_poletarac" tvg-name="RTS Poletarac" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts_poletarac.png",RTS Poletarac
+https://zipzap.mark-clark.workers.dev/?ID=rts_poletarac
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/animal_planet.png",Animal Planet
+https://zipzap.mark-clark.workers.dev/?ID=animal_planet
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/discovery.png",Discovery
+https://zipzap.mark-clark.workers.dev/?ID=discovery
+#EXTINF:-1 tvg-id="ngc" tvg-name="National Geographic" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/ngc.png",National Geographic
+https://zipzap.mark-clark.workers.dev/?ID=ngc
+#EXTINF:-1 tvg-id="ngc_wild" tvg-name="National Geographic Wild" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/ngc_wild.png",National Geographic Wild
+https://zipzap.mark-clark.workers.dev/?ID=ngc_wild
+#EXTINF:-1 tvg-id="viasat_history" tvg-name="Viasat History" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/viasat_history.png",Viasat History
+https://zipzap.mark-clark.workers.dev/?ID=viasat_history
+#EXTINF:-1 tvg-id="viasat_explorer" tvg-name="Viasat Explorer" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/viasat_explorer.png",Viasat Explorer
+https://zipzap.mark-clark.workers.dev/?ID=viasat_explorer
+#EXTINF:-1 tvg-id="viasat_nature" tvg-name="Viasat Nature" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/viasat_nature.png",Viasat Nature
+https://zipzap.mark-clark.workers.dev/?ID=viasat_nature
+#EXTINF:-1 tvg-id="rtl_living" tvg-name="RTL Living" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtl_living.png",RTL Living
+https://zipzap.mark-clark.workers.dev/?ID=rtl_living
+#EXTINF:-1 tvg-id="pink_kuvar" tvg-name="Pink Kuvar" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_kuvar.png",Pink Kuvar
+https://zipzap.mark-clark.workers.dev/?ID=pink_kuvar
+#EXTINF:-1 tvg-id="pink_pedia" tvg-name="Pink Pedia" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_pedia.png",Pink Pedia
+https://zipzap.mark-clark.workers.dev/?ID=pink_pedia
+#EXTINF:-1 tvg-id="pink_world" tvg-name="Pink World" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_world.png",Pink World
+https://zipzap.mark-clark.workers.dev/?ID=pink_world
+#EXTINF:-1 tvg-id="rts_zivot" tvg-name="RTS Život" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts_zivot.png",RTS Život
+https://zipzap.mark-clark.workers.dev/?ID=rts_zivot
+#EXTINF:-1 tvg-id="star" tvg-name="Star" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/star.png",Star
+https://zipzap.mark-clark.workers.dev/?ID=star
+#EXTINF:-1 tvg-id="star_movies" tvg-name="Star Movies" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/star_movies.png",Star Movies
+https://zipzap.mark-clark.workers.dev/?ID=star_movies
+#EXTINF:-1 tvg-id="star_crime" tvg-name="Star Crime" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/star_crime.png",Star Crime
+https://zipzap.mark-clark.workers.dev/?ID=star_crime
+#EXTINF:-1 tvg-id="star_life" tvg-name="Star Life" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/star_life.png",Star Life
+https://zipzap.mark-clark.workers.dev/?ID=star_life
+#EXTINF:-1 tvg-id="cinestar1" tvg-name="CineStar1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/cinestar1.png",CineStar1
+https://zipzap.mark-clark.workers.dev/?ID=cinestar1
+#EXTINF:-1 tvg-id="cinestar2" tvg-name="CineStar2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/cinestar2.png",CineStar2
+https://zipzap.mark-clark.workers.dev/?ID=cinestar2
+#EXTINF:-1 tvg-id="cinestar_action" tvg-name="CineStar Action" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/cinestar_action.png",CineStar Action
+https://zipzap.mark-clark.workers.dev/?ID=cinestar_action
+#EXTINF:-1 tvg-id="cinestar_fantasy" tvg-name="CineStar Fantasy" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/cinestar_fantasy.png",CineStar Fantasy
+https://zipzap.mark-clark.workers.dev/?ID=cinestar_fantasy
+#EXTINF:-1 tvg-id="pink_action" tvg-name="Pink Action" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_action.png",Pink Action
+https://zipzap.mark-clark.workers.dev/?ID=pink_action
+#EXTINF:-1 tvg-id="pink_thriller" tvg-name="Pink Thriller" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_thriller.png",Pink Thriller
+https://zipzap.mark-clark.workers.dev/?ID=pink_thriller
+#EXTINF:-1 tvg-id="pink_movies" tvg-name="Pink Movies" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_movies.png",Pink Movies
+https://zipzap.mark-clark.workers.dev/?ID=pink_movies
+#EXTINF:-1 tvg-id="pink_premium" tvg-name="Pink Premium" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_premium.png",Pink Premium
+https://zipzap.mark-clark.workers.dev/?ID=pink_premium
+#EXTINF:-1 tvg-id="pink_horror" tvg-name="Pink Horror" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_horror.png",Pink Horror
+https://zipzap.mark-clark.workers.dev/?ID=pink_horror
+#EXTINF:-1 tvg-id="pink_scifi_fantasy" tvg-name="Pink SciFi & Fantasy" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_scifi_fantasy.png",Pink SciFi & Fantasy
+https://zipzap.mark-clark.workers.dev/?ID=pink_scifi_fantasy
+#EXTINF:-1 tvg-id="pink_crime_mistery" tvg-name="Pink Crime & Mistery" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_crime_mistery.png",Pink Crime & Mistery
+https://zipzap.mark-clark.workers.dev/?ID=pink_crime_mistery
+#EXTINF:-1 tvg-id="pink_world_cinema" tvg-name="Pink World Cinema" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_world_cinema.png",Pink World Cinema
+https://zipzap.mark-clark.workers.dev/?ID=pink_world_cinema
+#EXTINF:-1 tvg-id="pink_classic" tvg-name="Pink Classic" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_classic.png",Pink Classic
+https://zipzap.mark-clark.workers.dev/?ID=pink_classic
+#EXTINF:-1 tvg-id="pink_western" tvg-name="Pink Western" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_western.png",Pink Western
+https://zipzap.mark-clark.workers.dev/?ID=pink_western
+#EXTINF:-1 tvg-id="pink_romance" tvg-name="Pink Romance" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_romance.png",Pink Romance
+https://zipzap.mark-clark.workers.dev/?ID=pink_romance
+#EXTINF:-1 tvg-id="pink_comedy" tvg-name="Pink Comedy" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_comedy.png",Pink Comedy
+https://zipzap.mark-clark.workers.dev/?ID=pink_comedy
+#EXTINF:-1 tvg-id="pink_soap" tvg-name="Pink Soap" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_soap.png",Pink Soap
+https://zipzap.mark-clark.workers.dev/?ID=pink_soap
+#EXTINF:-1 tvg-id="pink_serije" tvg-name="Pink Serije" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_serije.png",Pink Serije
+https://zipzap.mark-clark.workers.dev/?ID=pink_serije
+#EXTINF:-1 tvg-id="pink_film" tvg-name="Pink Film" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_film.png",Pink Film
+https://zipzap.mark-clark.workers.dev/?ID=pink_film
+#EXTINF:-1 tvg-id="klasik" tvg-name="Klasik" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/klasik.png",Klasik
+https://zipzap.mark-clark.workers.dev/?ID=klasik
+#EXTINF:-1 tvg-id="rtl_crime" tvg-name="RTL Crime" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtl_crime.png",RTL Crime
+https://zipzap.mark-clark.workers.dev/?ID=rtl_crime
+#EXTINF:-1 tvg-id="sehara_online" tvg-name="Sehara Online" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/sehara_online.png",Sehara Online
+https://zipzap.mark-clark.workers.dev/?ID=sehara_online
+#EXTINF:-1 tvg-id="rts_drama" tvg-name="RTS Drama" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts_drama.png",RTS Drama
+https://zipzap.mark-clark.workers.dev/?ID=rts_drama
+#EXTINF:-1 tvg-id="esp1_sr" tvg-name="Eurosport 1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/esp1_sr.png",Eurosport 1
+https://zipzap.mark-clark.workers.dev/?ID=esp1_sr
+#EXTINF:-1 tvg-id="esp2_sr" tvg-name="Eurosport 2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/esp2_sr.png",Eurosport 2
+https://zipzap.mark-clark.workers.dev/?ID=esp2_sr
+#EXTINF:-1 tvg-id="arena1pr_sr" tvg-name="Arena 1 Premium" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena1pr_sr.png",Arena 1 Premium
+https://zipzap.mark-clark.workers.dev/?ID=arena1pr_sr
+#EXTINF:-1 tvg-id="arena2pr_sr" tvg-name="Arena 2 Premium" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena2pr_sr.png",Arena 2 Premium
+https://zipzap.mark-clark.workers.dev/?ID=arena2pr_sr
+#EXTINF:-1 tvg-id="arena3pr_sr" tvg-name="Arena 3 Premium" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena3pr_sr.png",Arena 3 Premium
+https://zipzap.mark-clark.workers.dev/?ID=arena3pr_sr
+#EXTINF:-1 tvg-id="arena1_bh" tvg-name="Arena Sport 1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena1_bh.png",Arena Sport 1
+https://zipzap.mark-clark.workers.dev/?ID=arena1_bh
+#EXTINF:-1 tvg-id="arena2_bh" tvg-name="Arena Sport 2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena2_bh.png",Arena Sport 2
+https://zipzap.mark-clark.workers.dev/?ID=arena2_bh
+#EXTINF:-1 tvg-id="arena3_bh" tvg-name="Arena Sport 3" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena3_bh.png",Arena Sport 3
+https://zipzap.mark-clark.workers.dev/?ID=arena3_bh
+#EXTINF:-1 tvg-id="arena4_sr" tvg-name="Arena Sport 4" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena4_sr.png",Arena Sport 4
+https://zipzap.mark-clark.workers.dev/?ID=arena4_sr
+#EXTINF:-1 tvg-id="arena5_sr" tvg-name="Arena Sport 5" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena5_sr.png",Arena Sport 5
+https://zipzap.mark-clark.workers.dev/?ID=arena5_sr
+#EXTINF:-1 tvg-id="arena6_sr" tvg-name="Arena Sport 6" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena6_sr.png",Arena Sport 6
+https://zipzap.mark-clark.workers.dev/?ID=arena6_sr
+#EXTINF:-1 tvg-id="arena1_hr" tvg-name="Arena Sport 1 Hr" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena1_hr.png",Arena Sport 1 Hr
+https://zipzap.mark-clark.workers.dev/?ID=arena1_hr
+#EXTINF:-1 tvg-id="arena3_hr" tvg-name="Arena Sport 3 Hr" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena3_hr.png",Arena Sport 3 Hr
+https://zipzap.mark-clark.workers.dev/?ID=arena3_hr
+#EXTINF:-1 tvg-id="arena1x2" tvg-name="Arena Sport 1x2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena1x2.png",Arena Sport 1x2
+https://zipzap.mark-clark.workers.dev/?ID=arena1x2
+#EXTINF:-1 tvg-id="arena_esport" tvg-name="Arena eSport" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena_esport.png",Arena eSport
+https://zipzap.mark-clark.workers.dev/?ID=arena_esport
+#EXTINF:-1 tvg-id="arena_fight" tvg-name="Arena Fight" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/arena_fight.png",Arena Fight
+https://zipzap.mark-clark.workers.dev/?ID=arena_fight
+#EXTINF:-1 tvg-id="fight_network" tvg-name="Fight Network" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/fight_network.png",Fight Network
+https://zipzap.mark-clark.workers.dev/?ID=fight_network
+#EXTINF:-1 tvg-id="city_tv" tvg-name="City TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/city_tv.png",City TV
+https://zipzap.mark-clark.workers.dev/?ID=city_tv
+#EXTINF:-1 tvg-id="sportska" tvg-name="Sportska" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/sportska.png",Sportska
+https://zipzap.mark-clark.workers.dev/?ID=sportska
+#EXTINF:-1 tvg-id="sos" tvg-name="SOS Kanal" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/sos.png",SOS Kanal
+https://zipzap.mark-clark.workers.dev/?ID=sos
+#EXTINF:-1 tvg-id="happy" tvg-name="Happy" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/happy.png",Happy
+https://zipzap.mark-clark.workers.dev/?ID=happy
+#EXTINF:-1 tvg-id="pink_reality" tvg-name="Pink Reality" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_reality.png",Pink Reality
+https://zipzap.mark-clark.workers.dev/?ID=pink_reality
+#EXTINF:-1 tvg-id="lol" tvg-name="LOL" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/lol.png",LOL
+https://zipzap.mark-clark.workers.dev/?ID=lol
+#EXTINF:-1 tvg-id="haha" tvg-name="HAHA" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/haha.png",HAHA
+https://zipzap.mark-clark.workers.dev/?ID=haha
+#EXTINF:-1 tvg-id="pink_zabava" tvg-name="Pink Zabava" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_zabava.png",Pink Zabava
+https://zipzap.mark-clark.workers.dev/?ID=pink_zabava
+#EXTINF:-1 tvg-id="pink_show" tvg-name="Pink Show" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_show.png",Pink Show
+https://zipzap.mark-clark.workers.dev/?ID=pink_show
+#EXTINF:-1 tvg-id="pink_style" tvg-name="Pink Style" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_style.png",Pink Style
+https://zipzap.mark-clark.workers.dev/?ID=pink_style
+#EXTINF:-1 tvg-id="pink_fashion" tvg-name="Pink Fashion" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_fashion.png",Pink Fashion
+https://zipzap.mark-clark.workers.dev/?ID=pink_fashion
+#EXTINF:-1 tvg-id="hayat_folk_box" tvg-name="Hayat Folk Box" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hayat_folk_box.png",Hayat Folk Box
+https://zipzap.mark-clark.workers.dev/?ID=hayat_folk_box
+#EXTINF:-1 tvg-id="hayat_music_box" tvg-name="Hayat Music Box" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/hayat_music_box.png",Hayat Music Box
+https://zipzap.mark-clark.workers.dev/?ID=hayat_music_box
+#EXTINF:-1 tvg-id="sevdah_tv" tvg-name="Sevdah TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/sevdah_tv.png",Sevdah TV
+https://zipzap.mark-clark.workers.dev/?ID=sevdah_tv
+#EXTINF:-1 tvg-id="bn_music" tvg-name="BN Music" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bn_music.png",BN Music
+https://zipzap.mark-clark.workers.dev/?ID=bn_music
+#EXTINF:-1 tvg-id="izvorna" tvg-name="Izvorna TV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/izvorna.png",Izvorna TV
+https://zipzap.mark-clark.workers.dev/?ID=izvorna
+#EXTINF:-1 tvg-id="glas_drine" tvg-name="Glas Drine" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/glas_drine.png",Glas Drine
+https://zipzap.mark-clark.workers.dev/?ID=glas_drine
+#EXTINF:-1 tvg-id="sehara" tvg-name="Sehara" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/sehara.png",Sehara
+https://zipzap.mark-clark.workers.dev/?ID=sehara
+#EXTINF:-1 tvg-id="prva_hercegovacka" tvg-name="Prva Hercegovačka" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/prva_hercegovacka.png",Prva Hercegovačka
+https://zipzap.mark-clark.workers.dev/?ID=prva_hercegovacka
+#EXTINF:-1 tvg-id="otv_etno" tvg-name="Valentino Etno" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/otv_etno.png",Valentino Etno
+https://zipzap.mark-clark.workers.dev/?ID=otv_etno
+#EXTINF:-1 tvg-id="jugoton" tvg-name="Jugoton" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/jugoton.png",Jugoton
+https://zipzap.mark-clark.workers.dev/?ID=jugoton
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/cmc.png",CMC
+https://zipzap.mark-clark.workers.dev/?ID=cmc
+#EXTINF:-1 tvg-id="muzzik_moba" tvg-name="Moba" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bmc.png",Moba
+https://zipzap.mark-clark.workers.dev/?ID=muzzik_moba
+#EXTINF:-1 tvg-id="bmc_etno" tvg-name="BMC Etno" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bmc_etno.png",BMC Etno
+https://zipzap.mark-clark.workers.dev/?ID=bmc_etno
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/mtv.png",MTV
+https://zipzap.mark-clark.workers.dev/?ID=mtv
+#EXTINF:-1 tvg-id="mtv_80s" tvg-name="MTV 80s" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/mtv_80s.png",MTV 80s
+https://zipzap.mark-clark.workers.dev/?ID=mtv_80s
+#EXTINF:-1 tvg-id="bravo_music" tvg-name="Bravo Music" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/bravo_music.png",Bravo Music
+https://zipzap.mark-clark.workers.dev/?ID=bravo_music
+#EXTINF:-1 tvg-id="pink_hits1" tvg-name="Pink Hits" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_hits1.png",Pink Hits
+https://zipzap.mark-clark.workers.dev/?ID=pink_hits1
+#EXTINF:-1 tvg-id="pink_hits2" tvg-name="Pink Hits 2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_hits2.png",Pink Hits 2
+https://zipzap.mark-clark.workers.dev/?ID=pink_hits2
+#EXTINF:-1 tvg-id="pink_music1" tvg-name="Pink Music" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_music1.png",Pink Music
+https://zipzap.mark-clark.workers.dev/?ID=pink_music1
+#EXTINF:-1 tvg-id="pink_music2" tvg-name="Pink Music 2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_music2.png",Pink Music 2
+https://zipzap.mark-clark.workers.dev/?ID=pink_music2
+#EXTINF:-1 tvg-id="pink_n_roll" tvg-name="Pink N Roll" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_n_roll.png",Pink N Roll
+https://zipzap.mark-clark.workers.dev/?ID=pink_n_roll
+#EXTINF:-1 tvg-id="pink_koncert" tvg-name="Pink Koncert" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_koncert.png",Pink Koncert
+https://zipzap.mark-clark.workers.dev/?ID=pink_koncert
+#EXTINF:-1 tvg-id="city_play" tvg-name="City play" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/city_play.png",City play
+https://zipzap.mark-clark.workers.dev/?ID=city_play
+#EXTINF:-1 tvg-id="banovina" tvg-name="Banovina" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/dm_sat.png",Banovina
+https://zipzap.mark-clark.workers.dev/?ID=banovina
+#EXTINF:-1 tvg-id="pink_folk" tvg-name="Pink Folk" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_folk.png",Pink Folk
+https://zipzap.mark-clark.workers.dev/?ID=pink_folk
+#EXTINF:-1 tvg-id="pink_folk2" tvg-name="Pink Folk 2" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pink_folk2.png",Pink Folk 2
+https://zipzap.mark-clark.workers.dev/?ID=pink_folk2
+#EXTINF:-1 tvg-id="kcn1" tvg-name="KCN1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/kcn1.png",KCN1
+https://zipzap.mark-clark.workers.dev/?ID=kcn1
+#EXTINF:-1 tvg-id="kcn2" tvg-name="K::CN 2 Music" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/kcn2.png",K::CN 2 Music
+https://zipzap.mark-clark.workers.dev/?ID=kcn2
+#EXTINF:-1 tvg-id="kcn3" tvg-name="K::CN 3 Svet+" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/kcn3.png",K::CN 3 Svet+
+https://zipzap.mark-clark.workers.dev/?ID=kcn3
+#EXTINF:-1 tvg-id="rts_muzika" tvg-name="RTS Muzika" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts_muzika.png",RTS Muzika
+https://zipzap.mark-clark.workers.dev/?ID=rts_muzika
+#EXTINF:-1 tvg-id="rts_klasika" tvg-name="RTS Klasika" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts_klasika.png",RTS Klasika
+https://zipzap.mark-clark.workers.dev/?ID=rts_klasika
+#EXTINF:-1 tvg-id="rts_kolo" tvg-name="RTS Kolo" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rts_kolo.png",RTS Kolo
+https://zipzap.mark-clark.workers.dev/?ID=rts_kolo
+#EXTINF:-1 tvg-id="rtv_puls" tvg-name="RTV Puls" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtv_puls.png",RTV Puls
+https://zipzap.mark-clark.workers.dev/?ID=rtv_puls
+#EXTINF:-1 tvg-id="krajina" tvg-name="Krajina" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/krajina.png",Krajina
+https://zipzap.mark-clark.workers.dev/?ID=krajina
+#EXTINF:-1 tvg-id="kristal" tvg-name="Kristal" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/kristal.png",Kristal
+https://zipzap.mark-clark.workers.dev/?ID=kristal
+#EXTINF:-1 tvg-id="yu_planet" tvg-name="Yu Planet" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/yu_planet.png",Yu Planet
+https://zipzap.mark-clark.workers.dev/?ID=yu_planet
+#EXTINF:-1 tvg-id="rtl_de" tvg-name="RTL De" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtl_de.png",RTL De
+https://zipzap.mark-clark.workers.dev/?ID=rtl_de
+#EXTINF:-1 tvg-id="rtl2_de" tvg-name="RTL2 De" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtl2_de.png",RTL2 De
+https://zipzap.mark-clark.workers.dev/?ID=rtl2_de
+#EXTINF:-1 tvg-id="rtl_nitro_de" tvg-name="RTL Nitro" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/rtl_nitro_de.png",RTL Nitro
+https://zipzap.mark-clark.workers.dev/?ID=rtl_nitro_de
+#EXTINF:-1 tvg-id="vox" tvg-name="VOX" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/vox.png",VOX
+https://zipzap.mark-clark.workers.dev/?ID=vox
+#EXTINF:-1 tvg-id="sat1" tvg-name="SAT.1" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/sat1.png",SAT.1
+https://zipzap.mark-clark.workers.dev/?ID=sat1
+#EXTINF:-1 tvg-id="pro_sieben" tvg-name="Pro Sieben" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/pro_sieben.png",Pro Sieben
+https://zipzap.mark-clark.workers.dev/?ID=pro_sieben
+#EXTINF:-1 tvg-id="kabel1_de" tvg-name="Kabel Eins" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/kabel1_de.png",Kabel Eins
+https://zipzap.mark-clark.workers.dev/?ID=kabel1_de
+#EXTINF:-1 tvg-id="kabel1_docu_de" tvg-name="Kabel Eins Doku" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/kabel1_docu_de.png",Kabel Eins Doku
+https://zipzap.mark-clark.workers.dev/?ID=kabel1_docu_de
+#EXTINF:-1 tvg-id="france24_en" tvg-name="France24 (In English)" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/france24_en.png",France24 (In English)
+https://zipzap.mark-clark.workers.dev/?ID=france24_en
+#EXTINF:-1 tvg-id="france24_fr" tvg-name="France24 (In English)" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/france24_fr.png",France24 (In English)
+https://zipzap.mark-clark.workers.dev/?ID=france24_fr
+#EXTINF:-1 tvg-id="radio_zenit" tvg-name="Radio Zenit" group-title="ZipZAP" tvg-logo="https://zipzaptv.com/cache/biglogos/b92-locked.png",Radio Zenit
+https://zipzap.mark-clark.workers.dev/?ID=radio_zenit

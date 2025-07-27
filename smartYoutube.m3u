@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:0,CNN TÜRK ᴴᴰ
+#EXTINF:-1 tvg-id="1" tvg-name="CNN TÜRKᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk",CNN TÜRKᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCV6zcRug6Hqp1UX_FdyUeBg
-#EXTINF:0,HABERTURK ᴴᴰ
+#EXTINF:-1 tvg-id="2" tvg-name="HABERTURKᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/sgLqVc2LbmFb-r8OMY3Ib5o1MYjFSdY3KHSPYQ6EIjBNYYkgtljQbxEkeQG2zNeNPloQGCJ5",HABERTURKᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCn6dNfiRE_Xunu7iMyvD7AA
-#EXTINF:0,HALK TVᴴᴰ
+#EXTINF:-1 tvg-id="3" tvg-name="HALK TVᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/u8lIyigiEuofBWzGVRVJ_WOOdXp6cPTt9-02Kp8lG4XgMHXx0ZB_lwNINw4sLJaAk6ej35ueeA",HALK TVᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCf_ResXZzE-o18zACUEmyvQ
-#EXTINF:0,tv100 ᴴᴰ
+#EXTINF:-1 tvg-id="4" tvg-name="tv100ᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/mEP9UzwxoTmVpxHQI4yYvXbpjWtZdfg8aA8XZVriwzoQVXze7nFe3TyfsEvglZIOCQh3LfPRH_8",tv100ᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCndsdUW_oPLqpQJY9J8oIRg
-#EXTINF:0,NTV ᴴᴰ
+#EXTINF:-1 tvg-id="5" tvg-name="NTVᴴᴰ" group-title="YouTUBE" tvg-logo="https://play-lh.googleusercontent.com/GLgkGs-aJqsuPTnB3h2gRyFDIzMXCDRyZ6bP7MBqeDJgHu6WuuAH0RWGX7ztajpZGw",NTVᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UC9TDTjbOjFB9jADmPhSAPsw
-#EXTINF:0,AHABER ᴴᴰ
+#EXTINF:-1 tvg-id="6" tvg-name="AHABERᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE",AHABERᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCKQhfw-lzz0uKnE1fY1PsAA
-#EXTINF:0,SÖZCÜ TVᴴᴰ
+#EXTINF:-1 tvg-id="7" tvg-name="SÖZCÜ TVᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ",SÖZCÜ TVᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCOulx_rep5O4i9y6AyDqVvw
-#EXTINF:0,TRT HABER ᴴᴰ
+#EXTINF:-1 tvg-id="8" tvg-name="TRT HABERᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ",TRT HABERᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCBgTP2LOFVPmq15W-RH-WXA
-#EXTINF:0,KORKU FİLM 7/24 ᴴᴰ
+#EXTINF:-1 tvg-id="9" tvg-name="KORKU FİLM 7/24 ᴴᴰ" group-title="YouTUBE" tvg-logo="https://play-lh.googleusercontent.com/drvb-7TuBh6ao-QHKBgPsY21EFCUQnuxyhQNRqvM3--24XxPWuv1oWOiOYF4TrDgi9aSQsIQWRvVY_K8EIs",KORKU FİLM 7/24 ᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCsbpTjR1Vh0L3gvBg9d0Dbg
-#EXTINF:0,YEŞİLÇAM ARZU FİLM 7/24 ᴴᴰ
+#EXTINF:-1 tvg-id="10" tvg-name="YEŞİLÇAM ARZU FİLM 7/24 ᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE",YEŞİLÇAM ARZU FİLM 7/24 ᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCUALYmnkEmx8vlxIbpr2gmw
-#EXTINF:0,KEMAL SUNAL GÜLŞAH FİLM 7/24 ᴴᴰ
+#EXTINF:-1 tvg-id="11" tvg-name="KEMAL SUNAL GÜLŞAH FİLM 7/24 ᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI",KEMAL SUNAL GÜLŞAH FİLM 7/24 ᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCHumSHRFQ8skiHTY75sxytQ
-#EXTINF:0,KEMAL SUNAL FİLM ATÖLYESİ 7/24 ᴴᴰ
+#EXTINF:-1 tvg-id="12" tvg-name="KEMAL SUNAL FİLM ATÖLYESİ 7/24 ᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/eo1G71sIJ33AXARLNLLEHHSE4AerA6jtpCo2En3vT8rQUWuWdKmsN47wXDqtdOI6ypqs4bKtuA",KEMAL SUNAL FİLM ATÖLYESİ 7/24 ᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCulg-mlXf314L1pemPqCVng
-#EXTINF:0,KEMAL SUNAL FİLM 7/24 ᴴᴰ
+#EXTINF:-1 tvg-id="13" tvg-name="KEMAL SUNAL FİLM 7/24 ᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/hV70JQmnvtFit__Mj0T9-qYISToW0FmjyXfdOGbYMTdLMp2s3VOJieb2h1aWFrSD75dEMt9LduY",KEMAL SUNAL FİLM 7/24 ᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCoIUysIrvGxoDw-GkdOGjRw
-#EXTINF:0,Haber Global TVᴴᴰ
+#EXTINF:-1 tvg-id="14" tvg-name="Haber Global TVᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/jSWgyqCsy8hQ9sIgccNhbUht_koPL8VYqZkirL7GLrj8QwOYBhkIkVEjq9OTEAM3mOlSIymwZw",Haber Global TVᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCtc-a9ZUIg0_5HpsPxEO7Qg
-#EXTINF:0,ASPOR ᴴᴰ
+#EXTINF:-1 tvg-id="15" tvg-name="ASPORᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8",ASPORᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCJElRTCNEmLemgirqvsW63Q
-#EXTINF:0,DIYANET TVᴴᴰ
+#EXTINF:-1 tvg-id="16" tvg-name="DIYANET TVᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kg1PXkb5IvOoU7c2haUmoWIPg20lNNFb-jk8qkh4PQ3_4",DIYANET TVᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UC3d1AdmvAP6Jq16-WpD086g
-#EXTINF:0,Bloomberg HT ᴴᴰ
+#EXTINF:-1 tvg-id="17" tvg-name="Bloomberg HTᴴᴰ" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYr_pJ26fMpoQPKgJEACBiddx9WO4CV4akUE8yBzhrHMg",Bloomberg HTᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCApLxl6oYQafxvykuoC2uxQ
 #EXTINF:0,TGRT Haber ᴴᴰ
 https://youtube.mark-clark.workers.dev/?ID=UCzgrZ-CndOoylh2_e72nSBQ

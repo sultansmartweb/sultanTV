@@ -1,256 +1,313 @@
 #EXTM3U
-#EXTINF:0,Jednotka
+#EXTINF:-1 tvg-id="5" tvg-name="Jednotka" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/stv1_20210422_01.png",Jednotka
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=stv1
-#EXTINF:0,Dvojka
+#EXTINF:-1 tvg-id="6" tvg-name="Dvojka" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/stv2_20210422_01.png",Dvojka
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=stv2
-#EXTINF:0,Trojka
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=stv3
-#EXTINF:0,Markíza	
+#EXTINF:-1 tvg-id="1" tvg-name="Markíza" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/markiza_20240712.png",Markíza
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=markiza
-#EXTINF:0,Markíza Krimi	
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-http://localhost/Touch.php?ID=markizakrimi
-#EXTINF:0,Doma	
+#EXTINF:-1 tvg-id="1270" tvg-name="Doma" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/doma_20240716.png",Doma
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=doma
-#EXTINF:0,Dajto
+#EXTINF:-1 tvg-id="1271" tvg-name="Dajto" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/dajto_20240712.png",Dajto
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=dajto
-#EXTINF:0,JOJ
+#EXTINF:-1 tvg-id="109785" tvg-name="Markíza Krimi" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/markizakrimi_20240712.png",Markíza Krimi
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=markizakrimi
+#EXTINF:-1 tvg-id="12" tvg-name="Markíza Klasik" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/markizaklasik_20240712.png",Markíza Klasik
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=markizaklasik
+#EXTINF:-1 tvg-id="4" tvg-name="JOJ" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/joj_20210422_01.png",JOJ
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=joj
-#EXTINF:0,JOJ Plus
+#EXTINF:-1 tvg-id="1272" tvg-name="JOJ Plus" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/jojplus_20210422_01.png",JOJ Plus
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=jojplus
-#EXTINF:0,WAU
+#EXTINF:-1 tvg-id="1273" tvg-name="WAU" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/wau_20220817.png",WAU
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=wau
-#EXTINF:0,JOJKO
+#EXTINF:-1 tvg-id="15" tvg-name="Spark" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/spark_20241024.png",Spark
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=jojko
-#EXTINF:0,TA3
+https://touchtv.mark-clark.workers.dev/?ID=spark
+#EXTINF:-1 tvg-id="9" tvg-name="TV Lux" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/tvlux.png",TV Lux
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=ta3
-#EXTINF:0,ČT1
+https://touchtv.mark-clark.workers.dev/?ID=tvlux
+#EXTINF:-1 tvg-id="124" tvg-name="ČT1" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/ct1_20210422_01.png",ČT1
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=ct1
-#EXTINF:0,ČT2
+#EXTINF:-1 tvg-id="125" tvg-name="ČT2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/ct2_20210422_01.png",ČT2
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=ct2
-#EXTINF:0,ČT3
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=ct3
-#EXTINF:0,ČT24
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=ct24
-#EXTINF:0,ČT:D/Art
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=ctd
-#EXTINF:0,ČT sport
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=ctsport
-#EXTINF:0,Prima Plus
+#EXTINF:-1 tvg-id="23358" tvg-name="Prima SK" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/primask.png",Prima SK
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=primaplus
-#EXTINF:0,CNN Prima News
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=cnnprimanews
-#EXTINF:0,Barrandov Krimi		
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=barrandovkrimi
-#EXTINF:0,Nova International
+#EXTINF:-1 tvg-id="23675" tvg-name="Nova International" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/novaint.png",Nova International
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=novaint
-#EXTINF:0,TV Barrandov
+#EXTINF:-1 tvg-id="1279" tvg-name="TV Barrandov" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/barrandov.png",TV Barrandov
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=barrandov
-#EXTINF:0,Kino Barrandov
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=kinobarrandov
-#EXTINF:0,Prima Cool
+#EXTINF:-1 tvg-id="1276" tvg-name="Prima Cool SK" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/primacoolsk.png",Prima Cool SK
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=primacool
-#EXTINF:0,Prima Love
+#EXTINF:-1 tvg-id="1277" tvg-name="Prima Love SK" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/primalovesk.png",Prima Love SK
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=primalove
-#EXTINF:0,Prima Zoom
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=primazoom
-#EXTINF:0,Prima Krimi
+#EXTINF:-1 tvg-id="37530" tvg-name="Prima Krimi" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/primakrimi_20210422_01.png",Prima Krimi
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=primakrimi
-#EXTINF:0,Prima MAX
+#EXTINF:-1 tvg-id="65639" tvg-name="Barrandov Krimi" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/barrandovkrimi.png",Barrandov Krimi
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=primamax
-#EXTINF:0,Arena Sport 1
+https://touchtv.mark-clark.workers.dev/?ID=barrandovkrimi
+#EXTINF:-1 tvg-id="10" tvg-name="TV Noe" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/tvnoe.png",TV Noe
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=arenasport1
-#EXTINF:0,Arena Sport 2
+https://touchtv.mark-clark.workers.dev/?ID=tvnoe
+#EXTINF:-1 tvg-id="51845" tvg-name="24" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/stv24_2022060301.png",24
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=arenasport2
-#EXTINF:0,Epic Drama
+https://touchtv.mark-clark.workers.dev/?ID=stv24
+#EXTINF:-1 tvg-id="37871" tvg-name="TA3" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/ta3_20220405.png",TA3
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=epicdrama
-#EXTINF:0,Viasat Explore
+https://touchtv.mark-clark.workers.dev/?ID=ta3
+#EXTINF:-1 tvg-id="119675" tvg-name="JOJ 24" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/joj24_20220929.png",JOJ 24
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=viasatexplorer
-#EXTINF:0,Viasat History
+https://touchtv.mark-clark.workers.dev/?ID=joj24
+#EXTINF:-1 tvg-id="37870" tvg-name="ČT24" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/ct24_20210422_01.png",ČT24
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=viasathistory
-#EXTINF:0,Viasat Nature
+https://touchtv.mark-clark.workers.dev/?ID=ct24
+#EXTINF:-1 tvg-id="65647" tvg-name="CNN Prima News" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/cnnprimanews.png",CNN Prima News
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=viasatnature
-#EXTINF:0,Nova Sport 1
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=novasport1
-#EXTINF:0,Nova Sport 2
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=novasport2
-#EXTINF:0,Sport 1
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=sport1
-#EXTINF:0,Sport 2
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=sport2
-#EXTINF:0,Joj Sport
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=jojsport
-#EXTINF:0,Joj Cinema
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=jojcinema
-#EXTINF:0,FilmBOX
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=filmbox
-#EXTINF:0,FilmBOX PREMIUM
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=filmboxpremium
-#EXTINF:0,FilmBOX EXRA	
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=filmboxextra
-#EXTINF:0,FilmBOX STARS	
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=filmboxstars
-#EXTINF:0,AMC
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=amc
-#EXTINF:0,Nat Geo Wild	
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=natgeowild
-#EXTINF:0,Rik TV
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=tvrik
-#EXTINF:0,Minimax
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=minimax
-#EXTINF:0,LaLa TV
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=lalatv
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=nickelodeon
-#EXTINF:0,Nick JR
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=nickjr
-#EXTINF:0,JimJam
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=jimjam
-#EXTINF:0,CS Film
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=csfilm
-#EXTINF:0,CS Film +
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=csfilm+
-#EXTINF:0,CS History
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=cshistory
-#EXTINF:0,CS Mystery
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=csmystery
-#EXTINF:0,Film Europe Channel
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=filmeurope
-#EXTINF:0,Film Europe +
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=filmeurope+
-#EXTINF:0,Travel XP
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=travelxp
-#EXTINF:0,Spektrum Home
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=spektrumhome
-#EXTINF:0,TV Paprika
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=tvpaprika
-#EXTINF:0,SPORTS 5
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=sport5
-#EXTINF:0,Šport
+https://touchtv.mark-clark.workers.dev/?ID=cnnprimanews
+#EXTINF:-1 tvg-id="96464" tvg-name="Šport" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/rtvssport.png",Šport
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=rtvssport
-#EXTINF:0,Extreme Sports
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=extremesports
-#EXTINF:0,Auto Motor Sport
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=automotorsport
-#EXTINF:0,M4 Sport
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=m4sport
-#EXTINF:0,Eurosport 1
+#EXTINF:-1 tvg-id="65645" tvg-name="Eurosport 1" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/eurosport1.png",Eurosport 1
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=eurosport1
-#EXTINF:0,Eurosport 2
+#EXTINF:-1 tvg-id="65646" tvg-name="Eurosport 2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/eurosport2.png",Eurosport 2
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=eurosport2
-#EXTINF:0,TLC
+#EXTINF:-1 tvg-id="38023" tvg-name="Sport1" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/sport1.png",Sport1
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=tlc
-#EXTINF:0,Discovery
+https://touchtv.mark-clark.workers.dev/?ID=sport1
+#EXTINF:-1 tvg-id="38024" tvg-name="Sport2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/sport2.png",Sport2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=sport2
+#EXTINF:-1 tvg-id="65640" tvg-name="Nova Sport 1" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/novasport1_20210422_01.png",Nova Sport 1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=novasport1
+#EXTINF:-1 tvg-id="65644" tvg-name="Nova Sport 2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/novasport2_20210422_01.png",Nova Sport 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=novasport2
+#EXTINF:-1 tvg-id="53598" tvg-name="Arena Sport 1" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/arenasport1_20241024.png",Arena Sport 1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=arenasport1
+#EXTINF:-1 tvg-id="65668" tvg-name="Arena Sport 2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/arenasport2_20241024.png",Arena Sport 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=arenasport2
+#EXTINF:-1 tvg-id="92118" tvg-name="JOJ Šport" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/jojsport1.png",JOJ Šport
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojsport
+#EXTINF:-1 tvg-id="30" tvg-name="JOJ Šport 2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/jojsport2.png",JOJ Šport 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojsport2
+#EXTINF:-1 tvg-id="149480" tvg-name="Fight Box" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/fightbox.png",Fight Box
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=fightbox
+#EXTINF:-1 tvg-id="65649" tvg-name="Extreme Sports" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/extremesports.png",Extreme Sports
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=extremesports
+#EXTINF:-1 tvg-id="65654" tvg-name="Auto Motor Sport" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/automotorsport.png",Auto Motor Sport
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=automotorsport
+#EXTINF:-1 tvg-id="61328" tvg-name="JOJ Cinema" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/jojcinema_20210422_01.png",JOJ Cinema
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojcinema
+#EXTINF:-1 tvg-id="37868" tvg-name="Epic Drama" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/epicdrama.png",Epic Drama
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=epicdrama
+#EXTINF:-1 tvg-id="61795" tvg-name="Film+" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/filmplus.png",Film+
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmplus
+#EXTINF:-1 tvg-id="61792" tvg-name="AMC" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/amc.png",AMC
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=amc
+#EXTINF:-1 tvg-id="37528" tvg-name="Prima MAX" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/primamax_20210422_01.png",Prima MAX
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=primamax
+#EXTINF:-1 tvg-id="53410" tvg-name="Kino Barrandov" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/kinobarrandov_20250120.png",Kino Barrandov
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=kinobarrandov
+#EXTINF:-1 tvg-id="65554" tvg-name="CS Film/CS Horror" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/csfilm.png",CS Film/CS Horror
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=csfilm
+#EXTINF:-1 tvg-id="37869" tvg-name="FilmBox" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/filmbox_20210422_01.png",FilmBox
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmbox
+#EXTINF:-1 tvg-id="65574" tvg-name="FilmBox Stars" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/filmboxstars.png",FilmBox Stars
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmboxstars
+#EXTINF:-1 tvg-id="65565" tvg-name="FilmBox Premium" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/filmboxpremium.png",FilmBox Premium
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmboxpremium
+#EXTINF:-1 tvg-id="65566" tvg-name="FilmBox Extra" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/filmboxextra.png",FilmBox Extra
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmboxextra
+#EXTINF:-1 tvg-id="149479" tvg-name="FilmBox Arthouse" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/arthouse.png",FilmBox Arthouse
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=arthouse
+#EXTINF:-1 tvg-id="65656" tvg-name="Film Europe" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/filmeurope.png",Film Europe
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmeurope
+#EXTINF:-1 tvg-id="65657" tvg-name="Film Europe +" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/filmeuropeplus.png",Film Europe +
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=filmeuropeplus
+#EXTINF:-1 tvg-id="65549" tvg-name="Discovery" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/discovery.png",Discovery
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=discovery
-#EXTINF:0,Travel Channel
+#EXTINF:-1 tvg-id="106587" tvg-name="Investigation Discovery" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/discoveryid_20220425.png",Investigation Discovery
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=discoveryid
+#EXTINF:-1 tvg-id="7" tvg-name="BBC Earth" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/bbcearth.png",BBC Earth
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=bbcearth
+#EXTINF:-1 tvg-id="61793" tvg-name="NGC" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/ngc.png",NGC
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ngc
+#EXTINF:-1 tvg-id="49987" tvg-name="Viasat Explore" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/viasatexplorer_20210422_01.png",Viasat Explore
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=viasatexplorer
+#EXTINF:-1 tvg-id="146508" tvg-name="JOJ Svet" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/jojsvet_20230815.png",JOJ Svet
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojsvet
+#EXTINF:-1 tvg-id="49986" tvg-name="CS Mystery" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/csmystery.png",CS Mystery
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=csmystery
+#EXTINF:-1 tvg-id="19" tvg-name="Animal Planet" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/animalplanet.png",Animal Planet
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=animalplanet
+#EXTINF:-1 tvg-id="61794" tvg-name="Nat Geo Wild" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/natgeowild.png",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=natgeowild
+#EXTINF:-1 tvg-id="53448" tvg-name="Viasat Nature" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/viasatnature_20210422_01.png",Viasat Nature
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=viasatnature
+#EXTINF:-1 tvg-id="49985" tvg-name="Viasat History" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/viasathistory_20210422_01.png",Viasat History
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=viasathistory
+#EXTINF:-1 tvg-id="65578" tvg-name="CS History" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/cshistory.png",CS History
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=cshistory
+#EXTINF:-1 tvg-id="65575" tvg-name="Travel Channel" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/travelchannel.png",Travel Channel
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=travelchannel
-#EXTINF:0,Discovery DTX
+#EXTINF:-1 tvg-id="65659" tvg-name="Travelxp" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/travelxp.png",Travelxp
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=dtx
-#EXTINF:0,HGTV
+https://touchtv.mark-clark.workers.dev/?ID=travelxp
+#EXTINF:-1 tvg-id="65663" tvg-name="TLC" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/tlc.png",TLC
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=tlc
+#EXTINF:-1 tvg-id="65564" tvg-name="Spektrum Home" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/spektrumhome.png",Spektrum Home
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=spektrumhome
+#EXTINF:-1 tvg-id="65567" tvg-name="TV Paprika" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/tvpaprika_2022100601.png",TV Paprika
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=tvpaprika
+#EXTINF:-1 tvg-id="20" tvg-name="Food Network" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/foodnetwork.png",Food Network
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=foodnetwork
+#EXTINF:-1 tvg-id="97649" tvg-name="HGTV" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/hgtv.png",HGTV
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=hgtv
-#EXTINF:0,HBO
+#EXTINF:-1 tvg-id="65570" tvg-name="Fishing and Hunting" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/fishingandhunting.png",Fishing and Hunting
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=hbo
-#EXTINF:0,HBO 2
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=hbo2
-#EXTINF:0,HBO 3
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=hbo3
-#EXTINF:0,CINEMAX
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=cinemax
-#EXTINF:0,CINEMAX 2
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=cinemax2
-#EXTINF:0,M1
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=m1
-#EXTINF:0,M2
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=m2
-#EXTINF:0,M5
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=m5
-#EXTINF:0,DUNA TV
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=duna
-#EXTINF:0,DUNA WORLD
-#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
-https://touchtv.mark-clark.workers.dev/?ID=dunaworld
-#EXTINF:0,FASHION TV
+https://touchtv.mark-clark.workers.dev/?ID=fishingandhunting
+#EXTINF:-1 tvg-id="21" tvg-name="Fashion TV" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/fashiontv.png",Fashion TV
 #EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
 https://touchtv.mark-clark.workers.dev/?ID=fashiontv
+#EXTINF:-1 tvg-id="65556" tvg-name="Nick Jr." group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/nickjr.png",Nick Jr.
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=nickjr
+#EXTINF:-1 tvg-id="65553" tvg-name="Lala TV" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/lalatv.png",Lala TV
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=lalatv
+#EXTINF:-1 tvg-id="37872" tvg-name="Jojko" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/jojko_20210422_01.png",Jojko
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jojko
+#EXTINF:-1 tvg-id="73007" tvg-name="TV RiK" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/tvrik_20241024.png",TV RiK
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=tvrik
+#EXTINF:-1 tvg-id="1416" tvg-name="ČT:D/Art" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/ctd_20210422_01.png",ČT:D/Art
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ctd
+#EXTINF:-1 tvg-id="65551" tvg-name="Minimax" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/minimax.png",Minimax
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=minimax
+#EXTINF:-1 tvg-id="17" tvg-name="Nicktoons" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/nicktoons.png",Nicktoons
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=nicktoons
+#EXTINF:-1 tvg-id="65557" tvg-name="JimJam" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/jimjam.png",JimJam
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=jimjam
+#EXTINF:-1 tvg-id="65555" tvg-name="Nickelodeon" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/nickelodeon.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=nickelodeon
+#EXTINF:-1 tvg-id="18" tvg-name="Turbo TV" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/turbotv.png",Turbo TV
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=turbotv
+#EXTINF:-1 tvg-id="13" tvg-name="Senzi" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/senzi.png",Senzi
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=senzi
+#EXTINF:-1 tvg-id="14" tvg-name="Slager Original" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/slageroriginal.png",Slager Original
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=slageroriginal
+#EXTINF:-1 tvg-id="16" tvg-name="Retro Music" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/retro.png",Retro Music
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=retro
+#EXTINF:-1 tvg-id="11" tvg-name="Óčko" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/ocko.png",Óčko
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=ocko
+#EXTINF:-1 tvg-id="22" tvg-name="iConcerts" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/iconcerts.png",iConcerts
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=iconcerts
+#EXTINF:-1 tvg-id="23" tvg-name="C Music" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/cmusic.png",C Music
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=cmusic
+#EXTINF:-1 tvg-id="24" tvg-name="Classica" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/classica.png",Classica
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=classica
+#EXTINF:-1 tvg-id="100" tvg-name="M1" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/m1.png",M1
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=m1
+#EXTINF:-1 tvg-id="101" tvg-name="M2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/m2.png",M2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=m2
+#EXTINF:-1 tvg-id="102" tvg-name="M4" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/m4.png",M4
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=m4
+#EXTINF:-1 tvg-id="103" tvg-name="M4 SPORT" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/m4sport.png",M4 SPORT
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=m4sport
+#EXTINF:-1 tvg-id="104" tvg-name="DUNA TV" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/duna.png",DUNA TV
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=duna
+#EXTINF:-1 tvg-id="105" tvg-name="DUNA WORLD" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/dunaworld.png",DUNA WORLD
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=dunaworld
+#EXTINF:-1 tvg-id="106" tvg-name="HBO" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/hbo.png",HBO
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=hbo
+#EXTINF:-1 tvg-id="107" tvg-name="HBO 2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/hbo2.png",HBO 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=hbo2
+#EXTINF:-1 tvg-id="108" tvg-name="HBO 3" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/hbo3.png",HBO 3
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=hbo3
+#EXTINF:-1 tvg-id="109" tvg-name="CINEMAX" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/cinemax.png",CINEMAX
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=cinemax
+#EXTINF:-1 tvg-id="110" tvg-name="CINEMAX 2" group-title="TouchTV" tvg-logo="https://am.di-vision.sk/images/logo_old/cinemax2.png",CINEMAX 2
+#EXTVLCOPT:http-user-agent=touchTV/4.4.2 (ASUS_I005DA; Android 9; tr) ExoPlayerLib/2.17.1
+https://touchtv.mark-clark.workers.dev/?ID=cinemax2

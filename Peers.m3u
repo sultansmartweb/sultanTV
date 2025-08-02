@@ -1,0 +1,437 @@
+#EXTM3U
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2013/11/06/25842/25842280.png",Мир
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/mir/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/01/28/457820/457820020.png",Мир HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/mirhd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png",Первый канал
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png",Телеканал "Россия"
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/rossija/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2016/05/30/70554/70554232.png",Телекомпания НТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ntv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/02/16/89112/89112167.png",Петербург - 5 канал
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/5kanal/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300803.png",Телеканал "Россия - Культура"
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kultura/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/03/198504/198504724.png",Телеканал "Общественное телевидение России"
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/03/198504/198504724.png",Телеканал "Общественное телевидение России"
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/otvrus/126/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/14/102078/102078544.png",ТВ ЦЕНТР - Москва
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tvc/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/25/180618/180618038.png",РЕН-ТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/rentv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/27/107313/107313226.png",СТС
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sts/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/08/09/365874/365874531.png",Домашний
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/domashny/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/10/17/376563/376563573.png",ТВ-3
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv3/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/05/26/205643/205643194.png",ТНТ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tnt/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/01/26/115379/115379376.png",ОТС HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ots/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/07/06/260589/260589484.png",Че!
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/perec/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/08/101630/101630255.png",КРИК-ТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/krik_tv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/07/27/310632/310632473.png",Сибирь 24
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sibir_24/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2016/05/31/70617/70617628.png",Союз
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/soyuz/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/01/101141/101141610.png",49 КАНАЛ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/49kanal/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/01/101141/101141591.png",8 канал
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/14/102078/102078574.png",ТИВИКОМ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tivikom/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/21/179843/179843642.png",ТВК
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tvk_6/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/08/01/364828/364828731.png",Silk Way
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kazakh_tv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/04/16/124166/124166893.png",НТВ HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ntv_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/11/178769/178769979.png",ОРТРК-12 КАНАЛ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ortrk12/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/07/31/138060/138060849.png",Башкортостан 24
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/bashkortostan_24/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/02/04/190812/190812111.png",Кузбасс 1
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/gtrk_kuzbass/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/15/179004/179004102.png",Самотлор
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/samotlor/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/08/12/266150/266150619.png",РЕН-ТВ HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/07/27/310632/310632284.png",49 КАНАЛ HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/49kanal_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/01/28/457819/457819961.png",СТС HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sts_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/01/28/457819/457819974.png",Домашний HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/domashny_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/01/28/457820/457820006.png",ТВ-3 HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv3_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/01/28/457820/457820173.png",ОТР HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/otr_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/01/29/457947/457947803.png",ОТС Бердск
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ots_berdsk/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/07/07/360992/360992460.png",Детско-юношеский телеканал "Карусель"
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/karusel/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/12/13/330605/330605437.png",Солнце
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/solntse/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/04/19/409957/409957921.png",FamilyJam
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/familyjam/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/08/24/314103/314103212.png",Лёва
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/lyova/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/12/08/329875/329875219.png",Мультиландия
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/multilandiya/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/11/10/324486/324486645.png",В гостях у сказки
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/01/30/189903/189903012.png",Уникум
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/forkids/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/01/29/237257/237257833.png",TiJi
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tiji/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/06/01/304690/304690780.png",Gulli Girl
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/04/24/348704/348704780.png",МультСезон
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/cartoon_season/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/04/21/348019/348019994.png",Детское кино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/childrens_cinema/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/08/31/315218/315218623.png",DuckTV
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ducktv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/24/201337/201337425.png",СТС Kids HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/12/08/329875/329875180.png",СуперГерои
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/28/180764/180764548.png",Советские мультфильмы
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/06/06/162309/162309593.png",Капитан Фантастика
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/14/102078/102078331.png",Рыжий
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/red/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2015/09/02/54284/54284187.png",Мама
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/motherchi/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/02/07/151601/151601439.png",Сказки Зайки
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/01/101141/101141646.png",Ani
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ani/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/11/10/324486/324486691.png",Мультимузыка
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/02/07/151601/151601443.png",МУЛЬТ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/mult/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/07/12/422818/422818990.png",Cartoon classic
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/cartoon_classic/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/03/03/194538/194538978.png",СПАС
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/spas/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/04/101323/101323942.png",Travel Adventure
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/travad/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/20/106791/106791136.png",Наша Сибирь
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/09/29/318958/318958301.png",TERRA
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/terras/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/05/03/125820/125820972.png",Тайны Галактики
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/02/07/191156/191156341.png",Т24
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/24techno/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/02/17/192558/192558552.png",Радость моя
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/radost_moj/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342408/342408566.png",viju Nature HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342408/342408579.png",viju History HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/09/101694/101694435.png",Наука HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342409/342409070.png",viju Explore HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/01/101141/101141622.png",365 Дней HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/365_days/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/01/24/336288/336288941.png",Моя планета
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/02/12/116949/116949697.png",Da Vinci
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/08/06/265197/265197172.png",ВРЕМЯ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/time/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/20/106785/106785594.png",Живая планета
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/03/03/194538/194538787.png",КтоКуда
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/02/12/116949/116949744.png",Пёс и Ко
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/pyos_i_ko/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/05/26/205643/205643265.png",ЕГЭ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ege/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/03/06/403014/403014619.png",Театральный
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/theatrical/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/11/28/446565/446565419.png",АРТ ТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/art_tv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/11/21/383110/383110277.png",КИНОМАН
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/08/04/264931/264931255.png",red
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/set/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/06/341509/341509256.png",СТС love
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/04/19/409957/409957934.png",KinoJam 2
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kinojam/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/11/101829/101829273.png",Любимое кино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/07/06/260589/260589431.png",black
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/07/06/260589/260589457.png",sci-fi
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/08/04/365167/365167569.png",ТВ21
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv21/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/27/202012/202012160.png",Кинопремьера HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/premera/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184959.png",КиноХит HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184998.png",Родное кино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ntv_nashe_kino/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/05/13/302741/302741734.png",Мужское Кино HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/muzhskoe_kino_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184908.png",Киносвидание HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/10/24/439490/439490885.png",Saga TV
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/saga_tv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184830.png",Кинокомедия HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184942.png",КИНОСЕРИЯ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/05/17/414300/414300107.png",Кинокомедия
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/comedyfilm/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184847.png",Киномикс
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/06/103672/103672832.png",Индийское кино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/12/25/232755/232755465.png",Timeless DIZI Channel
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/01/10/114204/114204527.png",Дорама
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/dorama/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/12/03/146929/146929191.png",Советское кино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/12/03/146929/146929159.png",Классика Кино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184813.png",Filmbox Arthouse
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184802.png",FILMBOX
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/08/06/265197/265197200.png",Кинопоказ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kinopokaz/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/04/14/93551/93551064.png",Еврокино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/eurokino/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/20/106791/106791146.png",Настоящее страшное ТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/nstv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342408/342408521.png",viju TV1000 HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342408/342408553.png",viju TV1000 action HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342408/342408540.png",viju TV1000 русское кино HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184982.png",Наше новое кино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/30/103163/103163491.png",Иллюзион+
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/05/15/160802/160802314.png",Русский роман
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/10/04/436401/436401975.png",Русский иллюзион
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/20/106785/106785583.png",Дом кино
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/21/104703/104703522.png",Русский детектив
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/21/104703/104703505.png",Русский бестселлер
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/19/106678/106678896.png",Cinema HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ipark/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2016/09/12/77517/77517124.png",Дом кино Премиум
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/02/17/239730/239730041.png",Мосфильм. Золотая коллекция HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/04/18/300288/300288736.png",Star Family HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/04/18/300288/300288806.png",Bolt HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/07/12/422818/422818938.png",Plan B
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/plan_b/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/07/12/422818/422818951.png",VHS-ка HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/vhs_ka_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/07/12/422818/422818964.png",Romance channel
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/romance/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/07/12/422818/422818977.png",Suspense
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/suspense/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300790.png",Российский информационный канал "Россия-24"
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/vesti/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/03/06/119399/119399876.png",РБК
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/rbk/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2013/12/10/26568/26568709.png",Russia Today HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/russia_today_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/04/15/299911/299911004.png",Известия HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV",MatchFFTest
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/match_ff/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/02/16/117332/117332522.png",Мир 24
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/mir24/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/14/102078/102078243.png",Пятница
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/friday/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/04/101331/101331413.png",Звезда
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/zvezda/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/02/17/294161/294161279.png",Ювелирочка
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/yuvelirochka/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/05/26/205643/205643207.png",ЮТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/utv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/02/25/153105/153105912.png",Тайна
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tayna/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/10/23/377835/377835675.png",2x2
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/01/11/334580/334580839.png",Индия
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/01/12/235214/235214860.png",Глазами Туриста HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/04/101331/101331400.png",Живи
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/jv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/04/101324/101324076.png",Авто плюс
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/10/30/379238/379238470.png",Кухня
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/01/25/150618/150618614.png",Охота и рыбалка
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/hafi/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/08/09/167583/167583299.png",Усадьба
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/usadba/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2013/11/06/25844/25844246.png",Ностальгия
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/nostalgy/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/02/12/116949/116949719.png",Оружие
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/10/24/176143/176143320.png",Сарафан
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/02/12/116949/116949730.png",Телекафе
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/telekafe/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/10/04/436402/436402001.png",Психология
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/psych_21/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/10/101724/101724295.png",Охотник и рыболов
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ohotnik_i_rybolov/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/10/11/142765/142765617.png",Телепутешествия
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/teleputeshestviya/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/05/23/477501/477501362.png",Драйв
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/drive/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/04/14/93551/93551134.png",Авто 24
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/08/101630/101630289.png",ЛДПР.ТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ldpr_tv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/04/17/347361/347361837.png",8 канал Красноярский край
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ya1pm/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2016/05/25/70173/70173308.png",Комедия
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/komediya/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/01/23/336193/336193959.png",ТНТ4
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tnt4/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/01/20/236197/236197079.png",Продвижение
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/prodvizhenie/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/06/20/98245/98245674.png",ТНТ HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/05/26/205643/205643220.png",Диалоги о рыбалке
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/02/03/237983/237983654.png",Суббота!
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/super/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/07/26/137241/137241138.png",Поехали!
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/poehali/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/04/13/248437/248437926.png",Про Жизнь
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/pro_zhizn/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/05/30/355545/355545587.png",ОК!
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/ok/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2024/12/11/448799/448799296.png",Мы
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/mi/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/01/28/457819/457819987.png",Пятница HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/friday_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/10/31/279056/279056228.png",Муз ТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/muz_tvnew/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/04/105653/105653229.png",ТНТ Music
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tnt_music/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184711.png",RU.TV HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/rutv/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/03/27/197594/197594513.png",1HD Music Television
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/firstmuz/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/14/102078/102078687.png",Шансон ТВ
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/shanson/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2025/04/22/472551/472551439.png",МУЗЫКА LIVE
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/11/178770/178770118.png",Телеканал "Матч ТВ"
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sport/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/03/25/197391/197391255.png",Футбол
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/futbol/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/03/04/153654/153654010.png",Матч! Страна
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/10/12/276194/276194559.png",Старт
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/start/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/07/28/137579/137579782.png",Матч Премьер HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/nashfootballhd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/21/104703/104703539.png",Матч! Игра
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/09/06/270555/270555977.png",KHL
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/khl/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/08/101630/101630314.png",Матч! Боец
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/boets/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/09/199407/199407591.png",Футбол HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2016/01/25/62690/62690894.png",МАТЧ! Арена HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sport_1_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/04/10/123495/123495326.png",Матч! Футбол 1 HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/match_football1_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/04/10/123495/123495348.png",Матч! Футбол 2 HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/match_football2_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2018/04/10/123495/123495381.png",Матч! Футбол 3 HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/match_football3_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342409/342409331.png",viju+ Sport HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/11/178770/178770123.png",Матч ТВ HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/match_tv_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/04/18/300288/300288822.png",MMA-TV.COM
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2013/11/06/25843/25843682.png",Первый HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2013/11/06/25843/25843823.png",Россия HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184925.png",Киносемья HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/01/19/236119/236119426.png",Приключения HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/teleputeshestvija_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/09/29/318958/318958316.png",TERRA HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/terra_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/09/29/318958/318958258.png",КИНЕКО HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kineko_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/09/29/318958/318958287.png",САПФИР HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/sapfir_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2013/11/06/25843/25843964.png",Travel Adventure HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/travel_adventure_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/11/01/323331/323331976.png",FoodTime
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342409/342409344.png",viju+ Premiere
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342409/342409357.png",viju+ Megahit
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342409/342409370.png",viju+ Comedy
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342409/342409385.png",viju+ Serial
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/02/08/338132/338132673.png",КиноТВ HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/kino_tv_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/28/105184/105184751.png",DOCUBOX HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/06/11/162732/162732471.png",Наша Тема HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2019/03/28/156750/156750505.png",Fan HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/05/24/303899/303899547.png",Победа HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/06/29/307585/307585442.png",Brazzers TV Europe (18+)
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/06/29/307586/307586293.png",Playboy TV [18+]
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/playboy/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/03/27/197594/197594477.png",blue HUSTLER (18+)
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/03/27/197594/197594454.png",Erox (18+)
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/03/03/295592/295592828.png",Red Lips HD
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2022/06/29/307586/307586166.png",Playboy TV (18+)
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2021/12/07/284434/284434888.png",Babes TV
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2023/07/27/363921/363921872.png",Русская ночь
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8
+#EXTINF:-1 group-title="PeersTV" tvg-logo="https://peers.tv/data/illustrations/ills/2020/09/25/219757/219757572.png",Строительство нового ЛДС
+https://peers.mark-clark.workers.dev/?ID=http://api.peers.tv/timeshift/stroitelstvo_novogo_lds/16/playlist.m3u8

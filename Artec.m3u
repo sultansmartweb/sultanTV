@@ -1,0 +1,251 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UCHILETV" tvg-name="U CHILE TV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/UCHILETV.png",U CHILE TV
+https://artec.mark-clark.workers.dev/?ID=UCHILETV
+#EXTINF:-1 tvg-id="TVMAS" tvg-name="TV+" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TVMAS.png",TV+
+https://artec.mark-clark.workers.dev/?ID=TVMAS
+#EXTINF:-1 tvg-id="LARED" tvg-name="LA RED" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/LARED.png",LA RED
+https://artec.mark-clark.workers.dev/?ID=LARED
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TVN.png",TVN
+https://artec.mark-clark.workers.dev/?ID=TVN
+#EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/MEGA.png",MEGA
+https://artec.mark-clark.workers.dev/?ID=MEGA
+#EXTINF:-1 tvg-id="CHILEVISION" tvg-name="CHILEVISION" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CHILEVISION.png",CHILEVISION
+https://artec.mark-clark.workers.dev/?ID=CHILEVISION
+#EXTINF:-1 tvg-id="CANAL13" tvg-name="CANAL 13" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CANAL13.png",CANAL 13
+https://artec.mark-clark.workers.dev/?ID=CANAL13
+#EXTINF:-1 tvg-id="TVR" tvg-name="TVR" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TVR.png",TVR
+https://artec.mark-clark.workers.dev/?ID=TVR
+#EXTINF:-1 tvg-id="24HORAS" tvg-name="24 HORAS" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/24HORAS.png",24 HORAS
+https://artec.mark-clark.workers.dev/?ID=24HORAS
+#EXTINF:-1 tvg-id="CNNCHILE" tvg-name="CNN CHILE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CNNCHILE.png",CNN CHILE
+https://artec.mark-clark.workers.dev/?ID=CNNCHILE
+#EXTINF:-1 tvg-id="CNNESP" tvg-name="CNN ESPAÑOL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CNNESP.png",CNN ESPAÑOL
+https://artec.mark-clark.workers.dev/?ID=CNNESP
+#EXTINF:-1 tvg-id="CNNINTER" tvg-name="CNN INTERNACIONAL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CNNINTER.png",CNN INTERNACIONAL
+https://artec.mark-clark.workers.dev/?ID=CNNINTER
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURO CHANNEL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/EURONEWS.png",EURO CHANNEL
+https://artec.mark-clark.workers.dev/?ID=EURONEWS
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR CHANNEL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/STARCHANNEL.png",STAR CHANNEL
+https://artec.mark-clark.workers.dev/?ID=STARCHANNEL
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/WARNER.png",WARNER
+https://artec.mark-clark.workers.dev/?ID=WARNER
+#EXTINF:-1 tvg-id="AYE" tvg-name="A&E" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/AYE.png",A&E
+https://artec.mark-clark.workers.dev/?ID=AYE
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/SONY.png",SONY
+https://artec.mark-clark.workers.dev/?ID=SONY
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/AXN.png",AXN
+https://artec.mark-clark.workers.dev/?ID=AXN
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/AMC.png",AMC
+https://artec.mark-clark.workers.dev/?ID=AMC
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TNTSERIES.png",TNT SERIES
+https://artec.mark-clark.workers.dev/?ID=TNTSERIES
+#EXTINF:-1 tvg-id="A3SERIES" tvg-name="A3 SERIES" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/A3SERIES.png",A3 SERIES
+https://artec.mark-clark.workers.dev/?ID=A3SERIES
+#EXTINF:-1 tvg-id="A3CINE" tvg-name="A3CINE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/A3CINE.png",A3CINE
+https://artec.mark-clark.workers.dev/?ID=A3CINE
+#EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TNTNOVELAS.png",TNT NOVELAS
+https://artec.mark-clark.workers.dev/?ID=TNTNOVELAS
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/COMEDYCENTRAL.png",COMEDY CENTRAL
+https://artec.mark-clark.workers.dev/?ID=COMEDYCENTRAL
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/FX.png",FX
+https://artec.mark-clark.workers.dev/?ID=FX
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/USA.png",USA
+https://artec.mark-clark.workers.dev/?ID=USA
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/UNIVERSAL.png",UNIVERSAL
+https://artec.mark-clark.workers.dev/?ID=UNIVERSAL
+#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="ADULT SWIM" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ADULTSWIM.png",ADULT SWIM
+https://artec.mark-clark.workers.dev/?ID=ADULTSWIM
+#EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/HOLATV.png",HOLA TV
+https://artec.mark-clark.workers.dev/?ID=HOLATV
+#EXTINF:-1 tvg-id="E" tvg-name="E!" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/E.png",E!
+https://artec.mark-clark.workers.dev/?ID=E
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ID.png",ID
+https://artec.mark-clark.workers.dev/?ID=ID
+#EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/PASIONES.png",PASIONES
+https://artec.mark-clark.workers.dev/?ID=PASIONES
+#EXTINF:-1 tvg-id="CHDELASESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CHDELASESTRELLAS.png",CANAL DE LAS ESTRELLAS
+https://artec.mark-clark.workers.dev/?ID=CHDELASESTRELLAS
+#EXTINF:-1 tvg-id="AZCORAZON" tvg-name="AZ CORAZON" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/AZCORAZON.png",AZ CORAZON
+https://artec.mark-clark.workers.dev/?ID=AZCORAZON
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/LIFETIME.png",LIFETIME
+https://artec.mark-clark.workers.dev/?ID=LIFETIME
+#EXTINF:-1 tvg-id="DISCOVERYHYH" tvg-name="DISCOVERY H&H" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISCOVERYHYH.png",DISCOVERY H&H
+https://artec.mark-clark.workers.dev/?ID=DISCOVERYHYH
+#EXTINF:-1 tvg-id="MASCHIC" tvg-name="MAS CHIC" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/MASCHIC.png",MAS CHIC
+https://artec.mark-clark.workers.dev/?ID=MASCHIC
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TELEMUNDO.png",TELEMUNDO
+https://artec.mark-clark.workers.dev/?ID=TELEMUNDO
+#EXTINF:-1 tvg-id="ELGOURMET" tvg-name="EL GOURMET" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ELGOURMET.png",EL GOURMET
+https://artec.mark-clark.workers.dev/?ID=ELGOURMET
+#EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="FOOD NETWORK" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/FOODNETWORK.png",FOOD NETWORK
+https://artec.mark-clark.workers.dev/?ID=FOODNETWORK
+#EXTINF:-1 tvg-id="MTVHITS" tvg-name="MTVHITS" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/MTVHITS.png",MTVHITS
+https://artec.mark-clark.workers.dev/?ID=MTVHITS
+#EXTINF:-1 tvg-id="MTV80s" tvg-name="MTV 80s" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/MTV80s.png",MTV 80s
+https://artec.mark-clark.workers.dev/?ID=MTV80s
+#EXTINF:-1 tvg-id="MTV00s" tvg-name="MTV 00s" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/MTV00s.png",MTV 00s
+https://artec.mark-clark.workers.dev/?ID=MTV00s
+#EXTINF:-1 tvg-id="MTVLIVE" tvg-name="MTV LIVE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/MTVLIVE.png",MTV LIVE
+https://artec.mark-clark.workers.dev/?ID=MTVLIVE
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/MTV.png",MTV
+https://artec.mark-clark.workers.dev/?ID=MTV
+#EXTINF:-1 tvg-id="CLUBMTV" tvg-name="CLUB MTV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CLUBMTV.png",CLUB MTV
+https://artec.mark-clark.workers.dev/?ID=CLUBMTV
+#EXTINF:-1 tvg-id="NICKMUSIC" tvg-name="NICKMUSIC" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/NICKMUSIC.png",NICKMUSIC
+https://artec.mark-clark.workers.dev/?ID=NICKMUSIC
+#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/HTV.png",HTV
+https://artec.mark-clark.workers.dev/?ID=HTV
+#EXTINF:-1 tvg-id="AZCLIC" tvg-name="AZ CLIC" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/AZCLIC.png",AZ CLIC
+https://artec.mark-clark.workers.dev/?ID=AZCLIC
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CARTOONNETWORK.png",CARTOON NETWORK
+https://artec.mark-clark.workers.dev/?ID=CARTOONNETWORK
+#EXTINF:-1 tvg-id="NICK" tvg-name="NICK" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/NICK.png",NICK
+https://artec.mark-clark.workers.dev/?ID=NICK
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/NICKJR.png",NICK JR
+https://artec.mark-clark.workers.dev/?ID=NICKJR
+#EXTINF:-1 tvg-id="TEENNICK" tvg-name="TEENNICK" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TEENNICK.png",TEENNICK
+https://artec.mark-clark.workers.dev/?ID=TEENNICK
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISNEYCHANNEL.png",DISNEY CHANNEL
+https://artec.mark-clark.workers.dev/?ID=DISNEYCHANNEL
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISNEYJUNIOR.png",DISNEY JUNIOR
+https://artec.mark-clark.workers.dev/?ID=DISNEYJUNIOR
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ZOOMOO.png",ZOOMOO
+https://artec.mark-clark.workers.dev/?ID=ZOOMOO
+#EXTINF:-1 tvg-id="CLAN" tvg-name="CLAN" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CLAN.png",CLAN
+https://artec.mark-clark.workers.dev/?ID=CLAN
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISCOVERYKIDS.png",DISCOVERY KIDS
+https://artec.mark-clark.workers.dev/?ID=DISCOVERYKIDS
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CARTOONITO.png",CARTOONITO
+https://artec.mark-clark.workers.dev/?ID=CARTOONITO
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/BABYTV.png",BABYTV
+https://artec.mark-clark.workers.dev/?ID=BABYTV
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TOONCAST.png",TOONCAST
+https://artec.mark-clark.workers.dev/?ID=TOONCAST
+#EXTINF:-1 tvg-id="PAKAPAKA" tvg-name="PAKAPAKA" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/PAKAPAKA.png",PAKAPAKA
+https://artec.mark-clark.workers.dev/?ID=PAKAPAKA
+#EXTINF:-1 tvg-id="GRACIATV" tvg-name="GRACIA TV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/GRACIATV.png",GRACIA TV
+https://artec.mark-clark.workers.dev/?ID=GRACIATV
+#EXTINF:-1 tvg-id="CANALENCUENTRO" tvg-name="CANAL ENCUENTRO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CANALENCUENTRO.png",CANAL ENCUENTRO
+https://artec.mark-clark.workers.dev/?ID=CANALENCUENTRO
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/EWTN.png",EWTN
+https://artec.mark-clark.workers.dev/?ID=EWTN
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TNT.png",TNT
+https://artec.mark-clark.workers.dev/?ID=TNT
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TCM.png",TCM
+https://artec.mark-clark.workers.dev/?ID=TCM
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINECANAL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CINECANAL.png",CINECANAL
+https://artec.mark-clark.workers.dev/?ID=CINECANAL
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/STUDIOUNIVERSAL.png",STUDIO UNIVERSAL
+https://artec.mark-clark.workers.dev/?ID=STUDIOUNIVERSAL
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CINEMAX.png",CINEMAX
+https://artec.mark-clark.workers.dev/?ID=CINEMAX
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/PARAMOUNT.png",PARAMOUNT
+https://artec.mark-clark.workers.dev/?ID=PARAMOUNT
+#EXTINF:-1 tvg-id="DHE" tvg-name="DHE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DHE.png",DHE
+https://artec.mark-clark.workers.dev/?ID=DHE
+#EXTINF:-1 tvg-id="AZCINEMA" tvg-name="AZ CINEMA" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/AZCINEMA.png",AZ CINEMA
+https://artec.mark-clark.workers.dev/?ID=AZCINEMA
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/SPACE.png",SPACE
+https://artec.mark-clark.workers.dev/?ID=SPACE
+#EXTINF:-1 tvg-id="CINEAR" tvg-name="CINEAR" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CINEAR.png",CINEAR
+https://artec.mark-clark.workers.dev/?ID=CINEAR
+#EXTINF:-1 tvg-id="STARTVE" tvg-name="STAR TVE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/STARTVE.png",STAR TVE
+https://artec.mark-clark.workers.dev/?ID=STARTVE
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/HBO.png",HBO
+https://artec.mark-clark.workers.dev/?ID=HBO
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ESPN.png",ESPN
+https://artec.mark-clark.workers.dev/?ID=ESPN
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ESPN2.png",ESPN 2
+https://artec.mark-clark.workers.dev/?ID=ESPN2
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ESPN3.png",ESPN 3
+https://artec.mark-clark.workers.dev/?ID=ESPN3
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ESPN4.png",ESPN 4
+https://artec.mark-clark.workers.dev/?ID=ESPN4
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN 5" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ESPN5.png",ESPN 5
+https://artec.mark-clark.workers.dev/?ID=ESPN5
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN 6" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ESPN6.png",ESPN 6
+https://artec.mark-clark.workers.dev/?ID=ESPN6
+#EXTINF:-1 tvg-id="ESPN7" tvg-name="ESPN 7" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ESPN7.png",ESPN 7
+https://artec.mark-clark.workers.dev/?ID=ESPN7
+#EXTINF:-1 tvg-id="ESPNP" tvg-name="ESPN PREMIUM" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ESPNP.png",ESPN PREMIUM
+https://artec.mark-clark.workers.dev/?ID=ESPNP
+#EXTINF:-1 tvg-id="TNTSPORTS2" tvg-name="TNT SPORTS 2" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TNTSPORTS2.png",TNT SPORTS 2
+https://artec.mark-clark.workers.dev/?ID=TNTSPORTS2
+#EXTINF:-1 tvg-id="TNTSPORTS3" tvg-name="TNT SPORTS 3" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TNTSPORTS3.png",TNT SPORTS 3
+https://artec.mark-clark.workers.dev/?ID=TNTSPORTS3
+#EXTINF:-1 tvg-id="TNTSPORTSHD" tvg-name="TNT SPORTS HD" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TNTSPORTSHD.png",TNT SPORTS HD
+https://artec.mark-clark.workers.dev/?ID=TNTSPORTSHD
+#EXTINF:-1 tvg-id="AMERICASPORTS" tvg-name="AMERICA SPORTS" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/AMERICASPORTS.png",AMERICA SPORTS
+https://artec.mark-clark.workers.dev/?ID=AMERICASPORTS
+#EXTINF:-1 tvg-id="TELETRAK" tvg-name="TELETRAK" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TELETRAK.png",TELETRAK
+https://artec.mark-clark.workers.dev/?ID=TELETRAK
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATIONAL GEOGRAPHIC" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/NATGEO.png",NATIONAL GEOGRAPHIC
+https://artec.mark-clark.workers.dev/?ID=NATGEO
+#EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="DISCOVERY THEATER" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISCOVERYTHEATER.png",DISCOVERY THEATER
+https://artec.mark-clark.workers.dev/?ID=DISCOVERYTHEATER
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERY CHANNEL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISCOVERYCHANNEL.png",DISCOVERY CHANNEL
+https://artec.mark-clark.workers.dev/?ID=DISCOVERYCHANNEL
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/ANIMALPLANET.png",ANIMAL PLANET
+https://artec.mark-clark.workers.dev/?ID=ANIMALPLANET
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="DISCOVERY WORLD" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISCOVERYWORLD.png",DISCOVERY WORLD
+https://artec.mark-clark.workers.dev/?ID=DISCOVERYWORLD
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISCOVERYTURBO.png",DISCOVERY TURBO
+https://artec.mark-clark.workers.dev/?ID=DISCOVERYTURBO
+#EXTINF:-1 tvg-id="DISCOVERYTLC" tvg-name="DISCOVERY TLC" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISCOVERYTLC.png",DISCOVERY TLC
+https://artec.mark-clark.workers.dev/?ID=DISCOVERYTLC
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY SCIENCE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/DISCOVERYSCIENCE.png",DISCOVERY SCIENCE
+https://artec.mark-clark.workers.dev/?ID=DISCOVERYSCIENCE
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/HGTV.png",HGTV
+https://artec.mark-clark.workers.dev/?ID=HGTV
+#EXTINF:-1 tvg-id="LOVENATURE" tvg-name="TRAVEL XP" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/LOVENATURE.png",TRAVEL XP
+https://artec.mark-clark.workers.dev/?ID=LOVENATURE
+#EXTINF:-1 tvg-id="AZMUNDO" tvg-name="AZ MUNDO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/AZMUNDO.png",AZ MUNDO
+https://artec.mark-clark.workers.dev/?ID=AZMUNDO
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/HISTORY.png",HISTORY
+https://artec.mark-clark.workers.dev/?ID=HISTORY
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY 2" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/HISTORY2.png",HISTORY 2
+https://artec.mark-clark.workers.dev/?ID=HISTORY2
+#EXTINF:-1 tvg-id="FILMSANDARTS" tvg-name="FILMS AND ARTS" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/FILMSANDARTS.png",FILMS AND ARTS
+https://artec.mark-clark.workers.dev/?ID=FILMSANDARTS
+#EXTINF:-1 tvg-id="EUROPAEUROPA" tvg-name="EUROPA EUROPA" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/EUROPAEUROPA.png",EUROPA EUROPA
+https://artec.mark-clark.workers.dev/?ID=EUROPAEUROPA
+#EXTINF:-1 tvg-id="TELEFE" tvg-name="TELEFE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TELEFE.png",TELEFE
+https://artec.mark-clark.workers.dev/?ID=TELEFE
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TVE.png",TVE
+https://artec.mark-clark.workers.dev/?ID=TVE
+#EXTINF:-1 tvg-id="TR3CE" tvg-name="TR3CE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TR3CE.png",TR3CE
+https://artec.mark-clark.workers.dev/?ID=TR3CE
+#EXTINF:-1 tvg-id="SENALCOLOMBIA" tvg-name="SENAL COLOMBIA" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/SENALCOLOMBIA.png",SENAL COLOMBIA
+https://artec.mark-clark.workers.dev/?ID=SENALCOLOMBIA
+#EXTINF:-1 tvg-id="CANAL1" tvg-name="CANAL 1" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CANAL1.png",CANAL 1
+https://artec.mark-clark.workers.dev/?ID=CANAL1
+#EXTINF:-1 tvg-id="CANALTRO" tvg-name="CANALTRO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CANALTRO.png",CANALTRO
+https://artec.mark-clark.workers.dev/?ID=CANALTRO
+#EXTINF:-1 tvg-id="CITYTV" tvg-name="CITYTV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CITYTV.png",CITYTV
+https://artec.mark-clark.workers.dev/?ID=CITYTV
+#EXTINF:-1 tvg-id="TELEANTIOQUIA" tvg-name="TELEANTIOQUIA" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TELEANTIOQUIA.png",TELEANTIOQUIA
+https://artec.mark-clark.workers.dev/?ID=TELEANTIOQUIA
+#EXTINF:-1 tvg-id="TELECAFE" tvg-name="TELECAFE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TELECAFE.png",TELECAFE
+https://artec.mark-clark.workers.dev/?ID=TELECAFE
+#EXTINF:-1 tvg-id="TELECARIBE" tvg-name="TELECARIBE" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TELECARIBE.png",TELECARIBE
+https://artec.mark-clark.workers.dev/?ID=TELECARIBE
+#EXTINF:-1 tvg-id="TELEPACIFICO" tvg-name="TELEPACIFICO" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TELEPACIFICO.png",TELEPACIFICO
+https://artec.mark-clark.workers.dev/?ID=TELEPACIFICO
+#EXTINF:-1 tvg-id="TRACESPORTSTARS" tvg-name="TRACE SPORT STARS" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TRACESPORTSTARS.png",TRACE SPORT STARS
+https://artec.mark-clark.workers.dev/?ID=TRACESPORTSTARS
+#EXTINF:-1 tvg-id="TECTV" tvg-name="TEC TV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TECTV.png",TEC TV
+https://artec.mark-clark.workers.dev/?ID=TECTV
+#EXTINF:-1 tvg-id="TELESUR" tvg-name="TELESUR" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/TELESUR.png",TELESUR
+https://artec.mark-clark.workers.dev/?ID=TELESUR
+#EXTINF:-1 tvg-id="CANALRURAL" tvg-name="CANAL RURAL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CANALRURAL.png",CANAL RURAL
+https://artec.mark-clark.workers.dev/?ID=CANALRURAL
+#EXTINF:-1 tvg-id="GALICIATV" tvg-name="GALICIA TV" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/GALICIATV.png",GALICIA TV
+https://artec.mark-clark.workers.dev/?ID=GALICIATV
+#EXTINF:-1 tvg-id="BOLIVISION" tvg-name="CANAL 10" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/BOLIVISION.png",CANAL 10
+https://artec.mark-clark.workers.dev/?ID=BOLIVISION
+#EXTINF:-1 tvg-id="CANALCAPITAL" tvg-name="CANAL CAPITAL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CANALCAPITAL.png",CANAL CAPITAL
+https://artec.mark-clark.workers.dev/?ID=CANALCAPITAL
+#EXTINF:-1 tvg-id="MARIAVISION" tvg-name="MARIA VISIÓN" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/MARIAVISION.png",MARIA VISIÓN
+https://artec.mark-clark.workers.dev/?ID=MARIAVISION
+#EXTINF:-1 tvg-id="CANALINSTITUCIONAL" tvg-name="CANAL INSTITUCIONAL" group-title="ArtecTV" tvg-logo="https://artec.moderntv.eu/cache/biglogos/CANALINSTITUCIONAL.png",CANAL INSTITUCIONAL
+https://artec.mark-clark.workers.dev/?ID=CANALINSTITUCIONAL

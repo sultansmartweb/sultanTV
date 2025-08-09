@@ -1,0 +1,625 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3315" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1/(315).png" group-title="LamroTV",Первый канал
+https://lamro.mark-clark.workers.dev/?ID=3315
+#EXTINF:-1 tvg-id="3278" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/153/1.1" group-title="LamroTV",Первый HD
+https://lamro.mark-clark.workers.dev/?ID=3278
+#EXTINF:-1 tvg-id="3138" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/543/1.1" group-title="LamroTV",Грозный ТВ
+https://lamro.mark-clark.workers.dev/?ID=3138
+#EXTINF:-1 tvg-id="3247" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/538/1.1" group-title="LamroTV",Магас ТВ
+https://lamro.mark-clark.workers.dev/?ID=3247
+#EXTINF:-1 tvg-id="3241" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1076/1076.jpeg" group-title="LamroTV",Коран HD
+https://lamro.mark-clark.workers.dev/?ID=3241
+#EXTINF:-1 tvg-id="4928" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/592/592.jpeg" group-title="LamroTV",Мекка HD
+https://lamro.mark-clark.workers.dev/?ID=4928
+#EXTINF:-1 tvg-id="4895" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/593/593.jpeg" group-title="LamroTV",Медина HD
+https://lamro.mark-clark.workers.dev/?ID=4895
+#EXTINF:-1 tvg-id="5139" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1077/1077.jpeg" group-title="LamroTV",Коран Full HD
+https://lamro.mark-clark.workers.dev/?ID=5139
+#EXTINF:-1 tvg-id="4655" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/596/596.jpeg" group-title="LamroTV",ВайнахМульт HD
+https://lamro.mark-clark.workers.dev/?ID=4655
+#EXTINF:-1 tvg-id="4957" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1027/1027.jpeg" group-title="LamroTV",Учим Коран
+https://lamro.mark-clark.workers.dev/?ID=4957
+#EXTINF:-1 tvg-id="4193" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/591/591.jpeg" group-title="LamroTV",Ненан Мотт!
+https://lamro.mark-clark.workers.dev/?ID=4193
+#EXTINF:-1 tvg-id="4873" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/594/594.jpeg" group-title="LamroTV",Коран
+https://lamro.mark-clark.workers.dev/?ID=4873
+#EXTINF:-1 tvg-id="4886" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/598/598.jpeg" group-title="LamroTV",Грозный Online
+https://lamro.mark-clark.workers.dev/?ID=4886
+#EXTINF:-1 tvg-id="4947" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/616/616.jpeg" group-title="LamroTV",Аргун Online
+https://lamro.mark-clark.workers.dev/?ID=4947
+#EXTINF:-1 tvg-id="5241" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1082/1082.jpeg" group-title="LamroTV",ИЛЛИ
+https://lamro.mark-clark.workers.dev/?ID=5241
+#EXTINF:-1 tvg-id="3151" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/154/1.1" group-title="LamroTV",Россия 1 HD
+https://lamro.mark-clark.workers.dev/?ID=3151
+#EXTINF:-1 tvg-id="3234" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/64/1.1" group-title="LamroTV",РТР Планета
+https://lamro.mark-clark.workers.dev/?ID=3234
+#EXTINF:-1 tvg-id="3194" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/7/1.1" group-title="LamroTV",Россия К
+https://lamro.mark-clark.workers.dev/?ID=3194
+#EXTINF:-1 tvg-id="5223" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1069/1.1" group-title="LamroTV",ТНТ HD
+https://lamro.mark-clark.workers.dev/?ID=5223
+#EXTINF:-1 tvg-id="4997" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/702/1.1" group-title="LamroTV",СТС HD
+https://lamro.mark-clark.workers.dev/?ID=4997
+#EXTINF:-1 tvg-id="3141" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/2/2.jpeg" group-title="LamroTV",НТВ
+https://lamro.mark-clark.workers.dev/?ID=3141
+#EXTINF:-1 tvg-id="3314" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/387/387.jpeg" group-title="LamroTV",НТВ HD
+https://lamro.mark-clark.workers.dev/?ID=3314
+#EXTINF:-1 tvg-id="5093" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/843/1.1" group-title="LamroTV",НТВ Хит
+https://lamro.mark-clark.workers.dev/?ID=5093
+#EXTINF:-1 tvg-id="3343" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/478/1.1" group-title="LamroTV",НТВ Мир
+https://lamro.mark-clark.workers.dev/?ID=3343
+#EXTINF:-1 tvg-id="4934" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/609/1.1" group-title="LamroTV",НТВ Стиль
+https://lamro.mark-clark.workers.dev/?ID=4934
+#EXTINF:-1 tvg-id="4933" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/608/1.1" group-title="LamroTV",НТВ Право
+https://lamro.mark-clark.workers.dev/?ID=4933
+#EXTINF:-1 tvg-id="4930" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/589/1.1" group-title="LamroTV",НТВ Сериал HD
+https://lamro.mark-clark.workers.dev/?ID=4930
+#EXTINF:-1 tvg-id="3221" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/17/1.1" group-title="LamroTV",Че
+https://lamro.mark-clark.workers.dev/?ID=3221
+#EXTINF:-1 tvg-id="3197" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/13/1.1" group-title="LamroTV",ТВЦ HD
+https://lamro.mark-clark.workers.dev/?ID=3197
+#EXTINF:-1 tvg-id="4861" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/504/1.1" group-title="LamroTV",RTVI
+https://lamro.mark-clark.workers.dev/?ID=4861
+#EXTINF:-1 tvg-id="3248" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/56/1.1" group-title="LamroTV",Ю ТВ
+https://lamro.mark-clark.workers.dev/?ID=3248
+#EXTINF:-1 tvg-id="5016" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/712/1.1" group-title="LamroTV",Перец
+https://lamro.mark-clark.workers.dev/?ID=5016
+#EXTINF:-1 tvg-id="5230" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1041/1.1" group-title="LamroTV",Большая Азия HD
+https://lamro.mark-clark.workers.dev/?ID=5230
+#EXTINF:-1 tvg-id="3291" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/215/2.2" group-title="LamroTV",СТС Love
+https://lamro.mark-clark.workers.dev/?ID=3291
+#EXTINF:-1 tvg-id="3289" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/11/1.1" group-title="LamroTV",5 Канал
+https://lamro.mark-clark.workers.dev/?ID=3289
+#EXTINF:-1 tvg-id="4998" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/903/1.1" group-title="LamroTV",ТВ3 HD
+https://lamro.mark-clark.workers.dev/?ID=4998
+#EXTINF:-1 tvg-id="4743" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/33/1.1" group-title="LamroTV",Рен ТВ HD
+https://lamro.mark-clark.workers.dev/?ID=4743
+#EXTINF:-1 tvg-id="4976" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/327/1.1" group-title="LamroTV",Мир HD
+https://lamro.mark-clark.workers.dev/?ID=4976
+#EXTINF:-1 tvg-id="3202" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/74/1.1" group-title="LamroTV",Звезда HD
+https://lamro.mark-clark.workers.dev/?ID=3202
+#EXTINF:-1 tvg-id="4126" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/296/1.1" group-title="LamroTV",Оружие
+https://lamro.mark-clark.workers.dev/?ID=4126
+#EXTINF:-1 tvg-id="5100" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/906/1.1" group-title="LamroTV",Арсенал
+https://lamro.mark-clark.workers.dev/?ID=5100
+#EXTINF:-1 tvg-id="3299" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/55/1.1" group-title="LamroTV",Пятница HD
+https://lamro.mark-clark.workers.dev/?ID=3299
+#EXTINF:-1 tvg-id="3189" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/231/1.1" group-title="LamroTV",Сарафан
+https://lamro.mark-clark.workers.dev/?ID=3189
+#EXTINF:-1 tvg-id="5106" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/817/1.1" group-title="LamroTV",Домашний HD
+https://lamro.mark-clark.workers.dev/?ID=5106
+#EXTINF:-1 tvg-id="4121" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/210/1.1" group-title="LamroTV",Русский Экстрим HD
+https://lamro.mark-clark.workers.dev/?ID=4121
+#EXTINF:-1 tvg-id="4879" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/524/1.1" group-title="LamroTV",AlJazeera
+https://lamro.mark-clark.workers.dev/?ID=4879
+#EXTINF:-1 tvg-id="4583" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/217/1.1" group-title="LamroTV",Russia Today HD
+https://lamro.mark-clark.workers.dev/?ID=4583
+#EXTINF:-1 tvg-id="4943" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/614/1.1" group-title="LamroTV",Кавказ 24
+https://lamro.mark-clark.workers.dev/?ID=4943
+#EXTINF:-1 tvg-id="3190" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/8/1.1" group-title="LamroTV",Россия 24
+https://lamro.mark-clark.workers.dev/?ID=3190
+#EXTINF:-1 tvg-id="3196" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/32/1.1" group-title="LamroTV",РБК HD
+https://lamro.mark-clark.workers.dev/?ID=3196
+#EXTINF:-1 tvg-id="4978" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/677/1.1" group-title="LamroTV",Известия HD
+https://lamro.mark-clark.workers.dev/?ID=4978
+#EXTINF:-1 tvg-id="4852" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/498/1.1" group-title="LamroTV",Москва 24
+https://lamro.mark-clark.workers.dev/?ID=4852
+#EXTINF:-1 tvg-id="4977" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/529/1.1" group-title="LamroTV",360 Новости
+https://lamro.mark-clark.workers.dev/?ID=4977
+#EXTINF:-1 tvg-id="3211" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/252/1.1" group-title="LamroTV",Драйв
+https://lamro.mark-clark.workers.dev/?ID=3211
+#EXTINF:-1 tvg-id="3721" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/226/1.1" group-title="LamroTV",Авто 24
+https://lamro.mark-clark.workers.dev/?ID=3721
+#EXTINF:-1 tvg-id="3205" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/89/1.1" group-title="LamroTV",Авто Плюс
+https://lamro.mark-clark.workers.dev/?ID=3205
+#EXTINF:-1 tvg-id="5091" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/914/1.1" group-title="LamroTV",Мужской HD
+https://lamro.mark-clark.workers.dev/?ID=5091
+#EXTINF:-1 tvg-id="5065" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/787/1.1" group-title="LamroTV",Fashion TV HD
+https://lamro.mark-clark.workers.dev/?ID=5065
+#EXTINF:-1 tvg-id="3798" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/170/1.1" group-title="LamroTV",МИР 24
+https://lamro.mark-clark.workers.dev/?ID=3798
+#EXTINF:-1 tvg-id="4867" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/600/600.jpeg" group-title="LamroTV",Salsabil ТВ
+https://lamro.mark-clark.workers.dev/?ID=4867
+#EXTINF:-1 tvg-id="4958" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/644/1.1" group-title="LamroTV",Savage Crossfit
+https://lamro.mark-clark.workers.dev/?ID=4958
+#EXTINF:-1 tvg-id="4870" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/599/599.jpeg" group-title="LamroTV",Г1алг1ай ТВ
+https://lamro.mark-clark.workers.dev/?ID=4870
+#EXTINF:-1 tvg-id="3144" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/413/1.1" group-title="LamroTV",Дагестан
+https://lamro.mark-clark.workers.dev/?ID=3144
+#EXTINF:-1 tvg-id="4999" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/588/1.1" group-title="LamroTV",Atv
+https://lamro.mark-clark.workers.dev/?ID=4999
+#EXTINF:-1 tvg-id="4940" tvg-logo="http://smarty.lamro.tv/tvmiddleware/media/img/logo/default/huzurtv.png" group-title="LamroTV",Huzur TV
+https://lamro.mark-clark.workers.dev/?ID=4940
+#EXTINF:-1 tvg-id="4855" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/509/1.1" group-title="LamroTV",IMEDI TV
+https://lamro.mark-clark.workers.dev/?ID=4855
+#EXTINF:-1 tvg-id="4936" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/507/1.1" group-title="LamroTV",GE 1 TV
+https://lamro.mark-clark.workers.dev/?ID=4936
+#EXTINF:-1 tvg-id="4648" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/45/1.1" group-title="LamroTV",2+2
+https://lamro.mark-clark.workers.dev/?ID=4648
+#EXTINF:-1 tvg-id="4995" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/705/1.1" group-title="LamroTV",Mtavari TV
+https://lamro.mark-clark.workers.dev/?ID=4995
+#EXTINF:-1 tvg-id="3193" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/88/1.1" group-title="LamroTV",Матч! Боец
+https://lamro.mark-clark.workers.dev/?ID=3193
+#EXTINF:-1 tvg-id="5002" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/88/1.1" group-title="LamroTV",Матч! Боец HD
+https://lamro.mark-clark.workers.dev/?ID=5002
+#EXTINF:-1 tvg-id="4935" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1071/1071.jpeg" group-title="LamroTV",UFC 24/7
+https://lamro.mark-clark.workers.dev/?ID=4935
+#EXTINF:-1 tvg-id="5071" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/831/1.1" group-title="LamroTV",MMA-TV
+https://lamro.mark-clark.workers.dev/?ID=5071
+#EXTINF:-1 tvg-id="4996" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/706/1.1" group-title="LamroTV",UDAR HD
+https://lamro.mark-clark.workers.dev/?ID=4996
+#EXTINF:-1 tvg-id="3337" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/349/1.1" group-title="LamroTV",Бокс ТВ
+https://lamro.mark-clark.workers.dev/?ID=3337
+#EXTINF:-1 tvg-id="4955" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/10/1.1" group-title="LamroTV",Матч! ТВ HD
+https://lamro.mark-clark.workers.dev/?ID=4955
+#EXTINF:-1 tvg-id="3739" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/141/1.1" group-title="LamroTV",Матч! Арена HD
+https://lamro.mark-clark.workers.dev/?ID=3739
+#EXTINF:-1 tvg-id="4878" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1072/1072.jpeg" group-title="LamroTV",viju+ Sport HD
+https://lamro.mark-clark.workers.dev/?ID=4878
+#EXTINF:-1 tvg-id="4657" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/144/1.1" group-title="LamroTV",Матч! Игра HD
+https://lamro.mark-clark.workers.dev/?ID=4657
+#EXTINF:-1 tvg-id="3737" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/275/1.1" group-title="LamroTV",Матч! Премьер HD
+https://lamro.mark-clark.workers.dev/?ID=3737
+#EXTINF:-1 tvg-id="3236" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/122/1.1" group-title="LamroTV",Матч! Страна
+https://lamro.mark-clark.workers.dev/?ID=3236
+#EXTINF:-1 tvg-id="3717" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/707/1.1" group-title="LamroTV",Матч! Планета
+https://lamro.mark-clark.workers.dev/?ID=3717
+#EXTINF:-1 tvg-id="4992" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/901/1.1" group-title="LamroTV",TV2 Sport Premium HD
+https://lamro.mark-clark.workers.dev/?ID=4992
+#EXTINF:-1 tvg-id="4993" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/902/1.1" group-title="LamroTV",TV2 Sport Premium 2 HD
+https://lamro.mark-clark.workers.dev/?ID=4993
+#EXTINF:-1 tvg-id="5084" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/807/1.1" group-title="LamroTV",Trace Sport Stars HD
+https://lamro.mark-clark.workers.dev/?ID=5084
+#EXTINF:-1 tvg-id="3257" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/393/1.1" group-title="LamroTV",КХЛ
+https://lamro.mark-clark.workers.dev/?ID=3257
+#EXTINF:-1 tvg-id="4871" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/126/1.1" group-title="LamroTV",КХЛ ТВ HD
+https://lamro.mark-clark.workers.dev/?ID=4871
+#EXTINF:-1 tvg-id="4926" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/586/1.1" group-title="LamroTV",Setanta Sport HD
+https://lamro.mark-clark.workers.dev/?ID=4926
+#EXTINF:-1 tvg-id="4931" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/605/1.1" group-title="LamroTV",Setanta sport 1 HD
+https://lamro.mark-clark.workers.dev/?ID=4931
+#EXTINF:-1 tvg-id="4932" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/968/1.1" group-title="LamroTV",Setanta sport 2 HD
+https://lamro.mark-clark.workers.dev/?ID=4932
+#EXTINF:-1 tvg-id="5227" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1034/1.1" group-title="LamroTV",Setanta Sports 1 HD PREMIUM+
+https://lamro.mark-clark.workers.dev/?ID=5227
+#EXTINF:-1 tvg-id="5228" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1035/1.1" group-title="LamroTV",Setanta Sports 2 HD PREMIUM+
+https://lamro.mark-clark.workers.dev/?ID=5228
+#EXTINF:-1 tvg-id="5192" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1037/1.1" group-title="LamroTV",Setanta Qazaqstan HD
+https://lamro.mark-clark.workers.dev/?ID=5192
+#EXTINF:-1 tvg-id="5225" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1030/1.1" group-title="LamroTV",Setanta Lietuva HD
+https://lamro.mark-clark.workers.dev/?ID=5225
+#EXTINF:-1 tvg-id="5226" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1033/1.1" group-title="LamroTV",Setanta Sports HD PREMIUM+
+https://lamro.mark-clark.workers.dev/?ID=5226
+#EXTINF:-1 tvg-id="5238" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1062/1.1" group-title="LamroTV",Окко Спорт HD
+https://lamro.mark-clark.workers.dev/?ID=5238
+#EXTINF:-1 tvg-id="5025" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1005/1.1" group-title="LamroTV",TNT Sport 1 HD
+https://lamro.mark-clark.workers.dev/?ID=5025
+#EXTINF:-1 tvg-id="5026" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1006/1.1" group-title="LamroTV",TNT Sport 2 HD
+https://lamro.mark-clark.workers.dev/?ID=5026
+#EXTINF:-1 tvg-id="5027" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1007/1.1" group-title="LamroTV",TNT Sport 3 HD
+https://lamro.mark-clark.workers.dev/?ID=5027
+#EXTINF:-1 tvg-id="5028" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1009/1.1" group-title="LamroTV",TNT Sport 4 HD
+https://lamro.mark-clark.workers.dev/?ID=5028
+#EXTINF:-1 tvg-id="4741" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/146/1.1" group-title="LamroTV",Матч! Футбол 1 HD
+https://lamro.mark-clark.workers.dev/?ID=4741
+#EXTINF:-1 tvg-id="3728" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/372/1.1" group-title="LamroTV",Матч! футбол 2 HD
+https://lamro.mark-clark.workers.dev/?ID=3728
+#EXTINF:-1 tvg-id="4742" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/373/1.1" group-title="LamroTV",Матч! Футбол 3 HD
+https://lamro.mark-clark.workers.dev/?ID=4742
+#EXTINF:-1 tvg-id="4114" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/51/1.1" group-title="LamroTV",Eurosport HD
+https://lamro.mark-clark.workers.dev/?ID=4114
+#EXTINF:-1 tvg-id="3261" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/72/1.1" group-title="LamroTV",Eurosport 2 HD
+https://lamro.mark-clark.workers.dev/?ID=3261
+#EXTINF:-1 tvg-id="5063" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/913/2.2" group-title="LamroTV",Extreme Sports HD
+https://lamro.mark-clark.workers.dev/?ID=5063
+#EXTINF:-1 tvg-id="4987" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/12/1.1" group-title="LamroTV",ОТР
+https://lamro.mark-clark.workers.dev/?ID=4987
+#EXTINF:-1 tvg-id="4952" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/638/1.1" group-title="LamroTV",Ювелирочка
+https://lamro.mark-clark.workers.dev/?ID=4952
+#EXTINF:-1 tvg-id="3275" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/98/1.1" group-title="LamroTV",Кухня
+https://lamro.mark-clark.workers.dev/?ID=3275
+#EXTINF:-1 tvg-id="4944" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/150/1.1" group-title="LamroTV",Еда HD
+https://lamro.mark-clark.workers.dev/?ID=4944
+#EXTINF:-1 tvg-id="3724" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/420/1.1" group-title="LamroTV",Food Network HD
+https://lamro.mark-clark.workers.dev/?ID=3724
+#EXTINF:-1 tvg-id="3272" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/105/1.1" group-title="LamroTV",ТелеКафе
+https://lamro.mark-clark.workers.dev/?ID=3272
+#EXTINF:-1 tvg-id="5094" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/844/1.1" group-title="LamroTV",О!Кино
+https://lamro.mark-clark.workers.dev/?ID=5094
+#EXTINF:-1 tvg-id="3715" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/284/1.1" group-title="LamroTV",Мама
+https://lamro.mark-clark.workers.dev/?ID=3715
+#EXTINF:-1 tvg-id="3284" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/277/1.1" group-title="LamroTV",Здоровое ТВ
+https://lamro.mark-clark.workers.dev/?ID=3284
+#EXTINF:-1 tvg-id="5122" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/820/1.1" group-title="LamroTV",Жар птица
+https://lamro.mark-clark.workers.dev/?ID=5122
+#EXTINF:-1 tvg-id="4910" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/907/1.1" group-title="LamroTV",English Club TV
+https://lamro.mark-clark.workers.dev/?ID=4910
+#EXTINF:-1 tvg-id="4986" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/904/1.1" group-title="LamroTV",Учим француский
+https://lamro.mark-clark.workers.dev/?ID=4986
+#EXTINF:-1 tvg-id="3157" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/250/1.1" group-title="LamroTV",Da Vinci
+https://lamro.mark-clark.workers.dev/?ID=3157
+#EXTINF:-1 tvg-id="5104" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1058/1.1" group-title="LamroTV",Доктор HD
+https://lamro.mark-clark.workers.dev/?ID=5104
+#EXTINF:-1 tvg-id="5112" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/840/1.1" group-title="LamroTV",Ключ HD
+https://lamro.mark-clark.workers.dev/?ID=5112
+#EXTINF:-1 tvg-id="5117" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/846/1.1" group-title="LamroTV",Радость моя
+https://lamro.mark-clark.workers.dev/?ID=5117
+#EXTINF:-1 tvg-id="5113" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/897/1.1" group-title="LamroTV",Мир увлечений
+https://lamro.mark-clark.workers.dev/?ID=5113
+#EXTINF:-1 tvg-id="5097" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/841/1.1" group-title="LamroTV",TV BricsTV
+https://lamro.mark-clark.workers.dev/?ID=5097
+#EXTINF:-1 tvg-id="5098" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/808/1.1" group-title="LamroTV",TVMChannel
+https://lamro.mark-clark.workers.dev/?ID=5098
+#EXTINF:-1 tvg-id="5083" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/806/1.1" group-title="LamroTV",TERRA
+https://lamro.mark-clark.workers.dev/?ID=5083
+#EXTINF:-1 tvg-id="5070" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/792/1.1" group-title="LamroTV",Luxury HD
+https://lamro.mark-clark.workers.dev/?ID=5070
+#EXTINF:-1 tvg-id="5107" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/893/1.1" group-title="LamroTV",Дорама HD
+https://lamro.mark-clark.workers.dev/?ID=5107
+#EXTINF:-1 tvg-id="5108" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1063/1.1" group-title="LamroTV",Жара! HD
+https://lamro.mark-clark.workers.dev/?ID=5108
+#EXTINF:-1 tvg-id="3271" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/212/1.1" group-title="LamroTV",Живи!
+https://lamro.mark-clark.workers.dev/?ID=3271
+#EXTINF:-1 tvg-id="3340" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/116/1.1" group-title="LamroTV",THT-Comedy
+https://lamro.mark-clark.workers.dev/?ID=3340
+#EXTINF:-1 tvg-id="3288" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/94/1.1" group-title="LamroTV",TOP SECRET
+https://lamro.mark-clark.workers.dev/?ID=3288
+#EXTINF:-1 tvg-id="3279" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/442/1.1" group-title="LamroTV",Бобёр
+https://lamro.mark-clark.workers.dev/?ID=3279
+#EXTINF:-1 tvg-id="5115" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/896/2.2" group-title="LamroTV",Наука HD
+https://lamro.mark-clark.workers.dev/?ID=5115
+#EXTINF:-1 tvg-id="3333" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/383/1.1" group-title="LamroTV",24 ДОК
+https://lamro.mark-clark.workers.dev/?ID=3333
+#EXTINF:-1 tvg-id="3345" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/282/1.1" group-title="LamroTV",Загородная жизнь
+https://lamro.mark-clark.workers.dev/?ID=3345
+#EXTINF:-1 tvg-id="5056" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/781/1.1" group-title="LamroTV",CGTN Русский HD
+https://lamro.mark-clark.workers.dev/?ID=5056
+#EXTINF:-1 tvg-id="3716" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/155/1.1" group-title="LamroTV",История
+https://lamro.mark-clark.workers.dev/?ID=3716
+#EXTINF:-1 tvg-id="4985" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/686/1.1" group-title="LamroTV",HGTV HD
+https://lamro.mark-clark.workers.dev/?ID=4985
+#EXTINF:-1 tvg-id="3735" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/392/1.1" group-title="LamroTV",History HD
+https://lamro.mark-clark.workers.dev/?ID=3735
+#EXTINF:-1 tvg-id="4982" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/683/1.1" group-title="LamroTV",History 2 HD
+https://lamro.mark-clark.workers.dev/?ID=4982
+#EXTINF:-1 tvg-id="3319" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/25/1.1" group-title="LamroTV",Discovery
+https://lamro.mark-clark.workers.dev/?ID=3319
+#EXTINF:-1 tvg-id="3200" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/124/1.1" group-title="LamroTV",Discovery HD
+https://lamro.mark-clark.workers.dev/?ID=3200
+#EXTINF:-1 tvg-id="4893" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/555/1.1" group-title="LamroTV",Глазами туриста HD
+https://lamro.mark-clark.workers.dev/?ID=4893
+#EXTINF:-1 tvg-id="4885" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/547/1.1" group-title="LamroTV",HDL HD
+https://lamro.mark-clark.workers.dev/?ID=4885
+#EXTINF:-1 tvg-id="3336" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/20/1.1" group-title="LamroTV",National Geographic
+https://lamro.mark-clark.workers.dev/?ID=3336
+#EXTINF:-1 tvg-id="3232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/258/1.1" group-title="LamroTV",National Geographic HD
+https://lamro.mark-clark.workers.dev/?ID=3232
+#EXTINF:-1 tvg-id="5102" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/813/1.1" group-title="LamroTV",Дикая охота HD
+https://lamro.mark-clark.workers.dev/?ID=5102
+#EXTINF:-1 tvg-id="5103" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/814/1.1" group-title="LamroTV",Дикая рыбалка HD
+https://lamro.mark-clark.workers.dev/?ID=5103
+#EXTINF:-1 tvg-id="5109" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1064/1.1" group-title="LamroTV",Живая природа HD
+https://lamro.mark-clark.workers.dev/?ID=5109
+#EXTINF:-1 tvg-id="5110" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/822/1.1" group-title="LamroTV",Живи Активно HD
+https://lamro.mark-clark.workers.dev/?ID=5110
+#EXTINF:-1 tvg-id="5111" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/824/1.1" group-title="LamroTV",Зоо ТВ
+https://lamro.mark-clark.workers.dev/?ID=5111
+#EXTINF:-1 tvg-id="5105" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1059/1.1" group-title="LamroTV",Домашние животные
+https://lamro.mark-clark.workers.dev/?ID=5105
+#EXTINF:-1 tvg-id="4891" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/553/1.1" group-title="LamroTV",Galaxy
+https://lamro.mark-clark.workers.dev/?ID=4891
+#EXTINF:-1 tvg-id="4984" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/685/1.1" group-title="LamroTV",Океан HD
+https://lamro.mark-clark.workers.dev/?ID=4984
+#EXTINF:-1 tvg-id="4123" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/473/1.1" group-title="LamroTV",Живая планета
+https://lamro.mark-clark.workers.dev/?ID=4123
+#EXTINF:-1 tvg-id="3733" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/699/1.1" group-title="LamroTV",Nat Geo Wild HD
+https://lamro.mark-clark.workers.dev/?ID=3733
+#EXTINF:-1 tvg-id="4591" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/489/1.1" group-title="LamroTV",DocuBox HD
+https://lamro.mark-clark.workers.dev/?ID=4591
+#EXTINF:-1 tvg-id="5001" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/708/1.1" group-title="LamroTV",Первый Космический HD
+https://lamro.mark-clark.workers.dev/?ID=5001
+#EXTINF:-1 tvg-id="5120" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/850/1.1" group-title="LamroTV",Тайны Галактики HD
+https://lamro.mark-clark.workers.dev/?ID=5120
+#EXTINF:-1 tvg-id="3220" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/490/1.1" group-title="LamroTV",Приключения HD
+https://lamro.mark-clark.workers.dev/?ID=3220
+#EXTINF:-1 tvg-id="4960" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/673/1.1" group-title="LamroTV",Телепутешествия
+https://lamro.mark-clark.workers.dev/?ID=4960
+#EXTINF:-1 tvg-id="3249" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/388/1.1" group-title="LamroTV",Travel Channel
+https://lamro.mark-clark.workers.dev/?ID=3249
+#EXTINF:-1 tvg-id="4110" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/388/1.1" group-title="LamroTV",Travel Channel HD
+https://lamro.mark-clark.workers.dev/?ID=4110
+#EXTINF:-1 tvg-id="3217" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/117/1.1" group-title="LamroTV",Animal Planet
+https://lamro.mark-clark.workers.dev/?ID=3217
+#EXTINF:-1 tvg-id="3738" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/701/1.1" group-title="LamroTV",Animal Planet HD
+https://lamro.mark-clark.workers.dev/?ID=3738
+#EXTINF:-1 tvg-id="4862" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/900/1.1" group-title="LamroTV",Travel+Adventure HD
+https://lamro.mark-clark.workers.dev/?ID=4862
+#EXTINF:-1 tvg-id="4590" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/297/1.1" group-title="LamroTV",В мире животных HD
+https://lamro.mark-clark.workers.dev/?ID=4590
+#EXTINF:-1 tvg-id="3245" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/133/1.1" group-title="LamroTV",TLC HD
+https://lamro.mark-clark.workers.dev/?ID=3245
+#EXTINF:-1 tvg-id="3283" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/128/1.1" group-title="LamroTV",ID Xtra
+https://lamro.mark-clark.workers.dev/?ID=3283
+#EXTINF:-1 tvg-id="5099" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1056/1.1" group-title="LamroTV",Zooпарк
+https://lamro.mark-clark.workers.dev/?ID=5099
+#EXTINF:-1 tvg-id="3212" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/129/1.1" group-title="LamroTV",viju Nature
+https://lamro.mark-clark.workers.dev/?ID=3212
+#EXTINF:-1 tvg-id="3206" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/67/1.1" group-title="LamroTV",viju History
+https://lamro.mark-clark.workers.dev/?ID=3206
+#EXTINF:-1 tvg-id="3213" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/259/1.1" group-title="LamroTV",viju Explore
+https://lamro.mark-clark.workers.dev/?ID=3213
+#EXTINF:-1 tvg-id="3147" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/76/1.1" group-title="LamroTV",Охота и рыбалка
+https://lamro.mark-clark.workers.dev/?ID=3147
+#EXTINF:-1 tvg-id="5229" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1039/1.1" group-title="LamroTV",Дикий
+https://lamro.mark-clark.workers.dev/?ID=5229
+#EXTINF:-1 tvg-id="5101" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1057/1.1" group-title="LamroTV",Диалоги о рыбалке HD
+https://lamro.mark-clark.workers.dev/?ID=5101
+#EXTINF:-1 tvg-id="3325" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/209/1.1" group-title="LamroTV",RTG TV
+https://lamro.mark-clark.workers.dev/?ID=3325
+#EXTINF:-1 tvg-id="3729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/328/2.2" group-title="LamroTV",RTG HD
+https://lamro.mark-clark.workers.dev/?ID=3729
+#EXTINF:-1 tvg-id="5114" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/899/1.1" group-title="LamroTV",Моя Планета HD
+https://lamro.mark-clark.workers.dev/?ID=5114
+#EXTINF:-1 tvg-id="5116" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/845/1.1" group-title="LamroTV",Первый вегетарианский HD
+https://lamro.mark-clark.workers.dev/?ID=5116
+#EXTINF:-1 tvg-id="3148" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/123/1.1" group-title="LamroTV",TiJi
+https://lamro.mark-clark.workers.dev/?ID=3148
+#EXTINF:-1 tvg-id="5166" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/945/1.1" group-title="LamroTV",BCU Мультсериал HD
+https://lamro.mark-clark.workers.dev/?ID=5166
+#EXTINF:-1 tvg-id="5186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/964/1.1" group-title="LamroTV",BCU Little HD
+https://lamro.mark-clark.workers.dev/?ID=5186
+#EXTINF:-1 tvg-id="5187" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/965/1.1" group-title="LamroTV",BCU Kids HD
+https://lamro.mark-clark.workers.dev/?ID=5187
+#EXTINF:-1 tvg-id="5188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/966/1.1" group-title="LamroTV",BCU Kids+ HD
+https://lamro.mark-clark.workers.dev/?ID=5188
+#EXTINF:-1 tvg-id="5189" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/967/1.1" group-title="LamroTV",BCU Kids 4K
+https://lamro.mark-clark.workers.dev/?ID=5189
+#EXTINF:-1 tvg-id="4887" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/549/1.1" group-title="LamroTV",SAT7 Kids
+https://lamro.mark-clark.workers.dev/?ID=4887
+#EXTINF:-1 tvg-id="3312" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/603/603.jpeg" group-title="LamroTV",ИсламМульт
+https://lamro.mark-clark.workers.dev/?ID=3312
+#EXTINF:-1 tvg-id="5221" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1026/1.1" group-title="LamroTV",Nussa
+https://lamro.mark-clark.workers.dev/?ID=5221
+#EXTINF:-1 tvg-id="4990" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1027/1027.jpeg" group-title="LamroTV",Учим Коран NUR
+https://lamro.mark-clark.workers.dev/?ID=4990
+#EXTINF:-1 tvg-id="4125" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/602/602.jpeg" group-title="LamroTV",Коран для детей HD
+https://lamro.mark-clark.workers.dev/?ID=4125
+#EXTINF:-1 tvg-id="5121" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/851/1.1" group-title="LamroTV",ТипТоп
+https://lamro.mark-clark.workers.dev/?ID=5121
+#EXTINF:-1 tvg-id="4889" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/551/1.1" group-title="LamroTV",Baby TV
+https://lamro.mark-clark.workers.dev/?ID=4889
+#EXTINF:-1 tvg-id="3269" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/216/1.1" group-title="LamroTV",Мульт HD
+https://lamro.mark-clark.workers.dev/?ID=3269
+#EXTINF:-1 tvg-id="5060" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/894/1.1" group-title="LamroTV",ducktv HD
+https://lamro.mark-clark.workers.dev/?ID=5060
+#EXTINF:-1 tvg-id="4894" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/556/1.1" group-title="LamroTV",Малыш ТВ
+https://lamro.mark-clark.workers.dev/?ID=4894
+#EXTINF:-1 tvg-id="3293" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/597/597.jpeg" group-title="LamroTV",ВайнахМульт
+https://lamro.mark-clark.workers.dev/?ID=3293
+#EXTINF:-1 tvg-id="3339" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/62/2.2" group-title="LamroTV",Солнце
+https://lamro.mark-clark.workers.dev/?ID=3339
+#EXTINF:-1 tvg-id="3270" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/58/1.1" group-title="LamroTV",Cartoon Network
+https://lamro.mark-clark.workers.dev/?ID=3270
+#EXTINF:-1 tvg-id="4882" tvg-logo="http://smarty.lamro.tv/tvmiddleware/media/img/logo/default/skazki.png" group-title="LamroTV",В гостях у сказки
+https://lamro.mark-clark.workers.dev/?ID=4882
+#EXTINF:-1 tvg-id="4745" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/469/1.1" group-title="LamroTV",Капитан Фантастика HD
+https://lamro.mark-clark.workers.dev/?ID=4745
+#EXTINF:-1 tvg-id="4876" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/468/1.1" group-title="LamroTV",О!
+https://lamro.mark-clark.workers.dev/?ID=4876
+#EXTINF:-1 tvg-id="4865" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/521/1.1" group-title="LamroTV",ani
+https://lamro.mark-clark.workers.dev/?ID=4865
+#EXTINF:-1 tvg-id="3265" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/304/1.1" group-title="LamroTV",Nick Jr.
+https://lamro.mark-clark.workers.dev/?ID=3265
+#EXTINF:-1 tvg-id="3267" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/113/1.1" group-title="LamroTV",JimJam
+https://lamro.mark-clark.workers.dev/?ID=3267
+#EXTINF:-1 tvg-id="3266" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/293/1.1" group-title="LamroTV",Gulli Girl
+https://lamro.mark-clark.workers.dev/?ID=3266
+#EXTINF:-1 tvg-id="5095" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/839/1.1" group-title="LamroTV",Лева HD
+https://lamro.mark-clark.workers.dev/?ID=5095
+#EXTINF:-1 tvg-id="3210" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/5/1.1" group-title="LamroTV",Карусель
+https://lamro.mark-clark.workers.dev/?ID=3210
+#EXTINF:-1 tvg-id="3215" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/54/1.1" group-title="LamroTV",Nickelodeon
+https://lamro.mark-clark.workers.dev/?ID=3215
+#EXTINF:-1 tvg-id="3742" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/395/1.1" group-title="LamroTV",Nickelodeon HD
+https://lamro.mark-clark.workers.dev/?ID=3742
+#EXTINF:-1 tvg-id="5118" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/848/1.1" group-title="LamroTV",Смайлик ТВ HD
+https://lamro.mark-clark.workers.dev/?ID=5118
+#EXTINF:-1 tvg-id="3199" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/93/1.1" group-title="LamroTV",2x2
+https://lamro.mark-clark.workers.dev/?ID=3199
+#EXTINF:-1 tvg-id="3176" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/361/1.1" group-title="LamroTV",Детский Мир
+https://lamro.mark-clark.workers.dev/?ID=3176
+#EXTINF:-1 tvg-id="3268" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/180/1.1" group-title="LamroTV",Мультимания
+https://lamro.mark-clark.workers.dev/?ID=3268
+#EXTINF:-1 tvg-id="4650" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/30/1.1" group-title="LamroTV",Enter Фильм
+https://lamro.mark-clark.workers.dev/?ID=4650
+#EXTINF:-1 tvg-id="3324" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/604/604.jpeg" group-title="LamroTV",ИсламФильм
+https://lamro.mark-clark.workers.dev/?ID=3324
+#EXTINF:-1 tvg-id="4937" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/610/1.1" group-title="LamroTV",Любимое HD
+https://lamro.mark-clark.workers.dev/?ID=4937
+#EXTINF:-1 tvg-id="4853" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/505/1.1" group-title="LamroTV",Индия
+https://lamro.mark-clark.workers.dev/?ID=4853
+#EXTINF:-1 tvg-id="4730" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/487/1.1" group-title="LamroTV",Bollywood HD
+https://lamro.mark-clark.workers.dev/?ID=4730
+#EXTINF:-1 tvg-id="3209" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/83/2.2" group-title="LamroTV",Индийское кино
+https://lamro.mark-clark.workers.dev/?ID=3209
+#EXTINF:-1 tvg-id="3301" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/127/2.2" group-title="LamroTV",Киномикс
+https://lamro.mark-clark.workers.dev/?ID=3301
+#EXTINF:-1 tvg-id="4883" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/530/1.1" group-title="LamroTV",Киносерия
+https://lamro.mark-clark.workers.dev/?ID=4883
+#EXTINF:-1 tvg-id="5089" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/829/2.2" group-title="LamroTV",Кинохит HD
+https://lamro.mark-clark.workers.dev/?ID=5089
+#EXTINF:-1 tvg-id="3208" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/394/2.2" group-title="LamroTV",Родное кино
+https://lamro.mark-clark.workers.dev/?ID=3208
+#EXTINF:-1 tvg-id="4966" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/659/2.2" group-title="LamroTV",Киноужас HD
+https://lamro.mark-clark.workers.dev/?ID=4966
+#EXTINF:-1 tvg-id="5088" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/49/1.1" group-title="LamroTV",Киносемья HD
+https://lamro.mark-clark.workers.dev/?ID=5088
+#EXTINF:-1 tvg-id="5090" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/84/2.2" group-title="LamroTV",Кинокомедия HD
+https://lamro.mark-clark.workers.dev/?ID=5090
+#EXTINF:-1 tvg-id="5087" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/47/2.2" group-title="LamroTV",Киносвидание HD
+https://lamro.mark-clark.workers.dev/?ID=5087
+#EXTINF:-1 tvg-id="3374" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/99/2.2" group-title="LamroTV",Мужское Кино HD
+https://lamro.mark-clark.workers.dev/?ID=3374
+#EXTINF:-1 tvg-id="3791" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/121/2.2" group-title="LamroTV",Кинопремьера HD
+https://lamro.mark-clark.workers.dev/?ID=3791
+#EXTINF:-1 tvg-id="3794" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/391/1.1" group-title="LamroTV",НСТ
+https://lamro.mark-clark.workers.dev/?ID=3794
+#EXTINF:-1 tvg-id="4920" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/580/1.1" group-title="LamroTV",A1 HD
+https://lamro.mark-clark.workers.dev/?ID=4920
+#EXTINF:-1 tvg-id="4927" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/587/1.1" group-title="LamroTV",A2 HD
+https://lamro.mark-clark.workers.dev/?ID=4927
+#EXTINF:-1 tvg-id="3186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/243/1.1" group-title="LamroTV",viju TV1000
+https://lamro.mark-clark.workers.dev/?ID=3186
+#EXTINF:-1 tvg-id="3720" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/91/1.1" group-title="LamroTV",Иллюзион+
+https://lamro.mark-clark.workers.dev/?ID=3720
+#EXTINF:-1 tvg-id="4053" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/110/1.1" group-title="LamroTV",Кинопоказ
+https://lamro.mark-clark.workers.dev/?ID=4053
+#EXTINF:-1 tvg-id="5057" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/640/2.2" group-title="LamroTV",Cinema HD
+https://lamro.mark-clark.workers.dev/?ID=5057
+#EXTINF:-1 tvg-id="3207" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/278/1.1" group-title="LamroTV",viju TV1000 action
+https://lamro.mark-clark.workers.dev/?ID=3207
+#EXTINF:-1 tvg-id="5092" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/833/2.2" group-title="LamroTV",Мир сериала HD
+https://lamro.mark-clark.workers.dev/?ID=5092
+#EXTINF:-1 tvg-id="4923" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/77/1.1" group-title="LamroTV",viju TV1000 русское
+https://lamro.mark-clark.workers.dev/?ID=4923
+#EXTINF:-1 tvg-id="4921" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/581/1.1" group-title="LamroTV",Hit HD
+https://lamro.mark-clark.workers.dev/?ID=4921
+#EXTINF:-1 tvg-id="4892" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/554/1.1" group-title="LamroTV",FOX HD
+https://lamro.mark-clark.workers.dev/?ID=4892
+#EXTINF:-1 tvg-id="4116" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/118/1.1" group-title="LamroTV",ЕвроКино
+https://lamro.mark-clark.workers.dev/?ID=4116
+#EXTINF:-1 tvg-id="3188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/15/1.1" group-title="LamroTV",Дом Кино
+https://lamro.mark-clark.workers.dev/?ID=3188
+#EXTINF:-1 tvg-id="3718" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/142/1.1" group-title="LamroTV",Premium HD
+https://lamro.mark-clark.workers.dev/?ID=3718
+#EXTINF:-1 tvg-id="4962" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/651/1.1" group-title="LamroTV",viju+ Serial HD
+https://lamro.mark-clark.workers.dev/?ID=4962
+#EXTINF:-1 tvg-id="4051" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/436/1.1" group-title="LamroTV",viju+ Megahit
+https://lamro.mark-clark.workers.dev/?ID=4051
+#EXTINF:-1 tvg-id="4111" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/583/1.1" group-title="LamroTV",viju+ Comedy
+https://lamro.mark-clark.workers.dev/?ID=4111
+#EXTINF:-1 tvg-id="4117" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/437/1.1" group-title="LamroTV",viju+ Premiere HD
+https://lamro.mark-clark.workers.dev/?ID=4117
+#EXTINF:-1 tvg-id="4922" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/582/1.1" group-title="LamroTV",Comedy Central
+https://lamro.mark-clark.workers.dev/?ID=4922
+#EXTINF:-1 tvg-id="4969" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/667/1.1" group-title="LamroTV",Победа
+https://lamro.mark-clark.workers.dev/?ID=4969
+#EXTINF:-1 tvg-id="4968" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/661/1.1" group-title="LamroTV",Мосфильм
+https://lamro.mark-clark.workers.dev/?ID=4968
+#EXTINF:-1 tvg-id="4941" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/613/1.1" group-title="LamroTV",Fox Life HD
+https://lamro.mark-clark.workers.dev/?ID=4941
+#EXTINF:-1 tvg-id="4965" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/657/1.1" group-title="LamroTV",Камеди HD
+https://lamro.mark-clark.workers.dev/?ID=4965
+#EXTINF:-1 tvg-id="4917" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/576/1.1" group-title="LamroTV",Кино ТВ HD
+https://lamro.mark-clark.workers.dev/?ID=4917
+#EXTINF:-1 tvg-id="4589" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/575/1.1" group-title="LamroTV",Hollywood HD
+https://lamro.mark-clark.workers.dev/?ID=4589
+#EXTINF:-1 tvg-id="4963" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/653/1.1" group-title="LamroTV",Блокбастер HD
+https://lamro.mark-clark.workers.dev/?ID=4963
+#EXTINF:-1 tvg-id="4860" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/573/1.1" group-title="LamroTV",Комедийное HD
+https://lamro.mark-clark.workers.dev/?ID=4860
+#EXTINF:-1 tvg-id="4961" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/649/1.1" group-title="LamroTV",Шокирующее HD
+https://lamro.mark-clark.workers.dev/?ID=4961
+#EXTINF:-1 tvg-id="4748" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/266/1.1" group-title="LamroTV",Остросюжетное HD
+https://lamro.mark-clark.workers.dev/?ID=4748
+#EXTINF:-1 tvg-id="4970" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/276/1.1" group-title="LamroTV",Наше HD
+https://lamro.mark-clark.workers.dev/?ID=4970
+#EXTINF:-1 tvg-id="4122" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/486/1.1" group-title="LamroTV",Наш Детектив
+https://lamro.mark-clark.workers.dev/?ID=4122
+#EXTINF:-1 tvg-id="3792" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/78/1.1" group-title="LamroTV",Наше новое кино
+https://lamro.mark-clark.workers.dev/?ID=3792
+#EXTINF:-1 tvg-id="4971" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/665/1.1" group-title="LamroTV",Наше Мужское HD
+https://lamro.mark-clark.workers.dev/?ID=4971
+#EXTINF:-1 tvg-id="4967" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/663/1.1" group-title="LamroTV",Наш Кинопоказ HD
+https://lamro.mark-clark.workers.dev/?ID=4967
+#EXTINF:-1 tvg-id="4729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/480/1.1" group-title="LamroTV",Наш Кинороман HD
+https://lamro.mark-clark.workers.dev/?ID=4729
+#EXTINF:-1 tvg-id="4612" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/158/1.1" group-title="LamroTV",Русский роман HD
+https://lamro.mark-clark.workers.dev/?ID=4612
+#EXTINF:-1 tvg-id="3184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/68/1.1" group-title="LamroTV",Русский Иллюзион
+https://lamro.mark-clark.workers.dev/?ID=3184
+#EXTINF:-1 tvg-id="4115" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/152/1.1" group-title="LamroTV",Русский бестселлер
+https://lamro.mark-clark.workers.dev/?ID=4115
+#EXTINF:-1 tvg-id="4964" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/655/1.1" group-title="LamroTV",Дом кино премиум HD
+https://lamro.mark-clark.workers.dev/?ID=4964
+#EXTINF:-1 tvg-id="4972" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/671/1.1" group-title="LamroTV",Хит HD
+https://lamro.mark-clark.workers.dev/?ID=4972
+#EXTINF:-1 tvg-id="4918" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/911/1.1" group-title="LamroTV",.red HD
+https://lamro.mark-clark.workers.dev/?ID=4918
+#EXTINF:-1 tvg-id="5055" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/892/1.1" group-title="LamroTV",.black HD
+https://lamro.mark-clark.workers.dev/?ID=5055
+#EXTINF:-1 tvg-id="5017" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/711/1.1" group-title="LamroTV",Plan B HD
+https://lamro.mark-clark.workers.dev/?ID=5017
+#EXTINF:-1 tvg-id="5119" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/849/1.1" group-title="LamroTV",Суббота HD
+https://lamro.mark-clark.workers.dev/?ID=5119
+#EXTINF:-1 tvg-id="5066" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/788/1.1" group-title="LamroTV",Flix Snip HD
+https://lamro.mark-clark.workers.dev/?ID=5066
+#EXTINF:-1 tvg-id="5067" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/789/1.1" group-title="LamroTV",KinoJam 1 HD
+https://lamro.mark-clark.workers.dev/?ID=5067
+#EXTINF:-1 tvg-id="5068" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/790/1.1" group-title="LamroTV",KinoJam 2 HD
+https://lamro.mark-clark.workers.dev/?ID=5068
+#EXTINF:-1 tvg-id="4973" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/669/1.1" group-title="LamroTV",Про Любовь HD
+https://lamro.mark-clark.workers.dev/?ID=4973
+#EXTINF:-1 tvg-id="4988" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/688/1.1" group-title="LamroTV",Премиальное HD
+https://lamro.mark-clark.workers.dev/?ID=4988
+#EXTINF:-1 tvg-id="5078" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/801/1.1" group-title="LamroTV",Shot TV
+https://lamro.mark-clark.workers.dev/?ID=5078
+#EXTINF:-1 tvg-id="5064" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/786/1.1" group-title="LamroTV",FAN HD
+https://lamro.mark-clark.workers.dev/?ID=5064
+#EXTINF:-1 tvg-id="5081" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/804/1.1" group-title="LamroTV",Start Air
+https://lamro.mark-clark.workers.dev/?ID=5081
+#EXTINF:-1 tvg-id="5073" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/910/1.1" group-title="LamroTV",.sci-fi HD
+https://lamro.mark-clark.workers.dev/?ID=5073
+#EXTINF:-1 tvg-id="5086" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/826/1.1" group-title="LamroTV",Киноман
+https://lamro.mark-clark.workers.dev/?ID=5086
+#EXTINF:-1 tvg-id="5085" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/825/1.1" group-title="LamroTV",Кинеко HD
+https://lamro.mark-clark.workers.dev/?ID=5085
+#EXTINF:-1 tvg-id="5074" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/795/1.1" group-title="LamroTV",Scream HD
+https://lamro.mark-clark.workers.dev/?ID=5074
+#EXTINF:-1 tvg-id="5082" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/805/1.1" group-title="LamroTV",Start World
+https://lamro.mark-clark.workers.dev/?ID=5082
+#EXTINF:-1 tvg-id="5080" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/803/1.1" group-title="LamroTV",Star Family HD
+https://lamro.mark-clark.workers.dev/?ID=5080
+#EXTINF:-1 tvg-id="5079" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/574/1.1" group-title="LamroTV",Star Cinema HD
+https://lamro.mark-clark.workers.dev/?ID=5079
+#EXTINF:-1 tvg-id="5162" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/942/1.1" group-title="LamroTV",BCU Premiere 1 HD
+https://lamro.mark-clark.workers.dev/?ID=5162
+#EXTINF:-1 tvg-id="5163" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/943/1.1" group-title="LamroTV",BCU Premiere 2 HD
+https://lamro.mark-clark.workers.dev/?ID=5163
+#EXTINF:-1 tvg-id="5165" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/944/1.1" group-title="LamroTV",BCU Premiere 3 HD
+https://lamro.mark-clark.workers.dev/?ID=5165
+#EXTINF:-1 tvg-id="5167" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/946/1.1" group-title="LamroTV",BCU CCCP HD
+https://lamro.mark-clark.workers.dev/?ID=5167
+#EXTINF:-1 tvg-id="5168" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/947/1.1" group-title="LamroTV",BCU Action HD
+https://lamro.mark-clark.workers.dev/?ID=5168
+#EXTINF:-1 tvg-id="5169" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/948/1.1" group-title="LamroTV",BCU Catastrophe HD
+https://lamro.mark-clark.workers.dev/?ID=5169
+#EXTINF:-1 tvg-id="5171" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/950/1.1" group-title="LamroTV",BCU Fantastic HD
+https://lamro.mark-clark.workers.dev/?ID=5171
+#EXTINF:-1 tvg-id="5172" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/951/1.1" group-title="LamroTV",BCU FilMystic HD
+https://lamro.mark-clark.workers.dev/?ID=5172
+#EXTINF:-1 tvg-id="5173" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/952/1.1" group-title="LamroTV",BCU History HD
+https://lamro.mark-clark.workers.dev/?ID=5173
+#EXTINF:-1 tvg-id="5175" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/953/1.1" group-title="LamroTV",BCU Premiere HD
+https://lamro.mark-clark.workers.dev/?ID=5175
+#EXTINF:-1 tvg-id="5177" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/955/1.1" group-title="LamroTV",BCU Stars HD
+https://lamro.mark-clark.workers.dev/?ID=5177
+#EXTINF:-1 tvg-id="5180" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/958/1.1" group-title="LamroTV",BCU RUSERIAL HD
+https://lamro.mark-clark.workers.dev/?ID=5180
+#EXTINF:-1 tvg-id="5181" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/959/1.1" group-title="LamroTV",BCU Сваты HD
+https://lamro.mark-clark.workers.dev/?ID=5181
+#EXTINF:-1 tvg-id="5182" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/960/1.1" group-title="LamroTV",BCU Criminal HD
+https://lamro.mark-clark.workers.dev/?ID=5182
+#EXTINF:-1 tvg-id="5183" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/961/1.1" group-title="LamroTV",BCU Cinema HD
+https://lamro.mark-clark.workers.dev/?ID=5183
+#EXTINF:-1 tvg-id="5184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/962/1.1" group-title="LamroTV",BCU Kinorating HD
+https://lamro.mark-clark.workers.dev/?ID=5184
+#EXTINF:-1 tvg-id="5237" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1055/1.1" group-title="LamroTV",BCU Cosmo HD
+https://lamro.mark-clark.workers.dev/?ID=5237
+#EXTINF:-1 tvg-id="5224" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1029/1.1" group-title="LamroTV",DIZI
+https://lamro.mark-clark.workers.dev/?ID=5224
+#EXTINF:-1 tvg-id="5232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1045/1.1" group-title="LamroTV",Сапфир HD
+https://lamro.mark-clark.workers.dev/?ID=5232
+#EXTINF:-1 tvg-id="5231" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1043/1.1" group-title="LamroTV",Душевное HD
+https://lamro.mark-clark.workers.dev/?ID=5231
+#EXTINF:-1 tvg-id="5233" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1047/1.1" group-title="LamroTV",Романтичное HD
+https://lamro.mark-clark.workers.dev/?ID=5233

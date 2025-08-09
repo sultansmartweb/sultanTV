@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="regiotv" tvg-name="A11" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/regiotv.png&width=96&height=96",A11
+https://sledovani-cz.mark-clark.workers.dev/?ID=regiotv
+#EXTINF:-1 tvg-id="retro" tvg-name="Retro" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/retro.png&width=96&height=96",Retro
+https://sledovani-cz.mark-clark.workers.dev/?ID=retro
+#EXTINF:-1 tvg-id="plzen_tv" tvg-name="Plzeň TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/plzen_tv.png&width=96&height=96",Plzeň TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=plzen_tv
+#EXTINF:-1 tvg-id="bbc" tvg-name="BBC News" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/bbc.png&width=96&height=96",BBC News
+https://sledovani-cz.mark-clark.workers.dev/?ID=bbc
+#EXTINF:-1 tvg-id="tvnoe" tvg-name="Noe" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/tvnoe.png&width=96&height=96",Noe
+https://sledovani-cz.mark-clark.workers.dev/?ID=tvnoe
+#EXTINF:-1 tvg-id="tv_lux" tvg-name="TV LUX" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/tv_lux.png&width=96&height=96",TV LUX
+https://sledovani-cz.mark-clark.workers.dev/?ID=tv_lux
+#EXTINF:-1 tvg-id="haha_tv" tvg-name="HaHa TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/haha_tv.png&width=96&height=96",HaHa TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=haha_tv
+#EXTINF:-1 tvg-id="filmpro" tvg-name="filmpro" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/filmpro.png&width=96&height=96",filmpro
+https://sledovani-cz.mark-clark.workers.dev/?ID=filmpro
+#EXTINF:-1 tvg-id="kladno" tvg-name="Kladno.1 TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/kladno.png&width=96&height=96",Kladno.1 TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=kladno
+#EXTINF:-1 tvg-id="praha" tvg-name="TV Praha" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/praha.png&width=96&height=96",TV Praha
+https://sledovani-cz.mark-clark.workers.dev/?ID=praha
+#EXTINF:-1 tvg-id="ivysocina_stream_zs" tvg-name="i-Vysočina.cz" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ivysocina_stream_zs.png&width=96&height=96",i-Vysočina.cz
+https://sledovani-cz.mark-clark.workers.dev/?ID=ivysocina_stream_zs
+#EXTINF:-1 tvg-id="tvbeskyd" tvg-name="TV Beskyd" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/tvbeskyd.png&width=96&height=96",TV Beskyd
+https://sledovani-cz.mark-clark.workers.dev/?ID=tvbeskyd
+#EXTINF:-1 tvg-id="uatv" tvg-name="FREEDOM" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/uatv.png&width=96&height=96",FREEDOM
+https://sledovani-cz.mark-clark.workers.dev/?ID=uatv
+#EXTINF:-1 tvg-id="fireplace" tvg-name="Krb" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/panorama_tv.png&width=96&height=96",Krb
+https://sledovani-cz.mark-clark.workers.dev/?ID=fireplace
+#EXTINF:-1 tvg-id="naturetv" tvg-name="NatureTV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/krusna_tv.png&width=96&height=96",NatureTV
+https://sledovani-cz.mark-clark.workers.dev/?ID=naturetv
+#EXTINF:-1 tvg-id="jihoceska_televize" tvg-name="Jihočeská televize" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/jihoceska_televize.png&width=96&height=96",Jihočeská televize
+https://sledovani-cz.mark-clark.workers.dev/?ID=jihoceska_televize
+#EXTINF:-1 tvg-id="ukraina_24" tvg-name="1+1" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ukraina_24.png&width=96&height=96",1+1
+https://sledovani-cz.mark-clark.workers.dev/?ID=ukraina_24
+#EXTINF:-1 tvg-id="espresso" tvg-name="Espreso TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/espresso.png&width=96&height=96",Espreso TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=espresso
+#EXTINF:-1 tvg-id="ivodarenstvi" tvg-name="iVodárenství" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ivodarenstvi.png&width=96&height=96",iVodárenství
+https://sledovani-cz.mark-clark.workers.dev/?ID=ivodarenstvi
+#EXTINF:-1 tvg-id="tvr" tvg-name="TV R" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/tvr.png&width=96&height=96",TV R
+https://sledovani-cz.mark-clark.workers.dev/?ID=tvr
+#EXTINF:-1 tvg-id="DVTV" tvg-name="DVTV Extra" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/cartoon_network_hd.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",DVTV Extra
+https://sledovani-cz.mark-clark.workers.dev/?ID=DVTV
+#EXTINF:-1 tvg-id="nova_sport" tvg-name="Nova Sport 1" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/nova_sport.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nova Sport 1
+https://sledovani-cz.mark-clark.workers.dev/?ID=nova_sport
+#EXTINF:-1 tvg-id="nova_sport2" tvg-name="Nova Sport 2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/nova_sport2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nova Sport 2
+https://sledovani-cz.mark-clark.workers.dev/?ID=nova_sport2
+#EXTINF:-1 tvg-id="ockoHD" tvg-name="Óčko HD" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ockoHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Óčko HD
+https://sledovani-cz.mark-clark.workers.dev/?ID=ockoHD
+#EXTINF:-1 tvg-id="ocko_starHD" tvg-name="Óčko STAR HD" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ocko_starHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Óčko STAR HD
+https://sledovani-cz.mark-clark.workers.dev/?ID=ocko_starHD
+#EXTINF:-1 tvg-id="ocko_expresHD" tvg-name="Óčko EXPRES HD" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ocko_expresHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Óčko EXPRES HD
+https://sledovani-cz.mark-clark.workers.dev/?ID=ocko_expresHD
+#EXTINF:-1 tvg-id="ocko_blackHD" tvg-name="Óčko BLACK HD" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ocko_blackHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Óčko BLACK HD
+https://sledovani-cz.mark-clark.workers.dev/?ID=ocko_blackHD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/HBO.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",HBO
+https://sledovani-cz.mark-clark.workers.dev/?ID=HBO
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/HBO2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",HBO2
+https://sledovani-cz.mark-clark.workers.dev/?ID=HBO2
+#EXTINF:-1 tvg-id="hbo_comedy" tvg-name="HBO3" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/hbo_comedy.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",HBO3
+https://sledovani-cz.mark-clark.workers.dev/?ID=hbo_comedy
+#EXTINF:-1 tvg-id="cinemax1" tvg-name="Cinemax" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/cinemax1.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Cinemax
+https://sledovani-cz.mark-clark.workers.dev/?ID=cinemax1
+#EXTINF:-1 tvg-id="cinemax2" tvg-name="Cinemax 2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/cinemax2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Cinemax 2
+https://sledovani-cz.mark-clark.workers.dev/?ID=cinemax2
+#EXTINF:-1 tvg-id="FilmboxHD" tvg-name="FilmBox Extra" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/FilmboxHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FilmBox Extra
+https://sledovani-cz.mark-clark.workers.dev/?ID=FilmboxHD
+#EXTINF:-1 tvg-id="FilmboxExtra" tvg-name="FilmBox Premium" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/FilmboxExtra.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FilmBox Premium
+https://sledovani-cz.mark-clark.workers.dev/?ID=FilmboxExtra
+#EXTINF:-1 tvg-id="FilmboxFamily" tvg-name="FilmBox Family" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/FilmboxFamily.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FilmBox Family
+https://sledovani-cz.mark-clark.workers.dev/?ID=FilmboxFamily
+#EXTINF:-1 tvg-id="DocuBoxHD" tvg-name="DocuBox" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/DocuBoxHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",DocuBox
+https://sledovani-cz.mark-clark.workers.dev/?ID=DocuBoxHD
+#EXTINF:-1 tvg-id="FashionboxHD" tvg-name="FashionBox" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/FashionboxHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FashionBox
+https://sledovani-cz.mark-clark.workers.dev/?ID=FashionboxHD
+#EXTINF:-1 tvg-id="FightboxHD" tvg-name="FightBox" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/FightboxHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FightBox
+https://sledovani-cz.mark-clark.workers.dev/?ID=FightboxHD
+#EXTINF:-1 tvg-id="Fastnfunbox" tvg-name="Fast & Fun Box" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Fastnfunbox.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Fast & Fun Box
+https://sledovani-cz.mark-clark.workers.dev/?ID=Fastnfunbox
+#EXTINF:-1 tvg-id="FilmboxArthouse" tvg-name="FilmBox Arthouse" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/FilmboxArthouse.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FilmBox Arthouse
+https://sledovani-cz.mark-clark.workers.dev/?ID=FilmboxArthouse
+#EXTINF:-1 tvg-id="filmboxplus" tvg-name="FilmBox Stars" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/filmboxplus.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FilmBox Stars
+https://sledovani-cz.mark-clark.workers.dev/?ID=filmboxplus
+#EXTINF:-1 tvg-id="360TuneBox" tvg-name="360TuneBox" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/360TuneBox.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",360TuneBox
+https://sledovani-cz.mark-clark.workers.dev/?ID=360TuneBox
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/axn.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",AXN
+https://sledovani-cz.mark-clark.workers.dev/?ID=axn
+#EXTINF:-1 tvg-id="axnblack" tvg-name="AXN Black" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/axnblack.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",AXN Black
+https://sledovani-cz.mark-clark.workers.dev/?ID=axnblack
+#EXTINF:-1 tvg-id="axnwhite" tvg-name="AXN White" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/axnwhite.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",AXN White
+https://sledovani-cz.mark-clark.workers.dev/?ID=axnwhite
+#EXTINF:-1 tvg-id="travelxp" tvg-name="Travelxp" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/travelxp.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Travelxp
+https://sledovani-cz.mark-clark.workers.dev/?ID=travelxp
+#EXTINF:-1 tvg-id="nat_geo_wild" tvg-name="National Geographic Wild" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/nat_geo_wild.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",National Geographic Wild
+https://sledovani-cz.mark-clark.workers.dev/?ID=nat_geo_wild
+#EXTINF:-1 tvg-id="NGC_HD" tvg-name="National Geographic" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/NGC_HD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",National Geographic
+https://sledovani-cz.mark-clark.workers.dev/?ID=NGC_HD
+#EXTINF:-1 tvg-id="viasat_history" tvg-name="Viasat History" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/viasat_history.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Viasat History
+https://sledovani-cz.mark-clark.workers.dev/?ID=viasat_history
+#EXTINF:-1 tvg-id="viasat_explore" tvg-name="Viasat Explore" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/viasat_explore.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Viasat Explore
+https://sledovani-cz.mark-clark.workers.dev/?ID=viasat_explore
+#EXTINF:-1 tvg-id="viasat_nature" tvg-name="Viasat Nature" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/viasat_nature.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Viasat Nature
+https://sledovani-cz.mark-clark.workers.dev/?ID=viasat_nature
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Eurosport.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Eurosport 1
+https://sledovani-cz.mark-clark.workers.dev/?ID=Eurosport
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport 2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Eurosport2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Eurosport 2
+https://sledovani-cz.mark-clark.workers.dev/?ID=Eurosport2
+#EXTINF:-1 tvg-id="Sport2" tvg-name="Sport2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Sport2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Sport2
+https://sledovani-cz.mark-clark.workers.dev/?ID=Sport2
+#EXTINF:-1 tvg-id="auto_motor_sport" tvg-name="Auto Motor Sport" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/auto_motor_sport.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Auto Motor Sport
+https://sledovani-cz.mark-clark.workers.dev/?ID=auto_motor_sport
+#EXTINF:-1 tvg-id="fishinghunting" tvg-name="Fishing&Hunting" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/fishinghunting.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Fishing&Hunting
+https://sledovani-cz.mark-clark.workers.dev/?ID=fishinghunting
+#EXTINF:-1 tvg-id="golf" tvg-name="Golf Channel" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/golf.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Golf Channel
+https://sledovani-cz.mark-clark.workers.dev/?ID=golf
+#EXTINF:-1 tvg-id="Film_Europe" tvg-name="Film Europe" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Film_Europe.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Film Europe
+https://sledovani-cz.mark-clark.workers.dev/?ID=Film_Europe
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/boomerang.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Cartoonito
+https://sledovani-cz.mark-clark.workers.dev/?ID=boomerang
+#EXTINF:-1 tvg-id="Kino_CS" tvg-name="Film Europe+" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Kino_CS.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Film Europe+
+https://sledovani-cz.mark-clark.workers.dev/?ID=Kino_CS
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Nickelodeon.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nickelodeon
+https://sledovani-cz.mark-clark.workers.dev/?ID=Nickelodeon
+#EXTINF:-1 tvg-id="nickjr" tvg-name="Nick Jr." group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/nickjr.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nick Jr.
+https://sledovani-cz.mark-clark.workers.dev/?ID=nickjr
+#EXTINF:-1 tvg-id="Disney_Channel" tvg-name="Disney Channel" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Disney_Channel.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Disney Channel
+https://sledovani-cz.mark-clark.workers.dev/?ID=Disney_Channel
+#EXTINF:-1 tvg-id="disney_junior" tvg-name="Disney Junior" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/disney_junior.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Disney Junior
+https://sledovani-cz.mark-clark.workers.dev/?ID=disney_junior
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="Nicktoons" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/nicktoons.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nicktoons
+https://sledovani-cz.mark-clark.workers.dev/?ID=nicktoons
+#EXTINF:-1 tvg-id="sat_crime_invest" tvg-name="Crime + Investigation" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/sat_crime_invest.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Crime + Investigation
+https://sledovani-cz.mark-clark.workers.dev/?ID=sat_crime_invest
+#EXTINF:-1 tvg-id="history" tvg-name="History" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/history.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",History
+https://sledovani-cz.mark-clark.workers.dev/?ID=history
+#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC Earth" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/bbc_earth.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",BBC Earth
+https://sledovani-cz.mark-clark.workers.dev/?ID=bbc_earth
+#EXTINF:-1 tvg-id="war" tvg-name="CS History" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/war.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",CS History
+https://sledovani-cz.mark-clark.workers.dev/?ID=war
+#EXTINF:-1 tvg-id="eroxHD" tvg-name="Erox" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/eroxHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Erox
+https://sledovani-cz.mark-clark.workers.dev/?ID=eroxHD
+#EXTINF:-1 tvg-id="eroxxxHD" tvg-name="Eroxxx" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/eroxxxHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Eroxxx
+https://sledovani-cz.mark-clark.workers.dev/?ID=eroxxxHD
+#EXTINF:-1 tvg-id="DorceltvHD" tvg-name="Dorcel TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/DorceltvHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Dorcel TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=DorceltvHD
+#EXTINF:-1 tvg-id="DorcelHD" tvg-name="Dorcel XXX" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/DorcelHD.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Dorcel XXX
+https://sledovani-cz.mark-clark.workers.dev/?ID=DorcelHD
+#EXTINF:-1 tvg-id="brazzers" tvg-name="Brazzers TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/brazzers.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Brazzers TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=brazzers
+#EXTINF:-1 tvg-id="leo_gold" tvg-name="Leo TV Gold" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/leo_gold.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Leo TV Gold
+https://sledovani-cz.mark-clark.workers.dev/?ID=leo_gold
+#EXTINF:-1 tvg-id="leo" tvg-name="Leo TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/leo.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Leo TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=leo
+#EXTINF:-1 tvg-id="extasy_4k" tvg-name="Extasy 4K Platinum" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/extasy_4k.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Extasy 4K Platinum
+https://sledovani-cz.mark-clark.workers.dev/?ID=extasy_4k
+#EXTINF:-1 tvg-id="extasy" tvg-name="Extasy" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/extasy.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Extasy
+https://sledovani-cz.mark-clark.workers.dev/?ID=extasy
+#EXTINF:-1 tvg-id="realitykings" tvg-name="Reality Kings" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/realitykings.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Reality Kings
+https://sledovani-cz.mark-clark.workers.dev/?ID=realitykings
+#EXTINF:-1 tvg-id="true_amateurs" tvg-name="True Amateurs" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/true_amateurs.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",True Amateurs
+https://sledovani-cz.mark-clark.workers.dev/?ID=true_amateurs
+#EXTINF:-1 tvg-id="babes_tv" tvg-name="Babes TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/babes_tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Babes TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=babes_tv
+#EXTINF:-1 tvg-id="desire_tv" tvg-name="Desire" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/desire_tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Desire
+https://sledovani-cz.mark-clark.workers.dev/?ID=desire_tv
+#EXTINF:-1 tvg-id="purebabes" tvg-name="Pure Babes" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/purebabes.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Pure Babes
+https://sledovani-cz.mark-clark.workers.dev/?ID=purebabes
+#EXTINF:-1 tvg-id="bangu" tvg-name="Bang U" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/bangu.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Bang U
+https://sledovani-cz.mark-clark.workers.dev/?ID=bangu
+#EXTINF:-1 tvg-id="men_tv" tvg-name="Men.tv" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/men_tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Men.tv
+https://sledovani-cz.mark-clark.workers.dev/?ID=men_tv
+#EXTINF:-1 tvg-id="epic_drama" tvg-name="Epic Drama" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/epic_drama.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Epic Drama
+https://sledovani-cz.mark-clark.workers.dev/?ID=epic_drama
+#EXTINF:-1 tvg-id="funbox_uhd" tvg-name="FunBox UHD" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/funbox_uhd.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FunBox UHD
+https://sledovani-cz.mark-clark.workers.dev/?ID=funbox_uhd
+#EXTINF:-1 tvg-id="sport1cz" tvg-name="Sport1 CZ" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/sport1cz.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Sport1 CZ
+https://sledovani-cz.mark-clark.workers.dev/?ID=sport1cz
+#EXTINF:-1 tvg-id="sport1sk" tvg-name="Sport1 SK" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/sport1sk.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Sport1 SK
+https://sledovani-cz.mark-clark.workers.dev/?ID=sport1sk
+#EXTINF:-1 tvg-id="ctdecko" tvg-name="ČT Déčko" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ctdecko.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT Déčko
+https://sledovani-cz.mark-clark.workers.dev/?ID=ctdecko
+#EXTINF:-1 tvg-id="Jim_Jam" tvg-name="JimJam" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Jim_Jam.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",JimJam
+https://sledovani-cz.mark-clark.workers.dev/?ID=Jim_Jam
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/nova.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nova
+https://sledovani-cz.mark-clark.workers.dev/?ID=nova
+#EXTINF:-1 tvg-id="slovak_sport2" tvg-name="Arena Sport 2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/slovak_sport2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Arena Sport 2
+https://sledovani-cz.mark-clark.workers.dev/?ID=slovak_sport2
+#EXTINF:-1 tvg-id="ct1" tvg-name="ČT1" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ct1.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT1
+https://sledovani-cz.mark-clark.workers.dev/?ID=ct1
+#EXTINF:-1 tvg-id="ct2" tvg-name="ČT2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ct2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT2
+https://sledovani-cz.mark-clark.workers.dev/?ID=ct2
+#EXTINF:-1 tvg-id="ct24" tvg-name="ČT24" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ct24.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT24
+https://sledovani-cz.mark-clark.workers.dev/?ID=ct24
+#EXTINF:-1 tvg-id="ct4sport" tvg-name="ČT sport" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/primafamily.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT sport
+https://sledovani-cz.mark-clark.workers.dev/?ID=ct4sport
+#EXTINF:-1 tvg-id="primacool" tvg-name="Prima COOL" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/primacool.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Prima COOL
+https://sledovani-cz.mark-clark.workers.dev/?ID=primacool
+#EXTINF:-1 tvg-id="prima_krimi" tvg-name="Prima KRIMI" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/prima_krimi.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Prima KRIMI
+https://sledovani-cz.mark-clark.workers.dev/?ID=prima_krimi
+#EXTINF:-1 tvg-id="prima_max" tvg-name="Prima MAX" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/prima_max.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Prima MAX
+https://sledovani-cz.mark-clark.workers.dev/?ID=prima_max
+#EXTINF:-1 tvg-id="primalove" tvg-name="Prima LOVE" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/primalove.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Prima LOVE
+https://sledovani-cz.mark-clark.workers.dev/?ID=primalove
+#EXTINF:-1 tvg-id="ctart" tvg-name="ČT art" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ctart.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT art
+https://sledovani-cz.mark-clark.workers.dev/?ID=ctart
+#EXTINF:-1 tvg-id="prima_show" tvg-name="Prima SHOW" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/prima_show.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Prima SHOW
+https://sledovani-cz.mark-clark.workers.dev/?ID=prima_show
+#EXTINF:-1 tvg-id="prima_star" tvg-name="Prima STAR" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/prima_star.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Prima STAR
+https://sledovani-cz.mark-clark.workers.dev/?ID=prima_star
+#EXTINF:-1 tvg-id="prima_news" tvg-name="CNN Prima NEWS" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/prima_news.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",CNN Prima NEWS
+https://sledovani-cz.mark-clark.workers.dev/?ID=prima_news
+#EXTINF:-1 tvg-id="primazoom" tvg-name="Prima ZOOM" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/primazoom.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Prima ZOOM
+https://sledovani-cz.mark-clark.workers.dev/?ID=primazoom
+#EXTINF:-1 tvg-id="ct1jm" tvg-name="ČT1 JM" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ct1jm.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT1 JM
+https://sledovani-cz.mark-clark.workers.dev/?ID=ct1jm
+#EXTINF:-1 tvg-id="ct1sm" tvg-name="ČT1 SM" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ct1sm.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT1 SM
+https://sledovani-cz.mark-clark.workers.dev/?ID=ct1sm
+#EXTINF:-1 tvg-id="Seznam" tvg-name="Televize Seznam" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Seznam.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Televize Seznam
+https://sledovani-cz.mark-clark.workers.dev/?ID=Seznam
+#EXTINF:-1 tvg-id="novacinema" tvg-name="Nova Cinema" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/novacinema.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nova Cinema
+https://sledovani-cz.mark-clark.workers.dev/?ID=novacinema
+#EXTINF:-1 tvg-id="fanda" tvg-name="Nova Action" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/fanda.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nova Action
+https://sledovani-cz.mark-clark.workers.dev/?ID=fanda
+#EXTINF:-1 tvg-id="smichov" tvg-name="Nova Fun" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/smichov.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nova Fun
+https://sledovani-cz.mark-clark.workers.dev/?ID=smichov
+#EXTINF:-1 tvg-id="telka" tvg-name="Nova Gold" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/telka.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nova Gold
+https://sledovani-cz.mark-clark.workers.dev/?ID=telka
+#EXTINF:-1 tvg-id="nova_lady" tvg-name="Nova Lady" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/nova_lady.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Nova Lady
+https://sledovani-cz.mark-clark.workers.dev/?ID=nova_lady
+#EXTINF:-1 tvg-id="stv1" tvg-name="Jednotka" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/stv1.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Jednotka
+https://sledovani-cz.mark-clark.workers.dev/?ID=stv1
+#EXTINF:-1 tvg-id="stv2" tvg-name="Dvojka" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/stv2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Dvojka
+https://sledovani-cz.mark-clark.workers.dev/?ID=stv2
+#EXTINF:-1 tvg-id="ct1jzc" tvg-name="ČT1 JZC" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ct1jzc.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT1 JZC
+https://sledovani-cz.mark-clark.workers.dev/?ID=ct1jzc
+#EXTINF:-1 tvg-id="ct1svc" tvg-name="ČT1 SVC" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ct1svc.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ČT1 SVC
+https://sledovani-cz.mark-clark.workers.dev/?ID=ct1svc
+#EXTINF:-1 tvg-id="stv24" tvg-name="STVR 24" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/stv24.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",STVR 24
+https://sledovani-cz.mark-clark.workers.dev/?ID=stv24
+#EXTINF:-1 tvg-id="jojfamily" tvg-name="JOJ Family" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/jojfamily.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",JOJ Family
+https://sledovani-cz.mark-clark.workers.dev/?ID=jojfamily
+#EXTINF:-1 tvg-id="markizaint" tvg-name="Markíza International" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/markizaint.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Markíza International
+https://sledovani-cz.mark-clark.workers.dev/?ID=markizaint
+#EXTINF:-1 tvg-id="spektrum_home" tvg-name="Spektrum Home" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/spektrum_home.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Spektrum Home
+https://sledovani-cz.mark-clark.workers.dev/?ID=spektrum_home
+#EXTINF:-1 tvg-id="filmbox" tvg-name="FilmBox" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/filmbox.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",FilmBox
+https://sledovani-cz.mark-clark.workers.dev/?ID=filmbox
+#EXTINF:-1 tvg-id="barrandov" tvg-name="TV Barrandov" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/barrandov.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",TV Barrandov
+https://sledovani-cz.mark-clark.workers.dev/?ID=barrandov
+#EXTINF:-1 tvg-id="barrandovplus" tvg-name="Barrandov Krimi" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/barrandovplus.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Barrandov Krimi
+https://sledovani-cz.mark-clark.workers.dev/?ID=barrandovplus
+#EXTINF:-1 tvg-id="kinobarrandov" tvg-name="Kino Barrandov" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/kinobarrandov.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Kino Barrandov
+https://sledovani-cz.mark-clark.workers.dev/?ID=kinobarrandov
+#EXTINF:-1 tvg-id="up_network" tvg-name="Spark TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/up_network.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Spark TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=up_network
+#EXTINF:-1 tvg-id="cs_film" tvg-name="CS Film" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/cs_film.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",CS Film
+https://sledovani-cz.mark-clark.workers.dev/?ID=cs_film
+#EXTINF:-1 tvg-id="kinosvet" tvg-name="CS Mystery" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/kinosvet.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",CS Mystery
+https://sledovani-cz.mark-clark.workers.dev/?ID=kinosvet
+#EXTINF:-1 tvg-id="horor_film" tvg-name="CS Horror" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/horor_film.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",CS Horror
+https://sledovani-cz.mark-clark.workers.dev/?ID=horor_film
+#EXTINF:-1 tvg-id="primacomedy" tvg-name="Paramount Network" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/primacomedy.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Paramount Network
+https://sledovani-cz.mark-clark.workers.dev/?ID=primacomedy
+#EXTINF:-1 tvg-id="love_nature" tvg-name="Love Nature 4K" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/love_nature.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Love Nature 4K
+https://sledovani-cz.mark-clark.workers.dev/?ID=love_nature
+#EXTINF:-1 tvg-id="tv_paprika" tvg-name="TV Paprika" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/tv_paprika.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",TV Paprika
+https://sledovani-cz.mark-clark.workers.dev/?ID=tv_paprika
+#EXTINF:-1 tvg-id="slovak_sport" tvg-name="Arena Sport 1" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/slovak_sport.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Arena Sport 1
+https://sledovani-cz.mark-clark.workers.dev/?ID=slovak_sport
+#EXTINF:-1 tvg-id="ocko" tvg-name="Óčko" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ocko.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Óčko
+https://sledovani-cz.mark-clark.workers.dev/?ID=ocko
+#EXTINF:-1 tvg-id="ockogold" tvg-name="Óčko STAR" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ockogold.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Óčko STAR
+https://sledovani-cz.mark-clark.workers.dev/?ID=ockogold
+#EXTINF:-1 tvg-id="ocko_express" tvg-name="Óčko Expres" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ocko_express.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Óčko Expres
+https://sledovani-cz.mark-clark.workers.dev/?ID=ocko_express
+#EXTINF:-1 tvg-id="i_concerts" tvg-name="iConcerts" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/i_concerts.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",iConcerts
+https://sledovani-cz.mark-clark.workers.dev/?ID=i_concerts
+#EXTINF:-1 tvg-id="slagr_premium" tvg-name="Premium" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/slagr_premium.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Premium
+https://sledovani-cz.mark-clark.workers.dev/?ID=slagr_premium
+#EXTINF:-1 tvg-id="slagr" tvg-name="Šláger Originál" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/slagr.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Šláger Originál
+https://sledovani-cz.mark-clark.workers.dev/?ID=slagr
+#EXTINF:-1 tvg-id="slagr2" tvg-name="Šláger Muzika" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/slagr2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Šláger Muzika
+https://sledovani-cz.mark-clark.workers.dev/?ID=slagr2
+#EXTINF:-1 tvg-id="rik2" tvg-name="RiK TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/rik2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",RiK TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=rik2
+#EXTINF:-1 tvg-id="zaktv" tvg-name="ZAK TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/zaktv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ZAK TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=zaktv
+#EXTINF:-1 tvg-id="ustecko_tv" tvg-name="Televize Ústeckého kraje" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ustecko_tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Televize Ústeckého kraje
+https://sledovani-cz.mark-clark.workers.dev/?ID=ustecko_tv
+#EXTINF:-1 tvg-id="ta3" tvg-name="ta3" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ta3.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ta3
+https://sledovani-cz.mark-clark.workers.dev/?ID=ta3
+#EXTINF:-1 tvg-id="sky_news" tvg-name="Sky News" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/sky_news.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Sky News
+https://sledovani-cz.mark-clark.workers.dev/?ID=sky_news
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24 (English)" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/france24.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",France 24 (English)
+https://sledovani-cz.mark-clark.workers.dev/?ID=france24
+#EXTINF:-1 tvg-id="france24_fr" tvg-name="France 24 (French)" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/france24_fr.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",France 24 (French)
+https://sledovani-cz.mark-clark.workers.dev/?ID=france24_fr
+#EXTINF:-1 tvg-id="TVlife" tvg-name="LifeTV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/TVlife.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",LifeTV
+https://sledovani-cz.mark-clark.workers.dev/?ID=TVlife
+#EXTINF:-1 tvg-id="hobby" tvg-name="Hobby TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/hobby.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Hobby TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=hobby
+#EXTINF:-1 tvg-id="mnamtv" tvg-name="TV Mňam" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/mnamtv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",TV Mňam
+https://sledovani-cz.mark-clark.workers.dev/?ID=mnamtv
+#EXTINF:-1 tvg-id="mnau" tvg-name="TV Mňau" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/mnau.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",TV Mňau
+https://sledovani-cz.mark-clark.workers.dev/?ID=mnau
+#EXTINF:-1 tvg-id="zoo_brno_a_vesnice" tvg-name="Zoo Brno - Africká vesnice" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/zoo_brno_a_vesnice.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Zoo Brno - Africká vesnice
+https://sledovani-cz.mark-clark.workers.dev/?ID=zoo_brno_a_vesnice
+#EXTINF:-1 tvg-id="zoo_brno_m_kamcatsky" tvg-name="Zoo Brno - Medvěd kamčatský" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/zoo_brno_m_kamcatsky.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Zoo Brno - Medvěd kamčatský
+https://sledovani-cz.mark-clark.workers.dev/?ID=zoo_brno_m_kamcatsky
+#EXTINF:-1 tvg-id="zoo_brno_m_ledni" tvg-name="Zoo Brno - Medvěd lední" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/zoo_brno_m_ledni.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Zoo Brno - Medvěd lední
+https://sledovani-cz.mark-clark.workers.dev/?ID=zoo_brno_m_ledni
+#EXTINF:-1 tvg-id="komentovana_krmeni" tvg-name="Zoo Brno - Komentovaná krmení" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/Polar.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Zoo Brno - Komentovaná krmení
+https://sledovani-cz.mark-clark.workers.dev/?ID=komentovana_krmeni
+#EXTINF:-1 tvg-id="slovacko" tvg-name="TVS" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/slovacko.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",TVS
+https://sledovani-cz.mark-clark.workers.dev/?ID=slovacko
+#EXTINF:-1 tvg-id="v1tv" tvg-name="V1 TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/v1tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",V1 TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=v1tv
+#EXTINF:-1 tvg-id="brno1" tvg-name="TV Brno 1" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/brno1.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",TV Brno 1
+https://sledovani-cz.mark-clark.workers.dev/?ID=brno1
+#EXTINF:-1 tvg-id="rtm_plus_liberec" tvg-name="rtm+" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/rtm_plus_liberec.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",rtm+
+https://sledovani-cz.mark-clark.workers.dev/?ID=rtm_plus_liberec
+#EXTINF:-1 tvg-id="oik" tvg-name="OIK TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/oik.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",OIK TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=oik
+#EXTINF:-1 tvg-id="orf1" tvg-name="ORF 1" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/orf1.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ORF 1
+https://sledovani-cz.mark-clark.workers.dev/?ID=orf1
+#EXTINF:-1 tvg-id="orf2" tvg-name="ORF 2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/orf2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ORF 2
+https://sledovani-cz.mark-clark.workers.dev/?ID=orf2
+#EXTINF:-1 tvg-id="m1" tvg-name="M1" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/m1.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",M1
+https://sledovani-cz.mark-clark.workers.dev/?ID=m1
+#EXTINF:-1 tvg-id="m2" tvg-name="M2" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/m2.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",M2
+https://sledovani-cz.mark-clark.workers.dev/?ID=m2
+#EXTINF:-1 tvg-id="duna" tvg-name="Duna" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/duna.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Duna
+https://sledovani-cz.mark-clark.workers.dev/?ID=duna
+#EXTINF:-1 tvg-id="m4" tvg-name="M4 Sport" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/m4.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",M4 Sport
+https://sledovani-cz.mark-clark.workers.dev/?ID=m4
+#EXTINF:-1 tvg-id="m5" tvg-name="M5" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/m5.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",M5
+https://sledovani-cz.mark-clark.workers.dev/?ID=m5
+#EXTINF:-1 tvg-id="dunaworld" tvg-name="Duna World" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/dunaworld.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Duna World
+https://sledovani-cz.mark-clark.workers.dev/?ID=dunaworld
+#EXTINF:-1 tvg-id="loop_naturetv-galerie-zvirat" tvg-name="Galerie zvířat" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/cms_tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Galerie zvířat
+https://sledovani-cz.mark-clark.workers.dev/?ID=loop_naturetv-galerie-zvirat
+#EXTINF:-1 tvg-id="uscenes_cat_cafe" tvg-name="Kočičí kavárna" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/stork_nest.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Kočičí kavárna
+https://sledovani-cz.mark-clark.workers.dev/?ID=uscenes_cat_cafe
+#EXTINF:-1 tvg-id="tik_bohumin" tvg-name="Tik Bohumín" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/tik_bohumin.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Tik Bohumín
+https://sledovani-cz.mark-clark.workers.dev/?ID=tik_bohumin
+#EXTINF:-1 tvg-id="rt_jc" tvg-name="Kurýr TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/rt_jc.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Kurýr TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=rt_jc
+#EXTINF:-1 tvg-id="rt_ustecko" tvg-name="RT Ústecko" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/rt_ustecko.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",RT Ústecko
+https://sledovani-cz.mark-clark.workers.dev/?ID=rt_ustecko
+#EXTINF:-1 tvg-id="pscr" tvg-name="Poslanecká sněmovna ČR" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/pscr.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Poslanecká sněmovna ČR
+https://sledovani-cz.mark-clark.workers.dev/?ID=pscr
+#EXTINF:-1 tvg-id="ard" tvg-name="Das Erste" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/ard.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Das Erste
+https://sledovani-cz.mark-clark.workers.dev/?ID=ard
+#EXTINF:-1 tvg-id="zdf" tvg-name="ZDF" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/zdf.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",ZDF
+https://sledovani-cz.mark-clark.workers.dev/?ID=zdf
+#EXTINF:-1 tvg-id="warner_tv" tvg-name="Warner TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/warner_tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Warner TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=warner_tv
+#EXTINF:-1 tvg-id="pohoda" tvg-name="Relax" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/pohoda.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Relax
+https://sledovani-cz.mark-clark.workers.dev/?ID=pohoda
+#EXTINF:-1 tvg-id="rebel" tvg-name="Rebel" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/rebel.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Rebel
+https://sledovani-cz.mark-clark.workers.dev/?ID=rebel
+#EXTINF:-1 tvg-id="sporty_tv" tvg-name="Sporty TV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/sporty_tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",Sporty TV
+https://sledovani-cz.mark-clark.workers.dev/?ID=sporty_tv
+#EXTINF:-1 tvg-id="baby_tv" tvg-name="BabyTV" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/baby_tv.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",BabyTV
+https://sledovani-cz.mark-clark.workers.dev/?ID=baby_tv
+#EXTINF:-1 tvg-id="tv_doktor" tvg-name="TV Doktor" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/tv_doktor.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",TV Doktor
+https://sledovani-cz.mark-clark.workers.dev/?ID=tv_doktor
+#EXTINF:-1 tvg-id="tv_prerov" tvg-name="TV Přerov" group-title="Sledovani-CZ" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=http://static.srv.czcloud.i.mtvreg.com/cache/logos512/tv_prerov.png&width=96&height=96&image2=https://sledovanitv.cz/img/lock_512x512.png&width2=96",TV Přerov
+https://sledovani-cz.mark-clark.workers.dev/?ID=tv_prerov

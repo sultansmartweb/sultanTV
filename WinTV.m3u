@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Willax_WIN" tvg-name="Willax" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Willax_WIN.png",Willax
+https://win.mark-clark.workers.dev/?ID=Willax_WIN
+#EXTINF:-1 tvg-id="Latina_WIN" tvg-name="Latina" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Latina_WIN.png",Latina
+https://win.mark-clark.workers.dev/?ID=Latina_WIN
+#EXTINF:-1 tvg-id="RPP" tvg-name="RPP" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/RPP.png",RPP
+https://win.mark-clark.workers.dev/?ID=RPP
+#EXTINF:-1 tvg-id="AmericaTV_WIN" tvg-name="America TV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/AmericaTV_WIN.png",America TV
+https://win.mark-clark.workers.dev/?ID=AmericaTV_WIN
+#EXTINF:-1 tvg-id="Panamerica_WIN" tvg-name="Panamericana" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Panamerica_WIN.png",Panamericana
+https://win.mark-clark.workers.dev/?ID=Panamerica_WIN
+#EXTINF:-1 tvg-id="TV_Peru_Noticias_WIN" tvg-name="TV Perú Noticias" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/TV_Peru_Noticias_WIN.png",TV Perú Noticias
+https://win.mark-clark.workers.dev/?ID=TV_Peru_Noticias_WIN
+#EXTINF:-1 tvg-id="TVPERU_WIN" tvg-name="TVPerú" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/TVPERU_WIN.png",TVPerú
+https://win.mark-clark.workers.dev/?ID=TVPERU_WIN
+#EXTINF:-1 tvg-id="PBO" tvg-name="PBO" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/PBO.png",PBO
+https://win.mark-clark.workers.dev/?ID=PBO
+#EXTINF:-1 tvg-id="ATV_WIN" tvg-name="ATV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/ATV_WIN.png",ATV
+https://win.mark-clark.workers.dev/?ID=ATV_WIN
+#EXTINF:-1 tvg-id="TeleLima" tvg-name="Tele Lima" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/ATV_Noticias_WIN.png",Tele Lima
+https://win.mark-clark.workers.dev/?ID=TeleLima
+#EXTINF:-1 tvg-id="ATV_SUR_WIN" tvg-name="ATV Sur" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/ATV_SUR_WIN.png",ATV Sur
+https://win.mark-clark.workers.dev/?ID=ATV_SUR_WIN
+#EXTINF:-1 tvg-id="GlobalTV_WIN" tvg-name="GlobalTV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/GlobalTV_WIN.png",GlobalTV
+https://win.mark-clark.workers.dev/?ID=GlobalTV_WIN
+#EXTINF:-1 tvg-id="Latele" tvg-name="Latele" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Latele.png",Latele
+https://win.mark-clark.workers.dev/?ID=Latele
+#EXTINF:-1 tvg-id="EnlaceTV_WIN" tvg-name="Nativa" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/EnlaceTV_WIN.png",Nativa
+https://win.mark-clark.workers.dev/?ID=EnlaceTV_WIN
+#EXTINF:-1 tvg-id="JusticiaTV_WIN" tvg-name="JUSTICIATV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/JusticiaTV_WIN.png",JUSTICIATV
+https://win.mark-clark.workers.dev/?ID=JusticiaTV_WIN
+#EXTINF:-1 tvg-id="L1" tvg-name="L1" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/L1.png",L1
+https://win.mark-clark.workers.dev/?ID=L1
+#EXTINF:-1 tvg-id="L1_MAX" tvg-name="L1 Max" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/L1_MAX.png",L1 Max
+https://win.mark-clark.workers.dev/?ID=L1_MAX
+#EXTINF:-1 tvg-id="TITAN" tvg-name="Titan" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/TITAN.png",Titan
+https://win.mark-clark.workers.dev/?ID=TITAN
+#EXTINF:-1 tvg-id="History_Channel" tvg-name="History Channel" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/History_Channel.png",History Channel
+https://win.mark-clark.workers.dev/?ID=History_Channel
+#EXTINF:-1 tvg-id="History_Channel_2" tvg-name="History Channel 2" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/History_Channel_2.png",History Channel 2
+https://win.mark-clark.workers.dev/?ID=History_Channel_2
+#EXTINF:-1 tvg-id="E" tvg-name="E!" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/E.png",E!
+https://win.mark-clark.workers.dev/?ID=E
+#EXTINF:-1 tvg-id="TELEFE" tvg-name="Telefe" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/TELEFE.png",Telefe
+https://win.mark-clark.workers.dev/?ID=TELEFE
+#EXTINF:-1 tvg-id="Comedy_Central" tvg-name="Comedy Central" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Comedy_Central.png",Comedy Central
+https://win.mark-clark.workers.dev/?ID=Comedy_Central
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/MTV.png",MTV
+https://win.mark-clark.workers.dev/?ID=MTV
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Telemundo.png",Telemundo
+https://win.mark-clark.workers.dev/?ID=Telemundo
+#EXTINF:-1 tvg-id="Azteca_internacional" tvg-name="Azteca internacional" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Azteca_internacional.png",Azteca internacional
+https://win.mark-clark.workers.dev/?ID=Azteca_internacional
+#EXTINF:-1 tvg-id="Clic" tvg-name="Clic" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Clic.png",Clic
+https://win.mark-clark.workers.dev/?ID=Clic
+#EXTINF:-1 tvg-id="Corazon" tvg-name="Corazón" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Corazon.png",Corazón
+https://win.mark-clark.workers.dev/?ID=Corazon
+#EXTINF:-1 tvg-id="NOVELAS" tvg-name="Novelas" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/NOVELAS.png",Novelas
+https://win.mark-clark.workers.dev/?ID=NOVELAS
+#EXTINF:-1 tvg-id="Nuestra_tele" tvg-name="Nuestra Tele" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Nuestra_tele.png",Nuestra Tele
+https://win.mark-clark.workers.dev/?ID=Nuestra_tele
+#EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/pasiones.png",Pasiones
+https://win.mark-clark.workers.dev/?ID=pasiones
+#EXTINF:-1 tvg-id="HOGAR_TV" tvg-name="Hogar TV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/HOGAR_TV.png",Hogar TV
+https://win.mark-clark.workers.dev/?ID=HOGAR_TV
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Nick.png",Nickelodeon
+https://win.mark-clark.workers.dev/?ID=Nick
+#EXTINF:-1 tvg-id="Nick_jr" tvg-name="Nick Jr." group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Nick_jr.png",Nick Jr.
+https://win.mark-clark.workers.dev/?ID=Nick_jr
+#EXTINF:-1 tvg-id="Tenn_nick" tvg-name="Teen Nick" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Tenn_nick.png",Teen Nick
+https://win.mark-clark.workers.dev/?ID=Tenn_nick
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Dreamworks.png",Dreamworks
+https://win.mark-clark.workers.dev/?ID=Dreamworks
+#EXTINF:-1 tvg-id="FMH_KIDS" tvg-name="FMH Kids" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/FMH_KIDS.png",FMH Kids
+https://win.mark-clark.workers.dev/?ID=FMH_KIDS
+#EXTINF:-1 tvg-id="FUNBOX" tvg-name="Fun box" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/FUNBOX.png",Fun box
+https://win.mark-clark.workers.dev/?ID=FUNBOX
+#EXTINF:-1 tvg-id="IPE_WIN" tvg-name="Ipe" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/IPE_WIN.png",Ipe
+https://win.mark-clark.workers.dev/?ID=IPE_WIN
+#EXTINF:-1 tvg-id="AntenaUno" tvg-name="Antena Uno" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Paramount.png",Antena Uno
+https://win.mark-clark.workers.dev/?ID=AntenaUno
+#EXTINF:-1 tvg-id="Universal_Channel" tvg-name="Universal Channel" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Universal_Channel.png",Universal Channel
+https://win.mark-clark.workers.dev/?ID=Universal_Channel
+#EXTINF:-1 tvg-id="Studio_Universal" tvg-name="Studio Universal" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Studio_Universal.png",Studio Universal
+https://win.mark-clark.workers.dev/?ID=Studio_Universal
+#EXTINF:-1 tvg-id="Sony_Channel" tvg-name="Sony Channel" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Sony_Channel.png",Sony Channel
+https://win.mark-clark.workers.dev/?ID=Sony_Channel
+#EXTINF:-1 tvg-id="Sony_Movies" tvg-name="Sony Movies" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Sony_Movies.png",Sony Movies
+https://win.mark-clark.workers.dev/?ID=Sony_Movies
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/AXN.png",AXN
+https://win.mark-clark.workers.dev/?ID=AXN
+#EXTINF:-1 tvg-id="AyE" tvg-name="A&E" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/AyE.png",A&E
+https://win.mark-clark.workers.dev/?ID=AyE
+#EXTINF:-1 tvg-id="Life_Time" tvg-name="Life Time" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Life_Time.png",Life Time
+https://win.mark-clark.workers.dev/?ID=Life_Time
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/USA.png",USA
+https://win.mark-clark.workers.dev/?ID=USA
+#EXTINF:-1 tvg-id="FMH_MOVIES" tvg-name="FMH Movies" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/FMH_MOVIES.png",FMH Movies
+https://win.mark-clark.workers.dev/?ID=FMH_MOVIES
+#EXTINF:-1 tvg-id="FMH_FAMILY" tvg-name="FMH Family" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/FMH_FAMILY.png",FMH Family
+https://win.mark-clark.workers.dev/?ID=FMH_FAMILY
+#EXTINF:-1 tvg-id="REWIND" tvg-name="Rewind" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/REWIND.png",Rewind
+https://win.mark-clark.workers.dev/?ID=REWIND
+#EXTINF:-1 tvg-id="Clover_Channel" tvg-name="Clover Channel" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Clover_Channel.png",Clover Channel
+https://win.mark-clark.workers.dev/?ID=Clover_Channel
+#EXTINF:-1 tvg-id="Xtime_channel" tvg-name="Xtime Channel" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Xtime_channel.png",Xtime Channel
+https://win.mark-clark.workers.dev/?ID=Xtime_channel
+#EXTINF:-1 tvg-id="CineClick" tvg-name="Cine Click" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/CineClick.png",Cine Click
+https://win.mark-clark.workers.dev/?ID=CineClick
+#EXTINF:-1 tvg-id="Cinema" tvg-name="Cinema" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Cinema.png",Cinema
+https://win.mark-clark.workers.dev/?ID=Cinema
+#EXTINF:-1 tvg-id="NTN24" tvg-name="NTN 24" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/RT.png",NTN 24
+https://win.mark-clark.workers.dev/?ID=NTN24
+#EXTINF:-1 tvg-id="DWEspanolHD" tvg-name="DW Español" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/DWEspanolHD.png",DW Español
+https://win.mark-clark.workers.dev/?ID=DWEspanolHD
+#EXTINF:-1 tvg-id="France24" tvg-name="France24" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/France24.png",France24
+https://win.mark-clark.workers.dev/?ID=France24
+#EXTINF:-1 tvg-id="VPI" tvg-name="VPI" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/VPI.png",VPI
+https://win.mark-clark.workers.dev/?ID=VPI
+#EXTINF:-1 tvg-id="TVL" tvg-name="TVL" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/ODVT.png",TVL
+https://win.mark-clark.workers.dev/?ID=TVL
+#EXTINF:-1 tvg-id="USMP_WIN" tvg-name="USMP TV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/USMP_WIN.png",USMP TV
+https://win.mark-clark.workers.dev/?ID=USMP_WIN
+#EXTINF:-1 tvg-id="Exitosa_WIN" tvg-name="Exitosa" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Exitosa_WIN.png",Exitosa
+https://win.mark-clark.workers.dev/?ID=Exitosa_WIN
+#EXTINF:-1 tvg-id="Conecta2" tvg-name="Conecta2" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Conecta2.png",Conecta2
+https://win.mark-clark.workers.dev/?ID=Conecta2
+#EXTINF:-1 tvg-id="CANALB" tvg-name="CANAL B" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Viva_WIN.png",CANAL B
+https://win.mark-clark.workers.dev/?ID=CANALB
+#EXTINF:-1 tvg-id="Milenial" tvg-name="Milenial TV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/digital.png",Milenial TV
+https://win.mark-clark.workers.dev/?ID=Milenial
+#EXTINF:-1 tvg-id="Trivu_TV1" tvg-name="Trivu TV 1" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Trivu_TV1.png",Trivu TV 1
+https://win.mark-clark.workers.dev/?ID=Trivu_TV1
+#EXTINF:-1 tvg-id="ASIRI" tvg-name="ASIRI tv" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/BETHER_WIN_stream_o5.png",ASIRI tv
+https://win.mark-clark.workers.dev/?ID=ASIRI
+#EXTINF:-1 tvg-id="JN19_WIN" tvg-name="JN19" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/JN19_WIN.png",JN19
+https://win.mark-clark.workers.dev/?ID=JN19_WIN
+#EXTINF:-1 tvg-id="MTV_Hits" tvg-name="MTV Hits" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/MTV_Hits.png",MTV Hits
+https://win.mark-clark.workers.dev/?ID=MTV_Hits
+#EXTINF:-1 tvg-id="MTV_80s" tvg-name="MTV 80's" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/MTV_80s.png",MTV 80's
+https://win.mark-clark.workers.dev/?ID=MTV_80s
+#EXTINF:-1 tvg-id="MTV_Live" tvg-name="MTV_Live" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/MTV_Live.png",MTV_Live
+https://win.mark-clark.workers.dev/?ID=MTV_Live
+#EXTINF:-1 tvg-id="Karibena_WIN" tvg-name="Karibeña" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Karibena_WIN.png",Karibeña
+https://win.mark-clark.workers.dev/?ID=Karibena_WIN
+#EXTINF:-1 tvg-id="Folklore" tvg-name="Folklore Tv" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/TopLatino_win.png",Folklore Tv
+https://win.mark-clark.workers.dev/?ID=Folklore
+#EXTINF:-1 tvg-id="Rumba_TV" tvg-name="Rumba TV" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/Rumba_TV.png",Rumba TV
+https://win.mark-clark.workers.dev/?ID=Rumba_TV
+#EXTINF:-1 tvg-id="E_Sport_Go" tvg-name="E Sports Go" group-title="WinTV" tvg-logo="https://win.moderntv.eu/cache/biglogos/OVACION-locked.png",E Sports Go
+https://win.mark-clark.workers.dev/?ID=E_Sport_Go

@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="21" tvg-name="beIN GURME" group-title="YAŞAM EĞLENCE" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w_Gurme_250x150_2022.png",beIN GURME
+http://sultansmart.serv00.net/Sports.php?ID=30346
+#EXTINF:-1 tvg-id="4" tvg-name="beIN MOVIES TURK" group-title="FİLM" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w_Bein_Movies_Turk_250x150_2022.png",beIN MOVIES TURK
+http://sultansmart.serv00.net/Sports.php?ID=29045
+#EXTINF:-1 tvg-id="18" tvg-name="beIN İZ" group-title="BELGESEL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w_bein_iz_250x150_2022.png",beIN İZ
+http://sultansmart.serv00.net/Sports.php?ID=3337
+#EXTINF:-1 tvg-id="23" tvg-name="TRT 1" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png",TRT 1
+http://sultansmart.serv00.net/Sports.php?ID=3165
+#EXTINF:-1 tvg-id="25" tvg-name="ATV" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/atv_250x150_14_07_21_png.png",ATV
+http://sultansmart.serv00.net/Sports.php?ID=3194
+#EXTINF:-1 tvg-id="24" tvg-name="KANAL D" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png",KANAL D
+http://sultansmart.serv00.net/Sports.php?ID=3182
+#EXTINF:-1 tvg-id="224" tvg-name="EURO D" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kanal_eurod.png",EURO D
+http://sultansmart.serv00.net/Sports.php?ID=23292
+#EXTINF:-1 tvg-id="227" tvg-name="EURO STAR" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kanal_eurostar.png",EURO STAR
+http://sultansmart.serv00.net/Sports.php?ID=23291
+#EXTINF:-1 tvg-id="27" tvg-name="STAR TV" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/star250x150.png",STAR TV
+http://sultansmart.serv00.net/Sports.php?ID=3289
+#EXTINF:-1 tvg-id="22" tvg-name="SHOW TV" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/SHOW_TURK250x150.jpg",SHOW TV
+http://sultansmart.serv00.net/Sports.php?ID=3181
+#EXTINF:-1 tvg-id="36" tvg-name="BEYAZ TV" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beyaz_250x150.png",BEYAZ TV
+http://sultansmart.serv00.net/Sports.php?ID=3473
+#EXTINF:-1 tvg-id="34" tvg-name="KANAL 7 AVRUPA" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kanal7avrupa250.png",KANAL 7 AVRUPA
+http://sultansmart.serv00.net/Sports.php?ID=245409
+#EXTINF:-1 tvg-id="28" tvg-name="TV8" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png",TV8
+http://sultansmart.serv00.net/Sports.php?ID=3178
+#EXTINF:-1 tvg-id="55" tvg-name="TV8,5" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/tv8-5_250x150.png",TV8,5
+http://sultansmart.serv00.net/Sports.php?ID=222073
+#EXTINF:-1 tvg-id="29" tvg-name="360" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/360_250x150.png",360
+http://sultansmart.serv00.net/Sports.php?ID=3210
+#EXTINF:-1 tvg-id="37" tvg-name="tv100" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/tv_100_250x150.png",tv100
+http://sultansmart.serv00.net/Sports.php?ID=165598
+#EXTINF:-1 tvg-id="35" tvg-name="A2" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png",A2
+http://sultansmart.serv00.net/Sports.php?ID=108128
+#EXTINF:-1 tvg-id="54" tvg-name="TEVE2" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/teve2_250x150.png",TEVE2
+http://sultansmart.serv00.net/Sports.php?ID=20005
+#EXTINF:-1 tvg-id="52" tvg-name="ULUSAL TV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/ulusal_tv_250x150.png",ULUSAL TV
+http://sultansmart.serv00.net/Sports.php?ID=248078
+#EXTINF:-1 tvg-id="62" tvg-name="KRT TV" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/krt_250_150.png",KRT TV
+http://sultansmart.serv00.net/Sports.php?ID=156630
+#EXTINF:-1 tvg-id="39" tvg-name="TVNET" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/tvnet_250x250.png",TVNET
+http://sultansmart.serv00.net/Sports.php?ID=3413
+#EXTINF:-1 tvg-id="40" tvg-name="24 TV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kanal24_250x150.png",24 TV
+http://sultansmart.serv00.net/Sports.php?ID=3366
+#EXTINF:-1 tvg-id="38" tvg-name="ÜLKE TV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/ulket_250x150.png",ÜLKE TV
+http://sultansmart.serv00.net/Sports.php?ID=3415
+#EXTINF:-1 tvg-id="53" tvg-name="HALK TV" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/HALKTV_Yeni_250x150.png",HALK TV
+http://sultansmart.serv00.net/Sports.php?ID=3384
+#EXTINF:-1 tvg-id="48" tvg-name="TELE 1" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/tele1_250x150.png",TELE 1
+http://sultansmart.serv00.net/Sports.php?ID=3338
+#EXTINF:-1 tvg-id="41" tvg-name="NTV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/ntv_250x150.png",NTV
+http://sultansmart.serv00.net/Sports.php?ID=3171
+#EXTINF:-1 tvg-id="43" tvg-name="A PARA" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/a_para_250x150.png",A PARA
+http://sultansmart.serv00.net/Sports.php?ID=147944
+#EXTINF:-1 tvg-id="42" tvg-name="CNN TURK" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/cnnturk_250x150.png",CNN TURK
+http://sultansmart.serv00.net/Sports.php?ID=3173
+#EXTINF:-1 tvg-id="44" tvg-name="HABERTURK" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/haberturk_250x150.png",HABERTURK
+http://sultansmart.serv00.net/Sports.php?ID=3262
+#EXTINF:-1 tvg-id="31" tvg-name="BLOOMBERG HT" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/bloomberg_250x150.png",BLOOMBERG HT
+http://sultansmart.serv00.net/Sports.php?ID=3468
+#EXTINF:-1 tvg-id="45" tvg-name="TGRT HABER" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/tgrtg_logo_beyaz.png",TGRT HABER
+http://sultansmart.serv00.net/Sports.php?ID=3302
+#EXTINF:-1 tvg-id="33" tvg-name="TRT HABER" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTHaber250X150.png",TRT HABER
+http://sultansmart.serv00.net/Sports.php?ID=3470
+#EXTINF:-1 tvg-id="32" tvg-name="AHABER" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/ahaber_250x150.png",AHABER
+http://sultansmart.serv00.net/Sports.php?ID=7383
+#EXTINF:-1 tvg-id="47" tvg-name="HABERGLOBAL" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/HABER_GLOBAL250.jpg",HABERGLOBAL
+http://sultansmart.serv00.net/Sports.php?ID=150811
+#EXTINF:-1 tvg-id="46" tvg-name="EKOTURK" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/ekoturk_250x150_28042021.png",EKOTURK
+http://sultansmart.serv00.net/Sports.php?ID=150812
+#EXTINF:-1 tvg-id="77" tvg-name="beIN SPORTS INT" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",beIN SPORTS INT
+http://sultansmart.serv00.net/Sports.php?ID=175983
+#EXTINF:-1 tvg-id="78" tvg-name="beIN SPORTS 2" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",beIN SPORTS 2
+http://sultansmart.serv00.net/Sports.php?ID=9001
+#EXTINF:-1 tvg-id="2909" tvg-name="beIN SPORTS 90+1" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/90-1-250x150.png",beIN SPORTS 90+1
+http://sultansmart.serv00.net/Sports.php?ID=86945
+#EXTINF:-1 tvg-id="82" tvg-name="beIN SPORTS MAX 1" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png",beIN SPORTS MAX 1
+http://sultansmart.serv00.net/Sports.php?ID=3363
+#EXTINF:-1 tvg-id="83" tvg-name="beIN SPORTS MAX 2" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png",beIN SPORTS MAX 2
+http://sultansmart.serv00.net/Sports.php?ID=93633
+#EXTINF:-1 tvg-id="1004" tvg-name="Sportdigital" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/sportdigital250.png",Sportdigital
+http://sultansmart.serv00.net/Sports.php?ID=58438
+#EXTINF:-1 tvg-id="1223" tvg-name="beIN SPORTS  XTRA" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-Sports-Xtra-Kare-250x150.png",beIN SPORTS  XTRA
+http://sultansmart.serv00.net/Sports.php?ID=229949
+#EXTINF:-1 tvg-id="1224" tvg-name="beIN SPORTS XTRA  EN ESPAÑOL" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-Sports-Xtra-250x150.png",beIN SPORTS XTRA  EN ESPAÑOL
+http://sultansmart.serv00.net/Sports.php?ID=229951
+#EXTINF:-1 tvg-id="88" tvg-name="A SPOR" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/A_Spor_Hd.png",A SPOR
+http://sultansmart.serv00.net/Sports.php?ID=54208
+#EXTINF:-1 tvg-id="86" tvg-name="TRT SPOR" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTSPOR_250X150_BEYAZ.png",TRT SPOR
+http://sultansmart.serv00.net/Sports.php?ID=15921
+#EXTINF:-1 tvg-id="87" tvg-name="TRT SPOR YILDIZ" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTsporYILDIZ250png.png",TRT SPOR YILDIZ
+http://sultansmart.serv00.net/Sports.php?ID=171479
+#EXTINF:-1 tvg-id="76" tvg-name="FB TV" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/fbtv_250x150.png",FB TV
+http://sultansmart.serv00.net/Sports.php?ID=3308
+#EXTINF:-1 tvg-id="75" tvg-name="HT SPOR" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/HT_SPOR_LOGO250.png",HT SPOR
+http://sultansmart.serv00.net/Sports.php?ID=250228
+#EXTINF:-1 tvg-id="189" tvg-name="YABAN TV" group-title="BELGESEL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/yaban_250x150.png",YABAN TV
+http://sultansmart.serv00.net/Sports.php?ID=171295
+#EXTINF:-1 tvg-id="190" tvg-name="TRT BELGESEL" group-title="BELGESEL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png",TRT BELGESEL
+http://sultansmart.serv00.net/Sports.php?ID=3463
+#EXTINF:-1 tvg-id="66" tvg-name="TRT 2" group-title="YAŞAM EĞLENCE" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRT2_250X150_white.png",TRT 2
+http://sultansmart.serv00.net/Sports.php?ID=161344
+#EXTINF:-1 tvg-id="50" tvg-name="FLASH HABER" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Flashhabe250.png",FLASH HABER
+http://sultansmart.serv00.net/Sports.php?ID=225924
+#EXTINF:-1 tvg-id="51" tvg-name="LİDER HABER TV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/LIDERhaberSARI250x150.png",LİDER HABER TV
+http://sultansmart.serv00.net/Sports.php?ID=228408
+#EXTINF:-1 tvg-id="60" tvg-name="SÖZCÜ TV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/sozcuutv250X150.png",SÖZCÜ TV
+http://sultansmart.serv00.net/Sports.php?ID=230777
+#EXTINF:-1 tvg-id="63" tvg-name="BENGÜTÜRK" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/benguturk250.png",BENGÜTÜRK
+http://sultansmart.serv00.net/Sports.php?ID=233876
+#EXTINF:-1 tvg-id="59" tvg-name="TÜRKHABER TV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TURKhaberTV250.png",TÜRKHABER TV
+http://sultansmart.serv00.net/Sports.php?ID=234025
+#EXTINF:-1 tvg-id="49" tvg-name="EKOL TV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/EKOL_TV_250x150.png",EKOL TV
+http://sultansmart.serv00.net/Sports.php?ID=246595
+#EXTINF:-1 tvg-id="69" tvg-name="AKİT TV" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Akit_TV_250.png",AKİT TV
+http://sultansmart.serv00.net/Sports.php?ID=246871
+#EXTINF:-1 tvg-id="104" tvg-name="TRT MÜZİK" group-title="MÜZİK" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/trtmuzik_250x150._ksm2021.png",TRT MÜZİK
+http://sultansmart.serv00.net/Sports.php?ID=3465
+#EXTINF:-1 tvg-id="170" tvg-name="MİNİKAGO" group-title="ÇOCUK" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/1280px-MinikaGO_Logo250X150.png",MİNİKAGO
+http://sultansmart.serv00.net/Sports.php?ID=6701
+#EXTINF:-1 tvg-id="160" tvg-name="TRT ÇOCUK" group-title="ÇOCUK" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/trtcocuk_b_250x150._ksm2021_2.png",TRT ÇOCUK
+http://sultansmart.serv00.net/Sports.php?ID=3446
+#EXTINF:-1 tvg-id="67" tvg-name="VAV TV" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/vav_250x150_nis2021.png",VAV TV
+http://sultansmart.serv00.net/Sports.php?ID=202424
+#EXTINF:-1 tvg-id="57" tvg-name="TRT AVAZ" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTavaz250X150.png",TRT AVAZ
+http://sultansmart.serv00.net/Sports.php?ID=3448
+#EXTINF:-1 tvg-id="61" tvg-name="TRT TURK" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTturk250X150.png",TRT TURK
+http://sultansmart.serv00.net/Sports.php?ID=3467
+#EXTINF:-1 tvg-id="58" tvg-name="TRT KURDI" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTkurdi250X150.png",TRT KURDI
+http://sultansmart.serv00.net/Sports.php?ID=3449
+#EXTINF:-1 tvg-id="142" tvg-name="TRT WORLD" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/trt-world-televizyon.png",TRT WORLD
+http://sultansmart.serv00.net/Sports.php?ID=86137
+#EXTINF:-1 tvg-id="64" tvg-name="EKOL SPORTS" group-title="SPOR" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/EKOL_SPORTS_250x150.png",EKOL SPORTS
+http://sultansmart.serv00.net/Sports.php?ID=254396
+#EXTINF:-1 tvg-id="2963" tvg-name="GZT" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/gzt_logo250.jpeg",GZT
+http://sultansmart.serv00.net/Sports.php?ID=254379
+#EXTINF:-1 tvg-id="73" tvg-name="TYT TÜRK" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/tyt250.jpeg",TYT TÜRK
+http://sultansmart.serv00.net/Sports.php?ID=257125
+#EXTINF:-1 tvg-id="144" tvg-name="AL JAZEERA INTERNATIONAL" group-title="ULUSLARARASI" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/AlJazeera_250x150.png",AL JAZEERA INTERNATIONAL
+http://sultansmart.serv00.net/Sports.php?ID=3373
+#EXTINF:-1 tvg-id="140" tvg-name="A NEWS" group-title="HABER" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/a-news-turkey_250x150.png",A NEWS
+http://sultansmart.serv00.net/Sports.php?ID=116648
+#EXTINF:-1 tvg-id="56" tvg-name="TRT 3 / TRT SPOR" group-title="ULUSAL" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/trt3trt3SPOR_250x150_mart2022.png",TRT 3 / TRT SPOR
+http://sultansmart.serv00.net/Sports.php?ID=216578
+#EXTINF:-1 tvg-id="147" tvg-name="AL QURAN AL KAREEM TV          " group-title="DİNİ" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kanal_al_quran_al_kareem_tv.png",AL QURAN AL KAREEM TV          
+http://sultansmart.serv00.net/Sports.php?ID=95623
+#EXTINF:-1 tvg-id="148" tvg-name="AL SUNNAH AL NABAWİYAH TV" group-title="DİNİ" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kanal_al_sunnah_al_nabawiyah_tv.png",AL SUNNAH AL NABAWİYAH TV
+http://sultansmart.serv00.net/Sports.php?ID=95631
+#EXTINF:-1 tvg-id="402" tvg-name="SUPER FM" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/superfm_250x150.png",SUPER FM
+http://sultansmart.serv00.net/Sports.php?ID=6643
+#EXTINF:-1 tvg-id="403" tvg-name="JOY TÜRK FM" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/JoyTurk_logosu.png",JOY TÜRK FM
+http://sultansmart.serv00.net/Sports.php?ID=8262
+#EXTINF:-1 tvg-id="414" tvg-name="SHOW RADYO" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/showradyo_250x150.png",SHOW RADYO
+http://sultansmart.serv00.net/Sports.php?ID=28645
+#EXTINF:-1 tvg-id="401" tvg-name="ALEM FM" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kanal_alemfm.png",ALEM FM
+http://sultansmart.serv00.net/Sports.php?ID=3219
+#EXTINF:-1 tvg-id="411" tvg-name="KRAL POP RADYO" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/250x150_kralpopfm.png",KRAL POP RADYO
+http://sultansmart.serv00.net/Sports.php?ID=100260
+#EXTINF:-1 tvg-id="415" tvg-name="KRAL FM" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/250x150_kralfm.png",KRAL FM
+http://sultansmart.serv00.net/Sports.php?ID=100262
+#EXTINF:-1 tvg-id="412" tvg-name="SLOW TURK" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/250x150_slowturk.png",SLOW TURK
+http://sultansmart.serv00.net/Sports.php?ID=100261
+#EXTINF:-1 tvg-id="406" tvg-name="TRT FM" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRfm250X150.png",TRT FM
+http://sultansmart.serv00.net/Sports.php?ID=100257
+#EXTINF:-1 tvg-id="404" tvg-name="TRT NAGME" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTNAGME250X150.png",TRT NAGME
+http://sultansmart.serv00.net/Sports.php?ID=18742
+#EXTINF:-1 tvg-id="405" tvg-name="TRT TURKU" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTturku250X150.png",TRT TURKU
+http://sultansmart.serv00.net/Sports.php?ID=18743
+#EXTINF:-1 tvg-id="407" tvg-name="TRT Radyo 3" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TRTradyo3250X150.png",TRT Radyo 3
+http://sultansmart.serv00.net/Sports.php?ID=30325
+#EXTINF:-1 tvg-id="416" tvg-name="RADYO VİVA" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/radyoviva_250x150.png",RADYO VİVA
+http://sultansmart.serv00.net/Sports.php?ID=28646
+#EXTINF:-1 tvg-id="424" tvg-name="JOY FM" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/joy_fm_250x150.png",JOY FM
+http://sultansmart.serv00.net/Sports.php?ID=12761
+#EXTINF:-1 tvg-id="413" tvg-name="RADYO 7" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/250x150_radyo7.png",RADYO 7
+http://sultansmart.serv00.net/Sports.php?ID=115833
+#EXTINF:-1 tvg-id="432" tvg-name="MASAL RADYO" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/masal_250x150.png",MASAL RADYO
+http://sultansmart.serv00.net/Sports.php?ID=3307
+#EXTINF:-1 tvg-id="408" tvg-name="KAFA RADYO" group-title="RADYO" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/kafa_radyo_250x150.png",KAFA RADYO
+http://sultansmart.serv00.net/Sports.php?ID=197572
+#EXTINF:-1 tvg-id="499" tvg-name="Test - T" group-title="BELGESEL" tvg-logo="",Test - T
+http://sultansmart.serv00.net/Sports.php?ID=253939

@@ -1,0 +1,465 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="300923" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300923.png" group-title="GLIPTV",Tapesh America
+http://sultansmart.serv00.net/GLPersian.php?ID=TapeshAmerica_HD
+#EXTINF:-1 tvg-id="307513" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307513.png" group-title="GLIPTV",Channel One
+http://sultansmart.serv00.net/GLPersian.php?ID=ChannelOne_HD
+#EXTINF:-1 tvg-id="301070" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301070.png" group-title="GLIPTV",ITN
+http://sultansmart.serv00.net/GLPersian.php?ID=ITN_HD
+#EXTINF:-1 tvg-id="307572" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307572.png" group-title="GLIPTV",Nahade Azadi
+http://sultansmart.serv00.net/GLPersian.php?ID=NahadeAzadi_HD
+#EXTINF:-1 tvg-id="300349" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300349.png" group-title="GLIPTV",Omid E Iran
+http://sultansmart.serv00.net/GLPersian.php?ID=OmidEIran_HD
+#EXTINF:-1 tvg-id="306821" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306821.png" group-title="GLIPTV",Iran International
+http://sultansmart.serv00.net/GLPersian.php?ID=IranInternational_HD
+#EXTINF:-1 tvg-id="300677" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300677.png" group-title="GLIPTV",BBC Persian
+http://sultansmart.serv00.net/GLPersian.php?ID=BBCPersian_HD
+#EXTINF:-1 tvg-id="307380" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307380.png" group-title="GLIPTV",T2 International
+http://sultansmart.serv00.net/GLPersian.php?ID=T2International_HD
+#EXTINF:-1 tvg-id="300327" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300327.png" group-title="GLIPTV",Pars TV
+http://sultansmart.serv00.net/GLPersian.php?ID=ParsTV_HD
+#EXTINF:-1 tvg-id="301403" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301403.png" group-title="GLIPTV",EuroNews Farsi
+http://sultansmart.serv00.net/GLPersian.php?ID=EuroNewsFarsi_HD
+#EXTINF:-1 tvg-id="300253" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300253.png" group-title="GLIPTV",VOA
+http://sultansmart.serv00.net/GLPersian.php?ID=VoA_HD
+#EXTINF:-1 tvg-id="306147" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306147.png" group-title="GLIPTV",RJ TV
+http://sultansmart.serv00.net/GLPersian.php?ID=RJTV_HD
+#EXTINF:-1 tvg-id="300331" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300331.png" group-title="GLIPTV",Tasvir E Iran
+http://sultansmart.serv00.net/GLPersian.php?ID=TasvirEIran_HD
+#EXTINF:-1 tvg-id="302550" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302550.png" group-title="GLIPTV",Iran e Farda
+http://sultansmart.serv00.net/GLPersian.php?ID=IraneFarda_HD
+#EXTINF:-1 tvg-id="300360" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300360.png" group-title="GLIPTV",ITC
+http://sultansmart.serv00.net/GLPersian.php?ID=ITC_HD
+#EXTINF:-1 tvg-id="301157" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301157.png" group-title="GLIPTV",TM TV
+http://sultansmart.serv00.net/GLPersian.php?ID=TMTV_HD
+#EXTINF:-1 tvg-id="300511" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300511.png" group-title="GLIPTV",MBC Persia
+http://sultansmart.serv00.net/GLPersian.php?ID=MBCPersia_HD
+#EXTINF:-1 tvg-id="306828" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306828.png" group-title="GLIPTV",Ekran Kids
+http://sultansmart.serv00.net/GLPersian.php?ID=EkranKids_HD
+#EXTINF:-1 tvg-id="306418" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306418.png" group-title="GLIPTV",Radio Farda
+http://sultansmart.serv00.net/GLPersian.php?ID=RadioFardaTV_HD
+#EXTINF:-1 tvg-id="300350" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300350.png" group-title="GLIPTV",PTV1
+http://sultansmart.serv00.net/GLPersian.php?ID=PTV1_HD
+#EXTINF:-1 tvg-id="302132" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302132.png" group-title="GLIPTV",Irane Aryaee
+http://sultansmart.serv00.net/GLPersian.php?ID=IranEAryaee_HD
+#EXTINF:-1 tvg-id="300899" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300899.png" group-title="GLIPTV",Ayeneh TV
+http://sultansmart.serv00.net/GLPersian.php?ID=AyenehTV_HD
+#EXTINF:-1 tvg-id="307414" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307414.png" group-title="GLIPTV",Afghanistan International
+http://sultansmart.serv00.net/GLPersian.php?ID=AfghanistanInternational_HD
+#EXTINF:-1 tvg-id="307044" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307044.png" group-title="GLIPTV",Your Time TV
+http://sultansmart.serv00.net/GLPersian.php?ID=YourTimeTV_HD
+#EXTINF:-1 tvg-id="306374" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306374.png" group-title="GLIPTV",Ekran Movies
+http://sultansmart.serv00.net/GLPersian.php?ID=EkranMovies_HD
+#EXTINF:-1 tvg-id="307260" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307260.png" group-title="GLIPTV",T2 America
+http://sultansmart.serv00.net/GLPersian.php?ID=T2America_HD
+#EXTINF:-1 tvg-id="306964" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306964.png" group-title="GLIPTV",Mihan TV
+http://sultansmart.serv00.net/GLPersian.php?ID=MihanTV_HD
+#EXTINF:-1 tvg-id="300578" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300578.png" group-title="GLIPTV",AFN
+http://sultansmart.serv00.net/GLPersian.php?ID=AFN_HD
+#EXTINF:-1 tvg-id="300338" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300338.png" group-title="GLIPTV",TAPESH
+http://sultansmart.serv00.net/GLPersian.php?ID=TAPESH_HD
+#EXTINF:-1 tvg-id="307356" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307356.png" group-title="GLIPTV",Iran Proud Series Plus
+http://sultansmart.serv00.net/GLPersian.php?ID=IranProudSeriesPlus_HD
+#EXTINF:-1 tvg-id="306403" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306403.png" group-title="GLIPTV",ITN Europe
+http://sultansmart.serv00.net/GLPersian.php?ID=ITNEurope_HD
+#EXTINF:-1 tvg-id="305194" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305194.png" group-title="GLIPTV",Royal Time TV
+http://sultansmart.serv00.net/GLPersian.php?ID=RoyalTimeTV_HD
+#EXTINF:-1 tvg-id="302555" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302555.png" group-title="GLIPTV",Today
+http://sultansmart.serv00.net/GLPersian.php?ID=Today_HD
+#EXTINF:-1 tvg-id="307169" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307169.png" group-title="GLIPTV",Gem Food
+http://sultansmart.serv00.net/GLPersian.php?ID=GemFood_HD
+#EXTINF:-1 tvg-id="307498" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307498.png" group-title="GLIPTV",GEM Academy
+http://sultansmart.serv00.net/GLPersian.php?ID=GEMAcademy_HD
+#EXTINF:-1 tvg-id="300202" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300202.png" group-title="GLIPTV",Film 1
+http://sultansmart.serv00.net/GLPersian.php?ID=Film1_HD
+#EXTINF:-1 tvg-id="302055" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302055.png" group-title="GLIPTV",Classic TV
+http://sultansmart.serv00.net/GLPersian.php?ID=ClassicTV_HD
+#EXTINF:-1 tvg-id="300925" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300925.png" group-title="GLIPTV",Mohabat
+http://sultansmart.serv00.net/GLPersian.php?ID=Mohabat_HD
+#EXTINF:-1 tvg-id="306337" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306337.png" group-title="GLIPTV",Khane Honarmandan
+http://sultansmart.serv00.net/GLPersian.php?ID=Khanehonarmandan_HD
+#EXTINF:-1 tvg-id="305272" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305272.png" group-title="GLIPTV",Persiana Family
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaFamily_HD
+#EXTINF:-1 tvg-id="306880" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306880.png" group-title="GLIPTV",Persiana Cinema
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaCinema_HD
+#EXTINF:-1 tvg-id="307312" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307312.png" group-title="GLIPTV",Persiana Comedy
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaComedy_HD
+#EXTINF:-1 tvg-id="303785" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303785.png" group-title="GLIPTV",GEM Documentary
+http://sultansmart.serv00.net/GLPersian.php?ID=GemDocumentary_HD
+#EXTINF:-1 tvg-id="307224" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307224.png" group-title="GLIPTV",GEM Comedy
+http://sultansmart.serv00.net/GLPersian.php?ID=GemComedy_HD
+#EXTINF:-1 tvg-id="305181" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305181.png" group-title="GLIPTV",Payvand
+http://sultansmart.serv00.net/GLPersian.php?ID=Payvand_HD
+#EXTINF:-1 tvg-id="306654" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306654.png" group-title="GLIPTV",Az Star TV
+http://sultansmart.serv00.net/GLPersian.php?ID=AzStarTV_HD
+#EXTINF:-1 tvg-id="301174" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301174.png" group-title="GLIPTV",Salaam
+http://sultansmart.serv00.net/GLPersian.php?ID=SalaamTV_HD
+#EXTINF:-1 tvg-id="307340" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307340.png" group-title="GLIPTV",Persiana Korea
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaKorea_HD
+#EXTINF:-1 tvg-id="307272" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307272.png" group-title="GLIPTV",Persiana Iranian
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaIranian_HD
+#EXTINF:-1 tvg-id="307482" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307482.png" group-title="GLIPTV",Hambastegi
+http://sultansmart.serv00.net/GLPersian.php?ID=Hambastegi_HD
+#EXTINF:-1 tvg-id="307035" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307035.png" group-title="GLIPTV",AVA Family
+http://sultansmart.serv00.net/GLPersian.php?ID=AVAFamily_HD
+#EXTINF:-1 tvg-id="307620" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307620.png" group-title="GLIPTV",Pro Sport International
+http://sultansmart.serv00.net/GLPersian.php?ID=ProSport_HD
+#EXTINF:-1 tvg-id="307250" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307250.png" group-title="GLIPTV",AVA Series
+http://sultansmart.serv00.net/GLPersian.php?ID=AVASeries_HD
+#EXTINF:-1 tvg-id="307604" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307604.png" group-title="GLIPTV",4 Turk
+http://sultansmart.serv00.net/GLPersian.php?ID=4Turk_HD
+#EXTINF:-1 tvg-id="302563" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302563.png" group-title="GLIPTV",PJ TV
+http://sultansmart.serv00.net/GLPersian.php?ID=PJTV_HD
+#EXTINF:-1 tvg-id="307449" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307449.png" group-title="GLIPTV",FX 22
+http://sultansmart.serv00.net/GLPersian.php?ID=FX22_HD
+#EXTINF:-1 tvg-id="307308" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307308.png" group-title="GLIPTV",MTC
+http://sultansmart.serv00.net/GLPersian.php?ID=MTC_HD
+#EXTINF:-1 tvg-id="307403" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307403.png" group-title="GLIPTV",ICnet 2
+http://sultansmart.serv00.net/GLPersian.php?ID=ICnet2_HD
+#EXTINF:-1 tvg-id="305147" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305147.png" group-title="GLIPTV",ICnet 1
+http://sultansmart.serv00.net/GLPersian.php?ID=ICnet_HD
+#EXTINF:-1 tvg-id="307616" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307616.png" group-title="GLIPTV",Navahang
+http://sultansmart.serv00.net/GLPersian.php?ID=Navahang_HD
+#EXTINF:-1 tvg-id="305626" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305626.png" group-title="GLIPTV",Shabakeh 7
+http://sultansmart.serv00.net/GLPersian.php?ID=Shabakeh7_HD
+#EXTINF:-1 tvg-id="307477" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307477.png" group-title="GLIPTV",Persiana Docs
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaDocs_HD
+#EXTINF:-1 tvg-id="307264" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307264.png" group-title="GLIPTV",Persiana Sport
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaSport_HD
+#EXTINF:-1 tvg-id="306561" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306561.png" group-title="GLIPTV",Eshare TV
+http://sultansmart.serv00.net/GLPersian.php?ID=EshareTV_HD
+#EXTINF:-1 tvg-id="307490" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307490.png" group-title="GLIPTV",Persiana Reality
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaReality_HD
+#EXTINF:-1 tvg-id="305198" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305198.png" group-title="GLIPTV",Didgah
+http://sultansmart.serv00.net/GLPersian.php?ID=Didgah_HD
+#EXTINF:-1 tvg-id="302142" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302142.png" group-title="GLIPTV",Farhange Iran Zamin
+http://sultansmart.serv00.net/GLPersian.php?ID=FarhangeIranZamin_HD
+#EXTINF:-1 tvg-id="307510" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307510.png" group-title="GLIPTV",Rahe Nejat
+http://sultansmart.serv00.net/GLPersian.php?ID=RaheNejat_HD
+#EXTINF:-1 tvg-id="306971" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306971.png" group-title="GLIPTV",Aein Jadeed
+http://sultansmart.serv00.net/GLPersian.php?ID=AeinJadeed_HD
+#EXTINF:-1 tvg-id="303655" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303655.png" group-title="GLIPTV",Payame Aramesh
+http://sultansmart.serv00.net/GLPersian.php?ID=PayameAramesh_HD
+#EXTINF:-1 tvg-id="307451" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307451.png" group-title="GLIPTV",Persiana Latino
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaLatino_HD
+#EXTINF:-1 tvg-id="303985" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303985.png" group-title="GLIPTV",Kanal Jadid
+http://sultansmart.serv00.net/GLPersian.php?ID=KanalJadid_HD
+#EXTINF:-1 tvg-id="300512" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300512.png" group-title="GLIPTV",GEM TV
+http://sultansmart.serv00.net/GLPersian.php?ID=GEMTV_HD
+#EXTINF:-1 tvg-id="303680" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303680.png" group-title="GLIPTV",GEM Life
+http://sultansmart.serv00.net/GLPersian.php?ID=GemLife1_HD
+#EXTINF:-1 tvg-id="307372" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307372.png" group-title="GLIPTV",Iman Be Masih 
+http://sultansmart.serv00.net/GLPersian.php?ID=ImanBeMasih_HD
+#EXTINF:-1 tvg-id="307300" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307300.png" group-title="GLIPTV",Persiana Series
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaSeries_HD
+#EXTINF:-1 tvg-id="306668" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306668.png" group-title="GLIPTV",Omid e Javedan
+http://sultansmart.serv00.net/GLPersian.php?ID=OmideJavedan_HD
+#EXTINF:-1 tvg-id="306718" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306718.png" group-title="GLIPTV",4U TV
+http://sultansmart.serv00.net/GLPersian.php?ID=4uTV_HD
+#EXTINF:-1 tvg-id="306975" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306975.png" group-title="GLIPTV",Woman TV
+http://sultansmart.serv00.net/GLPersian.php?ID=WomanTV_HD
+#EXTINF:-1 tvg-id="307360" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307360.png" group-title="GLIPTV",Persiana Plus
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaPlus_HD
+#EXTINF:-1 tvg-id="301179" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301179.png" group-title="GLIPTV",Ganj E Hozour 
+http://sultansmart.serv00.net/GLPersian.php?ID=GanjeHozour_HD
+#EXTINF:-1 tvg-id="307101" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307101.png" group-title="GLIPTV",Israel Pars TV
+http://sultansmart.serv00.net/GLPersian.php?ID=IsraelParsTV_HD
+#EXTINF:-1 tvg-id="307409" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307409.png" group-title="GLIPTV",Cafe Trade TV
+http://sultansmart.serv00.net/GLPersian.php?ID=CafeTradeTV_HD
+#EXTINF:-1 tvg-id="307424" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307424.png" group-title="GLIPTV",Nejat TV
+http://sultansmart.serv00.net/GLPersian.php?ID=NejatTV_HD
+#EXTINF:-1 tvg-id="307447" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307447.png" group-title="GLIPTV",Persian Procast
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianProcast_HD
+#EXTINF:-1 tvg-id="307304" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307304.png" group-title="GLIPTV",Net TV
+http://sultansmart.serv00.net/GLPersian.php?ID=NetTV_HD
+#EXTINF:-1 tvg-id="300830" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300830.png" group-title="GLIPTV",4u Family
+http://sultansmart.serv00.net/GLPersian.php?ID=4uFamily_HD
+#EXTINF:-1 tvg-id="307316" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307316.png" group-title="GLIPTV",Jewish TV
+http://sultansmart.serv00.net/GLPersian.php?ID=JewishTV_HD
+#EXTINF:-1 tvg-id="305270" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305270.png" group-title="GLIPTV",Erfan Halgheh
+http://sultansmart.serv00.net/GLPersian.php?ID=ErfanHalghe_HD
+#EXTINF:-1 tvg-id="306951" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306951.png" group-title="GLIPTV",Imam Hussein TV 1
+http://sultansmart.serv00.net/GLPersian.php?ID=ImamHusseinTV1_HD
+#EXTINF:-1 tvg-id="307027" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307027.png" group-title="GLIPTV",Healthmedia
+http://sultansmart.serv00.net/GLPersian.php?ID=Healthmedia_HD
+#EXTINF:-1 tvg-id="307598" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307598.png" group-title="GLIPTV",4 Sport
+http://sultansmart.serv00.net/GLPersian.php?ID=4Sport_HD
+#EXTINF:-1 tvg-id="300316" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300316.png" group-title="GLIPTV",ICnet 3
+http://sultansmart.serv00.net/GLPersian.php?ID=ICnet3_HD
+#EXTINF:-1 tvg-id="302053" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302053.png" group-title="GLIPTV",ICC
+http://sultansmart.serv00.net/GLPersian.php?ID=ICC_HD
+#EXTINF:-1 tvg-id="307562" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307562.png" group-title="GLIPTV",IRTV
+http://sultansmart.serv00.net/GLPersian.php?ID=IRTV_HD
+#EXTINF:-1 tvg-id="307376" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307376.png" group-title="GLIPTV",T2 Movies
+http://sultansmart.serv00.net/GLPersian.php?ID=T2Movies_HD
+#EXTINF:-1 tvg-id="307274" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307274.png" group-title="GLIPTV",Persiana Turkiye
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaTurkiye_HD
+#EXTINF:-1 tvg-id="304198" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304198.png" group-title="GLIPTV",Leila Forouhar
+http://sultansmart.serv00.net/GLPersian.php?ID=LeilaForouhar_HD
+#EXTINF:-1 tvg-id="307190" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307190.png" group-title="GLIPTV",Ronix
+http://sultansmart.serv00.net/GLPersian.php?ID=Ronix_HD
+#EXTINF:-1 tvg-id="307568" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307568.png" group-title="GLIPTV",Persiana Fight
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaFight_HD
+#EXTINF:-1 tvg-id="307249" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307249.png" group-title="GLIPTV",Pen TV
+http://sultansmart.serv00.net/GLPersian.php?ID=PenTV_HD
+#EXTINF:-1 tvg-id="307164" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307164.png" group-title="GLIPTV",247 Box TV
+http://sultansmart.serv00.net/GLPersian.php?ID=247BoxTV_HD
+#EXTINF:-1 tvg-id="307226" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307226.png" group-title="GLIPTV",Grand Cinema
+http://sultansmart.serv00.net/GLPersian.php?ID=GrandCinema_HD
+#EXTINF:-1 tvg-id="306890" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306890.png" group-title="GLIPTV",Persiana Junior
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaJunior_HD
+#EXTINF:-1 tvg-id="307180" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307180.png" group-title="GLIPTV",Oxir
+http://sultansmart.serv00.net/GLPersian.php?ID=Oxir_HD
+#EXTINF:-1 tvg-id="307564" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307564.png" group-title="GLIPTV",Home Plus
+http://sultansmart.serv00.net/GLPersian.php?ID=HomePlus_HD
+#EXTINF:-1 tvg-id="307465" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307465.png" group-title="GLIPTV",Tahour TV
+http://sultansmart.serv00.net/GLPersian.php?ID=TahourTV_HD
+#EXTINF:-1 tvg-id="307554" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307554.png" group-title="GLIPTV",Simay Azadi
+http://sultansmart.serv00.net/GLPersian.php?ID=SimayAzadi_HD
+#EXTINF:-1 tvg-id="307362" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307362.png" group-title="GLIPTV",Derakhte Zendegi
+http://sultansmart.serv00.net/GLPersian.php?ID=DerakhteZendegi_HD
+#EXTINF:-1 tvg-id="307383" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307383.png" group-title="GLIPTV",FX TV
+http://sultansmart.serv00.net/GLPersian.php?ID=FXTV_HD
+#EXTINF:-1 tvg-id="307389" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307389.png" group-title="GLIPTV",Sepanj
+http://sultansmart.serv00.net/GLPersian.php?ID=Sepanj_HD
+#EXTINF:-1 tvg-id="307560" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307560.png" group-title="GLIPTV",Khatereh TV
+http://sultansmart.serv00.net/GLPersian.php?ID=KhaterehTV_HD
+#EXTINF:-1 tvg-id="307453" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307453.png" group-title="GLIPTV",Farsi TV
+http://sultansmart.serv00.net/GLPersian.php?ID=FarsiTV_HD
+#EXTINF:-1 tvg-id="307570" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307570.png" group-title="GLIPTV",Persiana Medical
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaMedical_HD
+#EXTINF:-1 tvg-id="300660" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300660.png" group-title="GLIPTV",RVTV
+http://sultansmart.serv00.net/GLPersian.php?ID=RVTV_HD
+#EXTINF:-1 tvg-id="307576" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307576.png" group-title="GLIPTV",Art Talent TV
+http://sultansmart.serv00.net/GLPersian.php?ID=ART_HD
+#EXTINF:-1 tvg-id="307590" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307590.png" group-title="GLIPTV",Didaniha TV
+http://sultansmart.serv00.net/GLPersian.php?ID=DidanihaTV_HD
+#EXTINF:-1 tvg-id="307596" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307596.png" group-title="GLIPTV",Nima TV
+http://sultansmart.serv00.net/GLPersian.php?ID=NimaTV_HD
+#EXTINF:-1 tvg-id="307618" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307618.png" group-title="GLIPTV",Atrina TV
+http://sultansmart.serv00.net/GLPersian.php?ID=Atrina_HD
+#EXTINF:-1 tvg-id="307497" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307497.png" group-title="GLIPTV",GEM Pixel
+http://sultansmart.serv00.net/GLPersian.php?ID=GEMPixel_HD
+#EXTINF:-1 tvg-id="303703" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303703.png" group-title="GLIPTV",RIVER
+http://sultansmart.serv00.net/GLPersian.php?ID=RIVER_HD
+#EXTINF:-1 tvg-id="303793" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303793.png" group-title="GLIPTV",RUBIX
+http://sultansmart.serv00.net/GLPersian.php?ID=RUBIX_HD
+#EXTINF:-1 tvg-id="303715" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303715.png" group-title="GLIPTV",GEM Drama
+http://sultansmart.serv00.net/GLPersian.php?ID=GEMDrama_HD
+#EXTINF:-1 tvg-id="303759" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303759.png" group-title="GLIPTV",ONYX
+http://sultansmart.serv00.net/GLPersian.php?ID=ONYX_HD
+#EXTINF:-1 tvg-id="305709" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305709.png" group-title="GLIPTV",GEM Classic
+http://sultansmart.serv00.net/GLPersian.php?ID=GemClassic_HD
+#EXTINF:-1 tvg-id="305712" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305712.png" group-title="GLIPTV",GEM Film
+http://sultansmart.serv00.net/GLPersian.php?ID=GemFilm_HD
+#EXTINF:-1 tvg-id="307574" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307574.png" group-title="GLIPTV",GEM SPORT
+http://sultansmart.serv00.net/GLPersian.php?ID=GemSport_HD
+#EXTINF:-1 tvg-id="305101" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305101.png" group-title="GLIPTV",GEM Bollywood
+http://sultansmart.serv00.net/GLPersian.php?ID=GEMBollywood_HD
+#EXTINF:-1 tvg-id="307606" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307606.png" group-title="GLIPTV",Persiana Travel
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaTravel_HD
+#EXTINF:-1 tvg-id="307608" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307608.png" group-title="GLIPTV",Persiana Plus One
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaPlusOne_HD
+#EXTINF:-1 tvg-id="307610" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307610.png" group-title="GLIPTV",Persiana Emirates
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaEmirates_HD
+#EXTINF:-1 tvg-id="307473" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307473.png" group-title="GLIPTV",Persiana Rap
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaRap_HD
+#EXTINF:-1 tvg-id="307352" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307352.png" group-title="GLIPTV",Persiana Folk
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaFolk_HD
+#EXTINF:-1 tvg-id="307600" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307600.png" group-title="GLIPTV",4 Music
+http://sultansmart.serv00.net/GLPersian.php?ID=4Music_HD
+#EXTINF:-1 tvg-id="307314" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307314.png" group-title="GLIPTV",Maah TV
+http://sultansmart.serv00.net/GLPersian.php?ID=MaahTV_HD
+#EXTINF:-1 tvg-id="300401" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300401.png" group-title="GLIPTV",IRIB Ofogh
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBOfogh_HD
+#EXTINF:-1 tvg-id="300189" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300189.png" group-title="GLIPTV",IRINN
+http://sultansmart.serv00.net/GLPersian.php?ID=IRINN_HD
+#EXTINF:-1 tvg-id="300988" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300988.png" group-title="GLIPTV",IRIB Amoozesh
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBAmoozesh_HD
+#EXTINF:-1 tvg-id="300436" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300436.png" group-title="GLIPTV",IRIB Channel 1
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBChannel1_HD
+#EXTINF:-1 tvg-id="300409" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300409.png" group-title="GLIPTV",IRIB Channel 2
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBChannel2_HD
+#EXTINF:-1 tvg-id="307211" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307211.png" group-title="GLIPTV",IRIB Channel 3
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBChannel3_HD
+#EXTINF:-1 tvg-id="300411" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300411.png" group-title="GLIPTV",IRIB Channel 4
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBChannel4_HD
+#EXTINF:-1 tvg-id="300412" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300412.png" group-title="GLIPTV",IRIB Channel 5
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBChannel5_HD
+#EXTINF:-1 tvg-id="305004" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305004.png" group-title="GLIPTV",Tamasha
+http://sultansmart.serv00.net/GLPersian.php?ID=Tamasha_HD
+#EXTINF:-1 tvg-id="307494" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307494.png" group-title="GLIPTV",IRIB Varzesh
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBVarzesh_HD
+#EXTINF:-1 tvg-id="302511" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302511.png" group-title="GLIPTV",IRIB Namayesh
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBNamayesh_HD
+#EXTINF:-1 tvg-id="304110" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304110.png" group-title="GLIPTV",IRIB Pooya
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBPooya_HD
+#EXTINF:-1 tvg-id="300451" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300451.png" group-title="GLIPTV",IRIB Salamat
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBSalamat_HD
+#EXTINF:-1 tvg-id="302508" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302508.png" group-title="GLIPTV",iFilm Farsi
+http://sultansmart.serv00.net/GLPersian.php?ID=iFilmFarsi_HD
+#EXTINF:-1 tvg-id="302509" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302509.png" group-title="GLIPTV",IRIB Mostanad
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBMostanad_HD
+#EXTINF:-1 tvg-id="306204" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306204.png" group-title="GLIPTV",IRIB Nasim
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBNasim_HD
+#EXTINF:-1 tvg-id="300196" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300196.png" group-title="GLIPTV",IRIB Omid
+http://sultansmart.serv00.net/GLPersian.php?ID=IRIBOmid_HD
+#EXTINF:-1 tvg-id="300996" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300996.png" group-title="GLIPTV",Jahonnamo
+http://sultansmart.serv00.net/GLPersian.php?ID=Jahonnamo_HD
+#EXTINF:-1 tvg-id="300997" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300997.png" group-title="GLIPTV",Tojikiston
+http://sultansmart.serv00.net/GLPersian.php?ID=Tojikiston_HD
+#EXTINF:-1 tvg-id="300998" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300998.png" group-title="GLIPTV",TV Safina
+http://sultansmart.serv00.net/GLPersian.php?ID=TVSafina_HD
+#EXTINF:-1 tvg-id="307459" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307459.png" group-title="GLIPTV",Dushanbe
+http://sultansmart.serv00.net/GLPersian.php?ID=Dushanbe_HD
+#EXTINF:-1 tvg-id="306753" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306753.png" group-title="GLIPTV",TV Bahoriston
+http://sultansmart.serv00.net/GLPersian.php?ID=Bahoriston_HD
+#EXTINF:-1 tvg-id="306754" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306754.png" group-title="GLIPTV",Sinamo
+http://sultansmart.serv00.net/GLPersian.php?ID=Sinamo_HD
+#EXTINF:-1 tvg-id="307461" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307461.png" group-title="GLIPTV",TV Khatlon
+http://sultansmart.serv00.net/GLPersian.php?ID=TVKhatlon_HD
+#EXTINF:-1 tvg-id="307612" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307612.png" group-title="GLIPTV",TV Sayohi
+http://sultansmart.serv00.net/GLPersian.php?ID=TVSayohi_HD
+#EXTINF:-1 tvg-id="306654" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306654.png" group-title="GLIPTV",Az Star TV
+http://sultansmart.serv00.net/GLPersian.php?ID=AzStarTV_HD
+#EXTINF:-1 tvg-id="303721" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303721.png" group-title="GLIPTV",Gem AZ
+http://sultansmart.serv00.net/GLPersian.php?ID=GemAZ_HD
+#EXTINF:-1 tvg-id="300707" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300707.png" group-title="GLIPTV",Armenia1 TV
+http://sultansmart.serv00.net/GLPersian.php?ID=Armenia1_HD
+#EXTINF:-1 tvg-id="300573" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300573.png" group-title="GLIPTV",AssyriaSat
+http://sultansmart.serv00.net/GLPersian.php?ID=AssyrSat_HD
+#EXTINF:-1 tvg-id="307401" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307401.png" group-title="GLIPTV",AGN SAT
+http://sultansmart.serv00.net/GLPersian.php?ID=AGNSAT_HD
+#EXTINF:-1 tvg-id="307411" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307411.png" group-title="GLIPTV",Nohadra TV
+http://sultansmart.serv00.net/GLPersian.php?ID=NohadraTV_HD
+#EXTINF:-1 tvg-id="303110" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303110.png" group-title="GLIPTV",NRT
+http://sultansmart.serv00.net/GLPersian.php?ID=NRT_HD
+#EXTINF:-1 tvg-id="300753" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300753.png" group-title="GLIPTV",KurdSat
+http://sultansmart.serv00.net/GLPersian.php?ID=KurdSat_HD
+#EXTINF:-1 tvg-id="300572" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300572.png" group-title="GLIPTV",Kurdistan TV
+http://sultansmart.serv00.net/GLPersian.php?ID=KurdistanTV_HD
+#EXTINF:-1 tvg-id="304098" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304098.png" group-title="GLIPTV",Rudaw
+http://sultansmart.serv00.net/GLPersian.php?ID=Rudaw_HD
+#EXTINF:-1 tvg-id="306761" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306761.png" group-title="GLIPTV",Kurdsat News
+http://sultansmart.serv00.net/GLPersian.php?ID=KurdsatNews_HD
+#EXTINF:-1 tvg-id="304657" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304657.png" group-title="GLIPTV",NRT 2
+http://sultansmart.serv00.net/GLPersian.php?ID=NRT2_HD
+#EXTINF:-1 tvg-id="302230" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_302230.png" group-title="GLIPTV",Speda
+http://sultansmart.serv00.net/GLPersian.php?ID=Speda_HD
+#EXTINF:-1 tvg-id="306960" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306960.png" group-title="GLIPTV",Jin TV
+http://sultansmart.serv00.net/GLPersian.php?ID=JinTV_HD
+#EXTINF:-1 tvg-id="303032" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303032.png" group-title="GLIPTV",Sterk TV
+http://sultansmart.serv00.net/GLPersian.php?ID=SterkTV_HD
+#EXTINF:-1 tvg-id="307602" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307602.png" group-title="GLIPTV",4 Kurd 
+http://sultansmart.serv00.net/GLPersian.php?ID= 4Kurd_HD
+#EXTINF:-1 tvg-id="306979" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306979.png" group-title="GLIPTV",Kurdmax Show
+http://sultansmart.serv00.net/GLPersian.php?ID=KurdmaxShow_HD
+#EXTINF:-1 tvg-id="303485" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303485.png" group-title="GLIPTV",Kurdmax
+http://sultansmart.serv00.net/GLPersian.php?ID=KurdMax_HD
+#EXTINF:-1 tvg-id="306154" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306154.png" group-title="GLIPTV",Med Muzik
+http://sultansmart.serv00.net/GLPersian.php?ID=MedMuzik_HD
+#EXTINF:-1 tvg-id="306169" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306169.png" group-title="GLIPTV",Cira
+http://sultansmart.serv00.net/GLPersian.php?ID=Cira_HD
+#EXTINF:-1 tvg-id="305264" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305264.png" group-title="GLIPTV",Suroyo TV
+http://sultansmart.serv00.net/GLPersian.php?ID=SuroyoTV_HD
+#EXTINF:-1 tvg-id="306181" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306181.png" group-title="GLIPTV",Ronahi
+http://sultansmart.serv00.net/GLPersian.php?ID=Ronahi_HD
+#EXTINF:-1 tvg-id="305448" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305448.png" group-title="GLIPTV",Zarok
+http://sultansmart.serv00.net/GLPersian.php?ID=Zarok_HD
+#EXTINF:-1 tvg-id="306342" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306342.png" group-title="GLIPTV",Aryen
+http://sultansmart.serv00.net/GLPersian.php?ID=Aryen_HD
+#EXTINF:-1 tvg-id="307414" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307414.png" group-title="GLIPTV",Afghanistan International
+http://sultansmart.serv00.net/GLPersian.php?ID=AfghanistanInternational_HD
+#EXTINF:-1 tvg-id="300322" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300322.png" group-title="GLIPTV",Payam e Afghan
+http://sultansmart.serv00.net/GLPersian.php?ID=PayamEAfghan_HD
+#EXTINF:-1 tvg-id="300328" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300328.png" group-title="GLIPTV",ATN
+http://sultansmart.serv00.net/GLPersian.php?ID=ArianaAfghan_HD
+#EXTINF:-1 tvg-id="300341" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300341.png" group-title="GLIPTV",ATN News
+http://sultansmart.serv00.net/GLPersian.php?ID=ATNNews_HD
+#EXTINF:-1 tvg-id="300346" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300346.png" group-title="GLIPTV",Ariana Int
+http://sultansmart.serv00.net/GLPersian.php?ID=ArianaInt_HD
+#EXTINF:-1 tvg-id="307435" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307435.png" group-title="GLIPTV",VoA Afghanistan
+http://sultansmart.serv00.net/GLPersian.php?ID=VoAAfghanistan_HD
+#EXTINF:-1 tvg-id="301398" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301398.png" group-title="GLIPTV",Zarin TV
+http://sultansmart.serv00.net/GLPersian.php?ID=ZarinTV_HD
+#EXTINF:-1 tvg-id="303546" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303546.png" group-title="GLIPTV",Iman TV
+http://sultansmart.serv00.net/GLPersian.php?ID=ImanTV_HD
+#EXTINF:-1 tvg-id="300406" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300406.png" group-title="GLIPTV",RTA
+http://sultansmart.serv00.net/GLPersian.php?ID=RTA_HD
+#EXTINF:-1 tvg-id="307035" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307035.png" group-title="GLIPTV",AVA Family
+http://sultansmart.serv00.net/GLPersian.php?ID=AVAFamily_HD
+#EXTINF:-1 tvg-id="307475" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307475.png" group-title="GLIPTV",BBC Persian Afghanistan
+http://sultansmart.serv00.net/GLPersian.php?ID=BBCPersianAfghan_HD
+#EXTINF:-1 tvg-id="305059" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305059.png" group-title="GLIPTV",Tolo
+http://sultansmart.serv00.net/GLPersian.php?ID=Tolo_HD
+#EXTINF:-1 tvg-id="305060" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305060.png" group-title="GLIPTV",Tolo News
+http://sultansmart.serv00.net/GLPersian.php?ID=ToloNews_HD
+#EXTINF:-1 tvg-id="307463" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307463.png" group-title="GLIPTV",Afghanistan USA international TV
+http://sultansmart.serv00.net/GLPersian.php?ID=AfgUSA_HD
+#EXTINF:-1 tvg-id="307578" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307578.png" group-title="GLIPTV",RTA News
+http://sultansmart.serv00.net/GLPersian.php?ID=RTANews_HD
+#EXTINF:-1 tvg-id="305090" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305090.png" group-title="GLIPTV",Chekad
+http://sultansmart.serv00.net/GLPersian.php?ID=Chekad_HD
+#EXTINF:-1 tvg-id="305117" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305117.png" group-title="GLIPTV",1 TV
+http://sultansmart.serv00.net/GLPersian.php?ID=1TV_HD
+#EXTINF:-1 tvg-id="307580" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307580.png" group-title="GLIPTV",RTA Education
+http://sultansmart.serv00.net/GLPersian.php?ID=RTAEducation_HD
+#EXTINF:-1 tvg-id="307582" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307582.png" group-title="GLIPTV",Shams
+http://sultansmart.serv00.net/GLPersian.php?ID=Shams_HD
+#EXTINF:-1 tvg-id="307584" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307584.png" group-title="GLIPTV",Faza
+http://sultansmart.serv00.net/GLPersian.php?ID=Faza_HD
+#EXTINF:-1 tvg-id="307056" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307056.png" group-title="GLIPTV",Dunya
+http://sultansmart.serv00.net/GLPersian.php?ID=Dunya_HD
+#EXTINF:-1 tvg-id="305632" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305632.png" group-title="GLIPTV",Tamadon
+http://sultansmart.serv00.net/GLPersian.php?ID=Tamadon_HD
+#EXTINF:-1 tvg-id="305061" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305061.png" group-title="GLIPTV",Lemar
+http://sultansmart.serv00.net/GLPersian.php?ID=Lemar_HD
+#EXTINF:-1 tvg-id="307588" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307588.png" group-title="GLIPTV",Begum
+http://sultansmart.serv00.net/GLPersian.php?ID=Begum_HD
+#EXTINF:-1 tvg-id="307586" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307586.png" group-title="GLIPTV",Amu
+http://sultansmart.serv00.net/GLPersian.php?ID=Amu_HD
+#EXTINF:-1 tvg-id="306194" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306194.png" group-title="GLIPTV",Arezo
+http://sultansmart.serv00.net/GLPersian.php?ID=Arezo_HD
+#EXTINF:-1 tvg-id="307614" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307614.png" group-title="GLIPTV",Maawj TV
+http://sultansmart.serv00.net/GLPersian.php?ID=MaawjTV_HD
+#EXTINF:-1 tvg-id="303571" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303571.png" group-title="GLIPTV",AMC
+http://sultansmart.serv00.net/GLPersian.php?ID=AMC_HD
+#EXTINF:-1 tvg-id="307268" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307268.png" group-title="GLIPTV",Afghan Nobel TV
+http://sultansmart.serv00.net/GLPersian.php?ID=AfghanNobelTV_HD
+#EXTINF:-1 tvg-id="307278" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307278.png" group-title="GLIPTV",Afghan Nobel Movie
+http://sultansmart.serv00.net/GLPersian.php?ID=AfghanNobelMovie_HD
+#EXTINF:-1 tvg-id="306620" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306620.png" group-title="GLIPTV",Zhwandoon TV
+http://sultansmart.serv00.net/GLPersian.php?ID=Zhwandoon_HD
+#EXTINF:-1 tvg-id="306714" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306714.png" group-title="GLIPTV",Bahar TV
+http://sultansmart.serv00.net/GLPersian.php?ID=BaharTV_HD
+#EXTINF:-1 tvg-id="305645" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305645.png" group-title="GLIPTV",Afghan Time TV
+http://sultansmart.serv00.net/GLPersian.php?ID=AfghanTime_HD
+#EXTINF:-1 tvg-id="307325" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307325.png" group-title="GLIPTV",Sohail TV
+http://sultansmart.serv00.net/GLPersian.php?ID=SohailTV_HD
+#EXTINF:-1 tvg-id="306838" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306838.png" group-title="GLIPTV",Sada e Haq
+http://sultansmart.serv00.net/GLPersian.php?ID=SadaeHaq_HD
+#EXTINF:-1 tvg-id="307074" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307074.png" group-title="GLIPTV",Kayhan
+http://sultansmart.serv00.net/GLPersian.php?ID=Kayhan_HD
+#EXTINF:-1 tvg-id="307109" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307109.png" group-title="GLIPTV",Pamir TV
+http://sultansmart.serv00.net/GLPersian.php?ID=PamirTV_HD
+#EXTINF:-1 tvg-id="307395" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307395.png" group-title="GLIPTV",Eslah TV
+http://sultansmart.serv00.net/GLPersian.php?ID=EslahTV_HD
+#EXTINF:-1 tvg-id="307420" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307420.png" group-title="GLIPTV",Ommat E Wasat
+http://sultansmart.serv00.net/GLPersian.php?ID=OmmatEWasat_HD
+#EXTINF:-1 tvg-id="307326" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307326.png" group-title="GLIPTV",Islamic Music
+http://sultansmart.serv00.net/GLPersian.php?ID=IslamicMusic_HD
+#EXTINF:-1 tvg-id="307594" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307594.png" group-title="GLIPTV",Velayat
+http://sultansmart.serv00.net/GLPersian.php?ID=Velayat_HD
+#EXTINF:-1 tvg-id="306828" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306828.png" group-title="GLIPTV",Ekran Kids
+http://sultansmart.serv00.net/GLPersian.php?ID=EkranKids_HD
+#EXTINF:-1 tvg-id="301257" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_301257.png" group-title="GLIPTV",KIDS TOON (0-6)
+http://sultansmart.serv00.net/GLPersian.php?ID=cartoon06_HD
+#EXTINF:-1 tvg-id="306890" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306890.png" group-title="GLIPTV",Persiana Junior
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaJunior_HD
+#EXTINF:-1 tvg-id="307566" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307566.png" group-title="GLIPTV",Persiana Teen
+http://sultansmart.serv00.net/GLPersian.php?ID=PersianaTeen_HD
+#EXTINF:-1 tvg-id="306229" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306229.png" group-title="GLIPTV",GEM Kids
+http://sultansmart.serv00.net/GLPersian.php?ID=GemKids_HD
+#EXTINF:-1 tvg-id="303679" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303679.png" group-title="GLIPTV",GEM JUNIOR
+http://sultansmart.serv00.net/GLPersian.php?ID=GemJunior_HD
+#EXTINF:-1 tvg-id="307397" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_307397.png" group-title="GLIPTV",Toonix
+http://sultansmart.serv00.net/GLPersian.php?ID=Toonix_HD

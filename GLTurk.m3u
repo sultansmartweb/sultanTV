@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="304407" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304407.png" group-title="GLIPTV",TRT 1
+http://sultansmart.serv00.net/GLTurk.php?ID=TRT1_HD
+#EXTINF:-1 tvg-id="StarTV_HD" tvg-logo="https://play-lh.googleusercontent.com/CmRU5yM2F4FOujVYbR0fdZD7Sp2UwDIilpku-9x99p3Nog_bbGomJXvrHA-JMgl-1ZgM" group-title="GLIPTV",Star
+http://sultansmart.serv00.net/GLTurk.php?ID=StarTV_HD
+#EXTINF:-1 tvg-id="304557" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304557.png" group-title="GLIPTV",Euro Star
+http://sultansmart.serv00.net/GLTurk.php?ID=EuroStar_HD
+#EXTINF:-1 tvg-id="ShowTV_HD" tvg-logo="https://play-lh.googleusercontent.com/0sOPBAP2kN1gvVFLtCVsLhOrcZApUxZG8njmWOj26lRbiVJ723731GtyKJl-LFjd2Q" group-title="GLIPTV",ShowTV
+http://sultansmart.serv00.net/GLTurk.php?ID=ShowTV_HD
+#EXTINF:-1 tvg-id="ShowTurk_HD" tvg-logo="https://www.showturk.com.tr/images/core/showturk-v-1.svg" group-title="GLIPTV",ShowTurk_HD
+http://sultansmart.serv00.net/GLTurk.php?ID=ShowTurk_HD
+#EXTINF:-1 tvg-id="304632" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304632.png" group-title="GLIPTV",NOW
+http://sultansmart.serv00.net/GLTurk.php?ID=Now_HD
+#EXTINF:-1 tvg-id="304475" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304475.png" group-title="GLIPTV",TV 8
+http://sultansmart.serv00.net/GLTurk.php?ID=TV8_HD
+#EXTINF:-1 tvg-id="300948" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300948.png" group-title="GLIPTV",TLC
+http://sultansmart.serv00.net/GLTurk.php?ID=TLC_HD
+#EXTINF:-1 tvg-id="304357" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304357.png" group-title="GLIPTV",Kanal 24
+http://sultansmart.serv00.net/GLTurk.php?ID=24_HD
+#EXTINF:-1 tvg-id="303916" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303916.png" group-title="GLIPTV",NTV Turkiye
+http://sultansmart.serv00.net/GLTurk.php?ID=NTVTurkiye_HD
+#EXTINF:-1 tvg-id="300784" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_300784.png" group-title="GLIPTV",TRT Turk
+http://sultansmart.serv00.net/GLTurk.php?ID=TRTTurk_HD
+#EXTINF:-1 tvg-id="304314" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304314.png" group-title="GLIPTV",Halk Haber
+http://sultansmart.serv00.net/GLTurk.php?ID=Halk_HD
+#EXTINF:-1 tvg-id="304353" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304353.png" group-title="GLIPTV",Kanal Avrupa 
+http://sultansmart.serv00.net/GLTurk.php?ID=KanalAvrupa_HD
+#EXTINF:-1 tvg-id="303104" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303104.png" group-title="GLIPTV",TRT 6
+http://sultansmart.serv00.net/GLTurk.php?ID=mms://38.117.88.36/TRT6
+#EXTINF:-1 tvg-id="306928" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306928.png" group-title="GLIPTV",Kanal 33
+http://sultansmart.serv00.net/GLTurk.php?ID=Kanal33_HD
+#EXTINF:-1 tvg-id="304417" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304417.png" group-title="GLIPTV",Turkmeneli
+http://sultansmart.serv00.net/GLTurk.php?ID=Turkmeneli_HD
+#EXTINF:-1 tvg-id="306914" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306914.png" group-title="GLIPTV",AKiT
+http://sultansmart.serv00.net/GLTurk.php?ID=AKiT_HD
+#EXTINF:-1 tvg-id="304471" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304471.png" group-title="GLIPTV",Kanal 7 Avrupa
+http://sultansmart.serv00.net/GLTurk.php?ID=Kanal7Avrupa_HD
+#EXTINF:-1 tvg-id="304539" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304539.png" group-title="GLIPTV",Sports TV
+http://sultansmart.serv00.net/GLTurk.php?ID=SportsTV_HD
+#EXTINF:-1 tvg-id="304495" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304495.png" group-title="GLIPTV",TRT Spor
+http://sultansmart.serv00.net/GLTurk.php?ID=TRTSport_HD
+#EXTINF:-1 tvg-id="FBTV" tvg-logo="https://play-lh.googleusercontent.com/bnRoOZwIeGRlErapRNtLRer9uE0Vh_5rINIGWrAAES0MZes9qDa3E_2TSrLeHWqoOQ" group-title="GLIPTV",FBTV
+http://sultansmart.serv00.net/GLTurk.php?ID=FBTV_HD
+#EXTINF:-1 tvg-id="306933" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306933.png" group-title="GLIPTV",Lalegül TV
+http://sultansmart.serv00.net/GLTurk.php?ID=LALEGUL_HD
+#EXTINF:-1 tvg-id="303889" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303889.png" group-title="GLIPTV",TRT Muzik
+http://sultansmart.serv00.net/GLTurk.php?ID=TRTMuzik_HD
+#EXTINF:-1 tvg-id="306809" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_306809.png" group-title="GLIPTV",Tele 1
+http://sultansmart.serv00.net/GLTurk.php?ID=Tele1_HD
+#EXTINF:-1 tvg-id="304564" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304564.png" group-title="GLIPTV",TV 4
+http://sultansmart.serv00.net/GLTurk.php?ID=TV4_HD
+#EXTINF:-1 tvg-id="304380" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304380.png" group-title="GLIPTV",Dost TV
+http://sultansmart.serv00.net/GLTurk.php?ID=DostTV_HD
+#EXTINF:-1 tvg-id="304288" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304288.png" group-title="GLIPTV",Rehber
+http://sultansmart.serv00.net/GLTurk.php?ID=Rehber_HD
+#EXTINF:-1 tvg-id="304624" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304624.png" group-title="GLIPTV",DMax
+http://sultansmart.serv00.net/GLTurk.php?ID=DMax_HD
+#EXTINF:-1 tvg-id="303883" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303883.png" group-title="GLIPTV",Number One Turk
+http://sultansmart.serv00.net/GLTurk.php?ID=NumberOneTurk_HD
+#EXTINF:-1 tvg-id="304302" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304302.png" group-title="GLIPTV",Bayrak 2
+http://sultansmart.serv00.net/GLTurk.php?ID=BRT2_HD
+#EXTINF:-1 tvg-id="304300" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304300.png" group-title="GLIPTV",Bayrak 1
+http://sultansmart.serv00.net/GLTurk.php?ID=BRT1_HD
+#EXTINF:-1 tvg-id="305297" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305297.png" group-title="GLIPTV",Kardelen TV
+http://sultansmart.serv00.net/GLTurk.php?ID=KardelenTV_HD
+#EXTINF:-1 tvg-id="304411" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304411.png" group-title="GLIPTV",TV 1
+http://sultansmart.serv00.net/GLTurk.php?ID=TV1_HD
+#EXTINF:-1 tvg-id="304451" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304451.png" group-title="GLIPTV",TV 5
+http://sultansmart.serv00.net/GLTurk.php?ID=TV5_HD
+#EXTINF:-1 tvg-id="304479" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304479.png" group-title="GLIPTV",Kanal Firat
+http://sultansmart.serv00.net/GLTurk.php?ID=KanalFirat_HD
+#EXTINF:-1 tvg-id="304433" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304433.png" group-title="GLIPTV",Kanal 26
+http://sultansmart.serv00.net/GLTurk.php?ID=Kanal26_HD
+#EXTINF:-1 tvg-id="305444" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_305444.png" group-title="GLIPTV",TV 100
+http://sultansmart.serv00.net/GLTurk.php?ID=TV100_HD
+#EXTINF:-1 tvg-id="304340" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304340.png" group-title="GLIPTV",Ada TV
+http://sultansmart.serv00.net/GLTurk.php?ID=Adatv_HD
+#EXTINF:-1 tvg-id="304365" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304365.png" group-title="GLIPTV",Aksu TV
+http://sultansmart.serv00.net/GLTurk.php?ID=AksuTV_HD
+#EXTINF:-1 tvg-id="304368" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304368.png" group-title="GLIPTV",Altas TV
+http://sultansmart.serv00.net/GLTurk.php?ID=AltasTV_HD
+#EXTINF:-1 tvg-id="304521" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304521.png" group-title="GLIPTV",Bengu Turk
+http://sultansmart.serv00.net/GLTurk.php?ID=BenguTurk_HD
+#EXTINF:-1 tvg-id="304399" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304399.png" group-title="GLIPTV",Cay TV
+http://sultansmart.serv00.net/GLTurk.php?ID=CayTV_HD
+#EXTINF:-1 tvg-id="304347" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304347.png" group-title="GLIPTV",TV Kayseri
+http://sultansmart.serv00.net/GLTurk.php?ID=TVKayseri_HD
+#EXTINF:-1 tvg-id="304349" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304349.png" group-title="GLIPTV",Kon TV
+http://sultansmart.serv00.net/GLTurk.php?ID=KonTV_HD
+#EXTINF:-1 tvg-id="304386" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304386.png" group-title="GLIPTV",Koy TV
+http://sultansmart.serv00.net/GLTurk.php?ID=Koy_HD
+#EXTINF:-1 tvg-id="303727" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303727.png" group-title="GLIPTV",Mavi Karadeniz
+http://sultansmart.serv00.net/GLTurk.php?ID=MaviKaradeniz_HD
+#EXTINF:-1 tvg-id="303745" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_303745.png" group-title="GLIPTV",TMB
+http://sultansmart.serv00.net/GLTurk.php?ID=TMB_HD
+#EXTINF:-1 tvg-id="304425" tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304425.png" group-title="GLIPTV",Vuslat
+http://sultansmart.serv00.net/GLTurk.php?ID=Vuslat_HD

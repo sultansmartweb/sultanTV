@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="790" tvg-logo="https://www.freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Freeshot TV",EUROSPORT 1
+https://live-freeshot.mark-clark.workers.dev/?ID=Euro1TR
+#EXTINF:-1 tvg-id="791" tvg-logo="https://www.freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Freeshot TV",EUROSPORT 2
+https://live-freeshot.mark-clark.workers.dev/?ID=Euro2TR
+#EXTINF:-1 tvg-id="158" tvg-logo="https://www.freeshot.live/upload/source/bein_sports1-logo.png" group-title="Freeshot TV",beIN SPORTS HD1
+https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR
+#EXTINF:-1 tvg-id="159" tvg-logo="https://www.freeshot.live/upload/source/bein-sports-2-logo.png" group-title="Freeshot TV",beIN SPORTS HD2
+https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS2TR
+#EXTINF:-1 tvg-id="160" tvg-logo="https://www.freeshot.live/upload/source/bein-sports_3-logo.png" group-title="Freeshot TV",beIN SPORTS HD3
+https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS3TR
+#EXTINF:-1 tvg-id="161" tvg-logo="https://www.freeshot.live/upload/source/bein-sports-4-logo.png" group-title="Freeshot TV",beIN SPORTS HD4
+https://live-freeshot.mark-clark.workers.dev/?ID=BEINSPORT4TR
+#EXTINF:-1 tvg-id="162" tvg-logo="https://www.freeshot.live/upload/source/beINSPORTS5-logo.png" group-title="Freeshot TV",beIN SPORTS HD5
+https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS5TR
+#EXTINF:-1 tvg-id="710" tvg-logo="https://www.freeshot.live/upload/source/Tivibu-SPOR-logo.png" group-title="Freeshot TV",TIVIBUSPOR 1
+https://live-freeshot.mark-clark.workers.dev/?ID=TivibuSPOR
+#EXTINF:-1 tvg-id="711" tvg-logo="https://www.freeshot.live/upload/source/Tivibu-SPOR-2-logo.png" group-title="Freeshot TV",TIVIBUSPOR 2
+https://live-freeshot.mark-clark.workers.dev/?ID=TivibuSPOR2
+#EXTINF:-1 tvg-id="712" tvg-logo="https://www.freeshot.live/upload/source/Tivibu-SPOR-3-logo.png" group-title="Freeshot TV",TIVIBUSPOR 3
+https://live-freeshot.mark-clark.workers.dev/?ID=TivibuSPOR3
+#EXTINF:-1 tvg-id="713" tvg-logo="https://www.freeshot.live/upload/source/sports-tv-turkey-logo.png" group-title="Freeshot TV",SPORTS TV
+https://live-freeshot.mark-clark.workers.dev/?ID=SportsTV
+#EXTINF:-1 tvg-id="792" tvg-logo="https://www.freeshot.live/upload/source/A-Spor-logo.png" group-title="Freeshot TV",A Spor
+https://live-freeshot.mark-clark.workers.dev/?ID=ASPORTR
+#EXTINF:-1 tvg-id="707" tvg-logo="https://www.freeshot.live/upload/source/TRT_SPOR-logo.png" group-title="Freeshot TV",TRT SPOR
+https://live-freeshot.mark-clark.workers.dev/?ID=TRTSPOR
+#EXTINF:-1 tvg-id="707" tvg-logo="https://www.freeshot.live/upload/source/TRT_SPOR-logo.png" group-title="Freeshot TV",TRT Spor Yıldız
+https://live-freeshot.mark-clark.workers.dev/?ID=TRTSPORY

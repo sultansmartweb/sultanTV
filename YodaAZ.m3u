@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aztv" tvg-name="AZTV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/aztv.svg",AZTV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=aztv
+#EXTINF:-1 tvg-id="ictimai" tvg-name="İctimai" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/itv.png",İctimai
+https://yoda-tv-az.mark-clark.workers.dev/?ID=ictimai
+#EXTINF:-1 tvg-id="bakutv" tvg-name="Baku TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/bakutv.webp",Baku TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=bakutv
+#EXTINF:-1 tvg-id="idman" tvg-name="İdman TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/idman.svg",İdman TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=idman
+#EXTINF:-1 tvg-id="ntv" tvg-name="Naxçıvan  TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/ntv.png",Naxçıvan  TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=ntv
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/atv.svg",ATV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=atv
+#EXTINF:-1 tvg-id="real" tvg-name="Real TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/real.svg",Real TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=real
+#EXTINF:-1 tvg-id="qafkaz" tvg-name="Qafqaz TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/qafqaz.svg",Qafqaz TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=qafkaz
+#EXTINF:-1 tvg-id="xazar" tvg-name="XƏZƏR" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/xazar.png",XƏZƏR
+https://yoda-tv-az.mark-clark.workers.dev/?ID=xazar
+#EXTINF:-1 tvg-id="arb24" tvg-name="ARB24" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/arb24.svg",ARB24
+https://yoda-tv-az.mark-clark.workers.dev/?ID=arb24
+#EXTINF:-1 tvg-id="apatv" tvg-name="APA TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/apatv.png",APA TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=apatv
+#EXTINF:-1 tvg-id="haberglobal" tvg-name="Haber Global" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/haber.png",Haber Global
+https://yoda-tv-az.mark-clark.workers.dev/?ID=haberglobal
+#EXTINF:-1 tvg-id="tmbtr" tvg-name="TMB TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/tmb.png",TMB TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=tmbtr
+#EXTINF:-1 tvg-id="tmbaz" tvg-name="TMB Azərbaycan" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/tmb.png",TMB Azərbaycan
+https://yoda-tv-az.mark-clark.workers.dev/?ID=tmbaz
+#EXTINF:-1 tvg-id="arb" tvg-name="ARB" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/arb.svg",ARB
+https://yoda-tv-az.mark-clark.workers.dev/?ID=arb
+#EXTINF:-1 tvg-id="start" tvg-name="Kanal S" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/start.png",Kanal S
+https://yoda-tv-az.mark-clark.workers.dev/?ID=start
+#EXTINF:-1 tvg-id="kanal35" tvg-name="Kanal 35" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/kanal35.png",Kanal 35
+https://yoda-tv-az.mark-clark.workers.dev/?ID=kanal35
+#EXTINF:-1 tvg-id="eltv" tvg-name="ELTV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/eltv_logo.png",ELTV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=eltv
+#EXTINF:-1 tvg-id="arbgunesh" tvg-name="ARB GÜNƏŞ" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/gunesh.svg",ARB GÜNƏŞ
+https://yoda-tv-az.mark-clark.workers.dev/?ID=arbgunesh
+#EXTINF:-1 tvg-id="cbc" tvg-name="CBC" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/cbc.svg",CBC
+https://yoda-tv-az.mark-clark.workers.dev/?ID=cbc
+#EXTINF:-1 tvg-id="medeniyyet" tvg-name="Mədəniyyət" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/medeniyyet.svg",Mədəniyyət
+https://yoda-tv-az.mark-clark.workers.dev/?ID=medeniyyet
+#EXTINF:-1 tvg-id="space" tvg-name="Space" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/space.png",Space
+https://yoda-tv-az.mark-clark.workers.dev/?ID=space
+#EXTINF:-1 tvg-id="tmb" tvg-name="Vostok TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/vostok.png",Vostok TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=tmb
+#EXTINF:-1 tvg-id="agrotv" tvg-name="AGRO TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/agrotv.png",AGRO TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=agrotv
+#EXTINF:-1 tvg-id="showplus" tvg-name="Show Plus TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/showplus.png",Show Plus TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=showplus
+#EXTINF:-1 tvg-id="mtvaz" tvg-name="MTV Azerbaijan" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/mtv.png",MTV Azerbaijan
+https://yoda-tv-az.mark-clark.workers.dev/?ID=mtvaz
+#EXTINF:-1 tvg-id="shtv" tvg-name="SH TV" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/shtv.png",SH TV
+https://yoda-tv-az.mark-clark.workers.dev/?ID=shtv
+#EXTINF:-1 tvg-id="vip" tvg-name="VIP HD" group-title="YodaTV AZ" tvg-logo="https://yoda.az/logos/viphd.png",VIP HD
+https://yoda-tv-az.mark-clark.workers.dev/?ID=vip

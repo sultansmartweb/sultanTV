@@ -89,6 +89,12 @@ https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/b
 https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bein2tr/playlist.m3u8
 #EXTINF:-1 tvg-id="798" tvg-logo="http://img.rapidstreams.io/1/data/images/35496_95386_bein3tr.jpg" group-title="Sports",beIN SPORTS HD3 TR
 https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bein3tr/playlist.m3u8
+#EXTINF:-1 tvg-id="720" tvg-logo="http://img.rapidstreams.io/1/data/images/31015_78200_tivibuspor1.jpg" group-title="38",TivibuSPOR 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/tivibu1/playlist.m3u8
+#EXTINF:-1 tvg-id="722" tvg-logo="http://img.rapidstreams.io/1/data/images/45304_14306_tivibuspor2.jpg" group-title="38",TivibuSPOR 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/tivibu2/playlist.m3u8
+#EXTINF:-1 tvg-id="723" tvg-logo="http://img.rapidstreams.io/1/data/images/86901_75904_tivibuspor3.jpg" group-title="38",TivibuSPOR 3
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/tivibu3/playlist.m3u8
 #EXTINF:-1 tvg-id="1669" tvg-logo="http://img.rapidstreams.io/1/data/images/20572_images_1_10_150x150.jpeg" group-title="Sports",beIN SPORTS HD1 FR
 https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/bein1prem/playlist.m3u8
 #EXTINF:-1 tvg-id="1670" tvg-logo="http://img.rapidstreams.io/1/data/images/20572_images_1_10_150x150.jpeg" group-title="Sports",beIN SPORTS HD2 FR
@@ -203,3 +209,115 @@ https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/m
 https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/match2/playlist.m3u8
 #EXTINF:-1 tvg-id="2772" tvg-logo="http://img.rapidstreams.io/1/data/images/2239_football 3_imresizer.jpg" group-title="SPORTS",MATCH FOOTBALL 3
 https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/match3/playlist.m3u8
+#EXTINF:-1 tvg-id="2660" tvg-logo="http://img.rapidstreams.io/1/data/images/2679_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORT 1 NZ
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skynz1/playlist.m3u8
+#EXTINF:-1 tvg-id="2662" tvg-logo="http://img.rapidstreams.io/1/data/images/87226_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORT 3 NZ
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skynz3/playlist.m3u8
+#EXTINF:-1 tvg-id="2661" tvg-logo="http://img.rapidstreams.io/1/data/images/44658_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORT NZ 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skynz2/playlist.m3u8
+#EXTINF:-1 tvg-id="2664" tvg-logo="http://img.rapidstreams.io/1/data/images/76505_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORT NZ 5
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skynz5/playlist.m3u8
+#EXTINF:-1 tvg-id="2665" tvg-logo="http://img.rapidstreams.io/1/data/images/58398_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORT NZ 6
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skynz6/playlist.m3u8
+#EXTINF:-1 tvg-id="2666" tvg-logo="http://img.rapidstreams.io/1/data/images/71939_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORT NZ 7
+https://rapidstream.mark-clark.workers.dev/?ID=http://af.streamia.xyz:8081/sports/skynz7/playlist.m3u8
+#EXTINF:-1 tvg-id="2668" tvg-logo="http://img.rapidstreams.io/1/data/images/4514_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORT NZ 9
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skynz9/playlist.m3u8
+#EXTINF:-1 tvg-id="2669" tvg-logo="http://img.rapidstreams.io/1/data/images/54967_a2464_150x150.png" group-title="38",Sky Sport Select NZ
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/skynewzselect/playlist.m3u8
+#EXTINF:-1 tvg-id="249" tvg-logo="http://img.rapidstreams.io/1/data/images/47639_13208_skyf1new.jpg" group-title="38",Sky Sports Action UK
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skysact/playlist.m3u8
+#EXTINF:-1 tvg-id="253" tvg-logo="http://img.rapidstreams.io/1/data/images/74830_17287_skyarena (1).jpg" group-title="38",SKY SPORTS ARENA
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skysare/playlist.m3u8
+#EXTINF:-1 tvg-id="254" tvg-logo="http://img.rapidstreams.io/1/data/images/27822_27713_skycricket.jpg" group-title="38",SKY SPORTS CRICKET
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skyscric/playlist.m3u8
+#EXTINF:-1 tvg-id="251" tvg-logo="http://img.rapidstreams.io/1/data/images/7574_13208_skyf1new.jpg" group-title="38",Sky Sports F1 UK
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skysfor1/playlist.m3u8
+#EXTINF:-1 tvg-id="255" tvg-logo="http://img.rapidstreams.io/1/data/images/52791_3243_skyfootball (1).jpg" group-title="38",Sky Sports Football UK
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skysfott/playlist.m3u8
+#EXTINF:-1 tvg-id="256" tvg-logo="http://img.rapidstreams.io/1/data/images/266_40768_skygolf.jpg" group-title="38",Sky Sports Golf UK
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj7/playlist.m3u8
+#EXTINF:-1 tvg-id="258" tvg-logo="http://img.rapidstreams.io/1/data/images/16634_43621_skymainevent.jpg" group-title="38",SKY SPORTS MAIN EVENT
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skysme/playlist.m3u8
+#EXTINF:-1 tvg-id="259" tvg-logo="http://img.rapidstreams.io/1/data/images/90154_65882_skymixnew.jpg" group-title="38",Sky Sports Mix UK
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skysmix/playlist.m3u8
+#EXTINF:-1 tvg-id="2663" tvg-logo="http://img.rapidstreams.io/1/data/images/28794_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORTS NZ 4
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skynz4/playlist.m3u8
+#EXTINF:-1 tvg-id="2667" tvg-logo="http://img.rapidstreams.io/1/data/images/51838_channels4_profile_8_150x150.jpg" group-title="38",SKY SPORTS NZ 8
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skynz8/playlist.m3u8
+#EXTINF:-1 tvg-id="257" tvg-logo="http://img.rapidstreams.io/1/data/images/60402_89284_skyleauge.jpg" group-title="38",SKY SPORTS PREMIER LEAGUE
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skysprem/playlist.m3u8
+#EXTINF:-1 tvg-id="2752" tvg-logo="http://img.rapidstreams.io/1/data/images/67956_download_16_150x150.jpeg" group-title="38",Sky Sports Racing
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skyracing/playlist.m3u8
+#EXTINF:-1 tvg-id="2701" tvg-logo="http://img.rapidstreams.io/1/data/images/70041_download_11_150x150.jpeg" group-title="38",Sky Sports Tennis UK
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/skysptennis/playlist.m3u8
+#EXTINF:-1 tvg-id="2721" tvg-logo="http://img.rapidstreams.io/1/data/images/97139_SNY.png" group-title="38",SNY SPORTSNET NEW YORK COMCAST
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/sny/playlist.m3u8
+#EXTINF:-1 tvg-id="321" tvg-logo="http://img.rapidstreams.io/1/data/images/51855_images_26_150x150.png" group-title="38",SONY TEN 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj17/playlist.m3u8
+#EXTINF:-1 tvg-id="324" tvg-logo="http://img.rapidstreams.io/1/data/images/31358_30742_ten2hd (1).jpg" group-title="38",SONY TEN 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj18/playlist.m3u8
+#EXTINF:-1 tvg-id="318" tvg-logo="http://img.rapidstreams.io/1/data/images/80660_46147_ten3hd.jpg" group-title="38",SONY TEN 3
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj19/playlist.m3u8
+#EXTINF:-1 tvg-id="2720" tvg-logo="http://img.rapidstreams.io/1/data/images/73729_images.jpg" group-title="38",SPACE CITY HOME NETWORK
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/schn/playlist.m3u8
+#EXTINF:-1 tvg-id="2718" tvg-logo="http://img.rapidstreams.io/1/data/images/32670_SPEC.png" group-title="38",SPECTRUM SPORTSNET
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/sslaker/playlist.m3u8
+#EXTINF:-1 tvg-id="2719" tvg-logo="http://img.rapidstreams.io/1/data/images/4133_SPEC.png" group-title="38",SPECTRUM SPORTSNET LA
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/ssla/playlist.m3u8
+#EXTINF:-1 tvg-id="260" tvg-logo="http://img.rapidstreams.io/1/data/images/81298_80902_sportstv1.jpg" group-title="38",SPORT TV 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj8/playlist.m3u8
+#EXTINF:-1 tvg-id="261" tvg-logo="http://img.rapidstreams.io/1/data/images/78934_78786_sportstv2.jpg" group-title="38",SPORT TV 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj9/playlist.m3u8
+#EXTINF:-1 tvg-id="262" tvg-logo="http://img.rapidstreams.io/1/data/images/2183_58689_sportstv3.jpg" group-title="38",SPORT TV 3
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj10/playlist.m3u8
+#EXTINF:-1 tvg-id="263" tvg-logo="http://img.rapidstreams.io/1/data/images/20922_53237_sportstv4.jpg" group-title="38",SPORT TV 4
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj11/playlist.m3u8
+#EXTINF:-1 tvg-id="264" tvg-logo="http://img.rapidstreams.io/1/data/images/45210_40463_sportstv5.jpg" group-title="38",SPORT TV 5
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj12/playlist.m3u8
+#EXTINF:-1 tvg-id="2556" tvg-logo="http://img.rapidstreams.io/1/data/images/67188_iVHw1GD_150x150.png" group-title="38",SPORT TV 6
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/sporttv6/playlist.m3u8
+#EXTINF:-1 tvg-id="2757" tvg-logo="http://img.rapidstreams.io/1/data/images/45912_sportdigital ger_imresizer.jpg" group-title="38",Sportdigital De
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/sportdigital/playlist.m3u8
+#EXTINF:-1 tvg-id="2557" tvg-logo="http://img.rapidstreams.io/1/data/images/78859_tv-station-nba-tv-pt-1895_150x150.png" group-title="38",SPORTS TV NBA
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/sportnba/playlist.m3u8
+#EXTINF:-1 tvg-id="2740" tvg-logo="http://img.rapidstreams.io/1/data/images/9916_download_14_optimized.png" group-title="38",Sportsnet 360 CA
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/net360/playlist.m3u8
+#EXTINF:-1 tvg-id="2275" tvg-logo="http://img.rapidstreams.io/1/data/images/76084_a197_150x150.png" group-title="38",SPORTSNET EAST
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/sneast/playlist.m3u8
+#EXTINF:-1 tvg-id="2274" tvg-logo="http://img.rapidstreams.io/1/data/images/56802_a200_150x150.png" group-title="38",SPORTSNET ONE
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/netone/playlist.m3u8
+#EXTINF:-1 tvg-id="2273" tvg-logo="http://img.rapidstreams.io/1/data/images/67541_tv-station-sportsnet-ontario-203_150x150.png" group-title="38",SPORTSNET ONTARIO
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/netontario/playlist.m3u8
+#EXTINF:-1 tvg-id="2717" tvg-logo="http://img.rapidstreams.io/1/data/images/40852_SPNS.png" group-title="38",SPORTSNET PITTSBURGH
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/sppitt/playlist.m3u8
+#EXTINF:-1 tvg-id="2272" tvg-logo="http://img.rapidstreams.io/1/data/images/92877_tv-station-sportsnet-world-202_150x150.png" group-title="38",Sportsnet World
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/networld/playlist.m3u8
+#EXTINF:-1 tvg-id="303" tvg-logo="http://img.rapidstreams.io/1/data/images/30556_47890_starsphd1.jpg" group-title="38",STAR SP 1 HINDI
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/starhindi/playlist.m3u8
+#EXTINF:-1 tvg-id="312" tvg-logo="http://img.rapidstreams.io/1/data/images/59731_23453_starselecthd1 (1).jpg" group-title="38",STAR SP SELECT 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj15/playlist.m3u8
+#EXTINF:-1 tvg-id="314" tvg-logo="http://img.rapidstreams.io/1/data/images/6687_63286_starselecthd2.jpg" group-title="38",STAR SP SELECT 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj16/playlist.m3u8
+#EXTINF:-1 tvg-id="284" tvg-logo="http://img.rapidstreams.io/1/data/images/3948_54049_starsports1.jpg" group-title="38",STAR SPORTS 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj13/playlist.m3u8
+#EXTINF:-1 tvg-id="306" tvg-logo="http://img.rapidstreams.io/1/data/images/60535_95977_starsphd2.jpg" group-title="38",STAR SPORTS 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj14/playlist.m3u8
+#EXTINF:-1 tvg-id="307" tvg-logo="http://img.rapidstreams.io/1/data/images/57914_32980_starsports3.jpg" group-title="38",STAR SPORTS 3
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/star3hd/playlist.m3u8
+#EXTINF:-1 tvg-id="1933" tvg-logo="http://img.rapidstreams.io/1/data/images/34281_images_1_30_150x150.jpeg" group-title="38",SUPER Cricket
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/supercrichd/playlist.m3u8
+#EXTINF:-1 tvg-id="235" tvg-logo="http://img.rapidstreams.io/1/data/images/35594_3432_tencricpak.jpg" group-title="38",TEN SPORTS PK
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/shj6/playlist.m3u8
+#EXTINF:-1 tvg-id="1545" tvg-logo="http://img.rapidstreams.io/1/data/images/49554_tenis.png" group-title="38",TENNIS CHANNEL
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/Tennis/playlist.m3u8
+#EXTINF:-1 tvg-id="2267" tvg-logo="http://img.rapidstreams.io/1/data/images/38768_tntsports2_150x150.png" group-title="38",TNT SPORTS
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/tntsports/playlist.m3u8
+#EXTINF:-1 tvg-id="242" tvg-logo="http://img.rapidstreams.io/1/data/images/93069_1539_150x150.png" group-title="38",TNT SPORTS 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/bbtsp1hd/playlist.m3u8
+#EXTINF:-1 tvg-id="243" tvg-logo="http://img.rapidstreams.io/1/data/images/66435_1540_150x150.png" group-title="38",TNT SPORTS 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/bbtsp2hd/playlist.m3u8
+#EXTINF:-1 tvg-id="244" tvg-logo="http://img.rapidstreams.io/1/data/images/29997_download_41_150x150.png" group-title="38",TNT SPORTS 3
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bts3/playlist.m3u8
+#EXTINF:-1 tvg-id="1538" tvg-logo="http://img.rapidstreams.io/1/data/images/45296_1491_150x150.png" group-title="38",TNT SPORTS 4
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bbtespn/playlist.m3u8

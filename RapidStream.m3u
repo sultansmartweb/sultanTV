@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="142" tvg-logo="http://img.rapidstreams.io/1/data/images/66988_88753_action.jpg" group-title="FRANCE",ACTION
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/action/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="http://img.rapidstreams.io/1/data/images/93389_18032_animaux.jpg" group-title="FRANCE",ANIMAUX
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/animux/playlist.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://img.rapidstreams.io/1/data/images/51361_35325_bfmtv.jpg" group-title="FRANCE",BFMTV
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/bfmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="146" tvg-logo="http://img.rapidstreams.io/1/data/images/61680_29187_eenter.jpg" group-title="FRANCE",E ENTERTAINMENT
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/eentertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="147" tvg-logo="http://img.rapidstreams.io/1/data/images/95057_1556_france2.jpg" group-title="FRANCE",FRANCE 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/france2/playlist.m3u8
+#EXTINF:-1 tvg-id="148" tvg-logo="http://img.rapidstreams.io/1/data/images/76319_72832_france24.jpg" group-title="FRANCE",FRANCE 24
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/france24/playlist.m3u8
+#EXTINF:-1 tvg-id="149" tvg-logo="http://img.rapidstreams.io/1/data/images/22984_76742_france3.jpg" group-title="FRANCE",FRANCE 3
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/france3/playlist.m3u8
+#EXTINF:-1 tvg-id="150" tvg-logo="http://img.rapidstreams.io/1/data/images/92713_88012_france4.jpg" group-title="FRANCE",FRANCE 4
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/france4/playlist.m3u8
+#EXTINF:-1 tvg-id="151" tvg-logo="http://img.rapidstreams.io/1/data/images/76492_97069_france5.jpg" group-title="FRANCE",FRANCE 5
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/france5/playlist.m3u8
+#EXTINF:-1 tvg-id="152" tvg-logo="http://img.rapidstreams.io/1/data/images/63870_82104_franceo.jpg" group-title="FRANCE",FRANCE O
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/franceo/playlist.m3u8
+#EXTINF:-1 tvg-id="153" tvg-logo="http://img.rapidstreams.io/1/data/images/77305_1342_m6.jpg" group-title="FRANCE",M6
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/m6/playlist.m3u8
+#EXTINF:-1 tvg-id="154" tvg-logo="http://img.rapidstreams.io/1/data/images/22322_73610_OCSCHOC.jpg" group-title="FRANCE",OCS CHOC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/ocschoc/playlist.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="http://img.rapidstreams.io/1/data/images/6193_46157_ocscity.jpg" group-title="FRANCE",OCS CITY
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/ocscity/playlist.m3u8
+#EXTINF:-1 tvg-id="2687" tvg-logo="http://img.rapidstreams.io/1/data/images/44508_OCS-Geants_150x150.png" group-title="FRANCE",OCS GEANTS
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/ocsg/playlist.m3u8
+#EXTINF:-1 tvg-id="156" tvg-logo="http://img.rapidstreams.io/1/data/images/16760_61065_ocsmax.jpg" group-title="FRANCE",OCS MAX
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/ocsmax/playlist.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="http://img.rapidstreams.io/1/data/images/95782_51834_rtl9.jpg" group-title="FRANCE,RTL 9 HD
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/rtl9/playlist.m3u8
+#EXTINF:-1 tvg-id="158" tvg-logo="http://img.rapidstreams.io/1/data/images/24112_48368_tcmcinema.jpg" group-title="FRANCE",TCM
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/tcmfr/playlist.m3u8
+#EXTINF:-1 tvg-id="160" tvg-logo="http://img.rapidstreams.io/1/data/images/66924_80459_ard1.jpg" group-title="GERMANY",ARD 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/daseraste/playlist.m3u8
+#EXTINF:-1 tvg-id="161" tvg-logo="http://img.rapidstreams.io/1/data/images/26036_6755_axn.jpg" group-title="GERMANY",AXN
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/axn/playlist.m3u8
+#EXTINF:-1 tvg-id="2688" tvg-logo="http://img.rapidstreams.io/1/data/images/60166_download_34_150x150.jpeg" group-title="GERMANY",DAS ERSTE
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/daseraste/playlist.m3u8
+#EXTINF:-1 tvg-id="162" tvg-logo="http://img.rapidstreams.io/1/data/images/58607_65625_kikatv.jpg" group-title="GERMANY",KIKA TV
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/kikatv/playlist.m3u8
+#EXTINF:-1 tvg-id="163" tvg-logo="http://img.rapidstreams.io/1/data/images/91289_71905_n24.jpg" group-title="GERMANY",N24
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/n24/playlist.m3u8
+#EXTINF:-1 tvg-id="2690" tvg-logo="http://img.rapidstreams.io/1/data/images/55689_800px-Logo_NDR_Fernsehen_2017.svg_150x150.png" group-title="GERMANY",NDR
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/ndr/playlist.m3u8
+#EXTINF:-1 tvg-id="164" tvg-logo="http://img.rapidstreams.io/1/data/images/80147_85911_ntv.jpg" group-title="GERMANY",NTV
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="165" tvg-logo="http://img.rapidstreams.io/1/data/images/78192_20252_pro7.jpg" group-title="GERMANY",PRO 7
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/pro7/playlist.m3u8
+#EXTINF:-1 tvg-id="166" tvg-logo="http://img.rapidstreams.io/1/data/images/11846_26896_rtl.jpg" group-title="GERMANY",RTL
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/rtlhd/playlist.m3u8
+#EXTINF:-1 tvg-id="167" tvg-logo="http://img.rapidstreams.io/1/data/images/48116_7787_rtl2 (1).jpg" group-title="GERMANY",RTL 2
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/rtl2hd/playlist.m3u8
+#EXTINF:-1 tvg-id="168" tvg-logo="http://img.rapidstreams.io/1/data/images/58050_12359_rtlcrime (1).jpg" group-title="GERMANY",RTL CRIME
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/rtlcrime/playlist.m3u8
+#EXTINF:-1 tvg-id="169" tvg-logo="http://img.rapidstreams.io/1/data/images/64782_9992_rtlnitro (1).jpg" group-title="GERMANY",RTL NITRO
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/rtlnitrohd/playlist.m3u8
+#EXTINF:-1 tvg-id="170" tvg-logo="http://img.rapidstreams.io/1/data/images/59234_93698_rtlpassion.jpg" group-title="GERMANY",RTL PASSION
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/rtlpassion/playlist.m3u8
+#EXTINF:-1 tvg-id="171" tvg-logo="http://img.rapidstreams.io/1/data/images/96252_95762_sat1.jpg" group-title="GERMANY",SAT 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/sat1/playlist.m3u8
+#EXTINF:-1 tvg-id="179" tvg-logo="http://img.rapidstreams.io/1/data/images/79739_63082_superrtl.jpg" group-title="GERMANY",SUPER RTL
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/superrtl/playlist.m3u8
+#EXTINF:-1 tvg-id="180" tvg-logo="http://img.rapidstreams.io/1/data/images/37022_29051_vox.jpg" group-title="GERMANY",VOX
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/vox/playlist.m3u8
+#EXTINF:-1 tvg-id="2689" tvg-logo="http://img.rapidstreams.io/1/data/images/21937_download_42_1_150x150.png" group-title="GERMANY",ZDF NEO
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/canada1/zdfneo/playlist.m3u8
+#EXTINF:-1 tvg-id="181" tvg-logo="http://img.rapidstreams.io/1/data/images/92300_88499_zdftv.jpg" group-title="GERMANY",ZDF TV
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/zdf/playlist.m3u8
+#EXTINF:-1 tvg-id="2215" tvg-logo="http://img.rapidstreams.io/1/data/images/8808_A-Sports-Logo_150x150.png" group-title="Sports",A SPORTS
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/asports/playlist.m3u8
+#EXTINF:-1 tvg-id="2153" tvg-logo="http://img.rapidstreams.io/1/data/images/86862_acc-networkjpg_zqyhbcc7ngjq1o22gz5uw1d3o_150x150.jpg" group-title="Sports",ACC NETWORK USA
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/ACCN/playlist.m3u8
+#EXTINF:-1 tvg-id="2743" tvg-logo="http://img.rapidstreams.io/1/data/images/35101_download_16_optimized.png" group-title="Sports",ALTITUDE SPORTS
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/alt/playlist.m3u8
+#EXTINF:-1 tvg-id="1938" tvg-logo="http://img.rapidstreams.io/1/data/images/53562_images_28_150x150.png" group-title="Sports",ASTRO CRICKET
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/astro2/playlist.m3u8
+#EXTINF:-1 tvg-id="1990" tvg-logo="http://img.rapidstreams.io/1/data/images/54841_Astro_Supersport_Plus_PyeongChang_2018_150x150.png" group-title="Sports",ASTRO SUPERSPORT 1-5
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/astro1/playlist.m3u8
+#EXTINF:-1 tvg-id="2774" tvg-logo="http://img.rapidstreams.io/1/data/images/30124_axs_optimized.png" group-title="Sports",AXS TV USA
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/axsusa/playlist.m3u8
+#EXTINF:-1 tvg-id="2751" tvg-logo="http://img.rapidstreams.io/1/data/images/dummy_logo.png" group-title="Sports",BBC Scotland
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/axsusa/playlist.m3u8
+#EXTINF:-1 tvg-id="796" tvg-logo="http://img.rapidstreams.io/1/data/images/87942_23873_bein1tr (1).jpg" group-title="Sports",beIN SPORTS HD1 TR
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bein1tr/playlist.m3u8
+#EXTINF:-1 tvg-id="797" tvg-logo="http://img.rapidstreams.io/1/data/images/45817_69623_bein2tr.jpg" group-title="Sports",beIN SPORTS HD2 TR
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bein2tr/playlist.m3u8
+#EXTINF:-1 tvg-id="798" tvg-logo="http://img.rapidstreams.io/1/data/images/35496_95386_bein3tr.jpg" group-title="Sports",beIN SPORTS HD3 TR
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bein3tr/playlist.m3u8
+#EXTINF:-1 tvg-id="1669" tvg-logo="http://img.rapidstreams.io/1/data/images/20572_images_1_10_150x150.jpeg" group-title="Sports",beIN SPORTS HD1 FR
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/bein1prem/playlist.m3u8
+#EXTINF:-1 tvg-id="1670" tvg-logo="http://img.rapidstreams.io/1/data/images/20572_images_1_10_150x150.jpeg" group-title="Sports",beIN SPORTS HD2 FR
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bein2fr/playlist.m3u8
+#EXTINF:-1 tvg-id="1671" tvg-logo="http://img.rapidstreams.io/1/data/images/20572_images_1_10_150x150.jpeg" group-title="Sports",beIN SPORTS HD3 FR
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/bein3fr/playlist.m3u8
+#EXTINF:-1 tvg-id="1934" tvg-logo="http://img.rapidstreams.io/1/data/images/3676_bein 1 premi.jpg" group-title="Sports",beIN SPORTS HD1 PREMIUM
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/bein1prem/playlist.m3u8
+#EXTINF:-1 tvg-id="1935" tvg-logo="http://img.rapidstreams.io/1/data/images/3676_bein 1 premi.jpg" group-title="Sports",beIN SPORTS HD1 PREMIUM
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/beinprem2/playlist.m3u8
+#EXTINF:-1 tvg-id="1936" tvg-logo="http://img.rapidstreams.io/1/data/images/3676_bein 1 premi.jpg" group-title="Sports",beIN SPORTS HD1 PREMIUM
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/beinprem3/playlist.m3u8
+#EXTINF:-1 tvg-id="2559" tvg-logo="http://img.rapidstreams.io/1/data/images/28199_nl1468-logos-beinsports-nba_150x150.jpg" group-title="Sports",beIN SPORTS SPAIN NBA
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/beinnba/playlist.m3u8
+#EXTINF:-1 tvg-id="1541" tvg-logo="http://img.rapidstreams.io/1/data/images/33096_beinnews.jpg" group-title="Sports",beIN SPORTS SPAIN NEWS
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo52/playlist.m3u8
+#EXTINF:-1 tvg-id="747" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="Sports",beIN SPORTS HD1 ARABIC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo53/playlist.m3u8
+#EXTINF:-1 tvg-id="748" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="Sports",beIN SPORTS HD2 ARABIC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo54/playlist.m3u8
+#EXTINF:-1 tvg-id="749" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="Sports",beIN SPORTS HD3 ARABIC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo55/playlist.m3u8
+#EXTINF:-1 tvg-id="750" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="Sports",beIN SPORTS HD4 ARABIC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo56/playlist.m3u8
+#EXTINF:-1 tvg-id="751" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="Sports",beIN SPORTS HD5 ARABIC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo57/playlist.m3u8
+#EXTINF:-1 tvg-id="752" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="Sports",beIN SPORTS HD6 ARABIC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo58/playlist.m3u8
+#EXTINF:-1 tvg-id="753" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="Sports",beIN SPORTS HD7 ARABIC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo62/playlist.m3u8
+#EXTINF:-1 tvg-id="754" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="Sports",beIN SPORTS HD8 ARABIC
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/argo61/playlist.m3u8
+#EXTINF:-1 tvg-id="2250" tvg-logo="http://img.rapidstreams.io/1/data/images/68670_BEINENG_150x150.png" group-title="Sports",beIN SPORTS HD1 ENGLISH
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/bein1en/playlist.m3u8
+#EXTINF:-1 tvg-id="2251" tvg-logo="http://img.rapidstreams.io/1/data/images/68670_BEINENG_150x150.png" group-title="Sports",beIN SPORTS HD2 ENGLISH
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/bein2en/playlist.m3u8
+#EXTINF:-1 tvg-id="2252" tvg-logo="http://img.rapidstreams.io/1/data/images/68670_BEINENG_150x150.png" group-title="Sports",BEIN SPORTS HD3 ENGLISH
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/us1new/bein3en/playlist.m3u8
+#EXTINF:-1 tvg-id="2203" tvg-logo="http://img.rapidstreams.io/1/data/images/65866_XTRA_2_150x150.png" group-title="Sports",beIN SPORTS XTRA 1
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sports/xtra1/playlist.m3u8
+#EXTINF:-1 tvg-id="1540" tvg-logo="http://img.rapidstreams.io/1/data/images/30568_beinusa.png" group-title="Sports",beIN SPORTS USA
+https://rapidstream.mark-clark.workers.dev/?ID=http://zx.mtfxg.xyz:8081/sportshdd/usbeinsportshd/playlist.m3u8

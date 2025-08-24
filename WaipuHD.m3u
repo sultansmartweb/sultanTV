@@ -1,0 +1,619 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="ard" group-title="WaipuTV",ARD
+https://tv-waipu.mark-clark.workers.dev/?ID=ard
+#EXTINF:-1 tvg-id="2" tvg-name="zdf" group-title="WaipuTV",ZDF
+https://tv-waipu.mark-clark.workers.dev/?ID=zdf
+#EXTINF:-1 tvg-id="3" tvg-name="rtl" group-title="WaipuTV",RTL
+https://tv-waipu.mark-clark.workers.dev/?ID=rtl
+#EXTINF:-1 tvg-id="4" tvg-name="pro7" group-title="WaipuTV",PRO7
+https://tv-waipu.mark-clark.workers.dev/?ID=pro7
+#EXTINF:-1 tvg-id="5" tvg-name="sat1" group-title="WaipuTV",SAT1
+https://tv-waipu.mark-clark.workers.dev/?ID=sat1
+#EXTINF:-1 tvg-id="6" tvg-name="vox" group-title="WaipuTV",VOX
+https://tv-waipu.mark-clark.workers.dev/?ID=vox
+#EXTINF:-1 tvg-id="7" tvg-name="rtl2" group-title="WaipuTV",RTL2
+https://tv-waipu.mark-clark.workers.dev/?ID=rtl2
+#EXTINF:-1 tvg-id="8" tvg-name="kabeleins" group-title="WaipuTV",KABELEINS
+https://tv-waipu.mark-clark.workers.dev/?ID=kabeleins
+#EXTINF:-1 tvg-id="9" tvg-name="filmtastic" group-title="WaipuTV",FILMTASTIC
+https://tv-waipu.mark-clark.workers.dev/?ID=filmtastic
+#EXTINF:-1 tvg-id="10" tvg-name="ntv" group-title="WaipuTV",NTV
+https://tv-waipu.mark-clark.workers.dev/?ID=ntv
+#EXTINF:-1 tvg-id="11" tvg-name="n24" group-title="WaipuTV",N24
+https://tv-waipu.mark-clark.workers.dev/?ID=n24
+#EXTINF:-1 tvg-id="12" tvg-name="superrtl" group-title="WaipuTV",SUPERRTL
+https://tv-waipu.mark-clark.workers.dev/?ID=superrtl
+#EXTINF:-1 tvg-id="13" tvg-name="rtlnitro" group-title="WaipuTV",RTLNITRO
+https://tv-waipu.mark-clark.workers.dev/?ID=rtlnitro
+#EXTINF:-1 tvg-id="14" tvg-name="dmax" group-title="WaipuTV",DMAX
+https://tv-waipu.mark-clark.workers.dev/?ID=dmax
+#EXTINF:-1 tvg-id="15" tvg-name="axnblack" group-title="WaipuTV",AXNBLACK
+https://tv-waipu.mark-clark.workers.dev/?ID=axnblack
+#EXTINF:-1 tvg-id="16" tvg-name="axnwhite" group-title="WaipuTV",AXNWHITE
+https://tv-waipu.mark-clark.workers.dev/?ID=axnwhite
+#EXTINF:-1 tvg-id="17" tvg-name="13thstreet" group-title="WaipuTV",13THSTREET
+https://tv-waipu.mark-clark.workers.dev/?ID=13thstreet
+#EXTINF:-1 tvg-id="18" tvg-name="syfy" group-title="WaipuTV",SYFY
+https://tv-waipu.mark-clark.workers.dev/?ID=syfy
+#EXTINF:-1 tvg-id="19" tvg-name="universaltv" group-title="WaipuTV",UNIVERSALTV
+https://tv-waipu.mark-clark.workers.dev/?ID=universaltv
+#EXTINF:-1 tvg-id="20" tvg-name="tntserie" group-title="WaipuTV",TNTSERIE
+https://tv-waipu.mark-clark.workers.dev/?ID=tntserie
+#EXTINF:-1 tvg-id="21" tvg-name="tntcomedy" group-title="WaipuTV",TNTCOMEDY
+https://tv-waipu.mark-clark.workers.dev/?ID=tntcomedy
+#EXTINF:-1 tvg-id="22" tvg-name="tntfilm" group-title="WaipuTV",TNTFILM
+https://tv-waipu.mark-clark.workers.dev/?ID=tntfilm
+#EXTINF:-1 tvg-id="23" tvg-name="rtlcrime" group-title="WaipuTV",RTLCRIME
+https://tv-waipu.mark-clark.workers.dev/?ID=rtlcrime
+#EXTINF:-1 tvg-id="24" tvg-name="disney" group-title="WaipuTV",DISNEY
+https://tv-waipu.mark-clark.workers.dev/?ID=disney
+#EXTINF:-1 tvg-id="25" tvg-name="cinemaofhearts" group-title="WaipuTV",CINEMAOFHEARTS
+https://tv-waipu.mark-clark.workers.dev/?ID=cinemaofhearts
+#EXTINF:-1 tvg-id="26" tvg-name="rtlpassion" group-title="WaipuTV",RTLPASSION
+https://tv-waipu.mark-clark.workers.dev/?ID=rtlpassion
+#EXTINF:-1 tvg-id="27" tvg-name="lovepassion" group-title="WaipuTV",LOVEPASSION
+https://tv-waipu.mark-clark.workers.dev/?ID=lovepassion
+#EXTINF:-1 tvg-id="28" tvg-name="arthousecnma" group-title="WaipuTV",ARTHOUSECNMA
+https://tv-waipu.mark-clark.workers.dev/?ID=arthousecnma
+#EXTINF:-1 tvg-id="29" tvg-name="kinowelt" group-title="WaipuTV",KINOWELT
+https://tv-waipu.mark-clark.workers.dev/?ID=kinowelt
+#EXTINF:-1 tvg-id="30" tvg-name="kinoweltcatchup" group-title="WaipuTV",KINOWELTCATCHUP
+https://tv-waipu.mark-clark.workers.dev/?ID=kinoweltcatchup
+#EXTINF:-1 tvg-id="31" tvg-name="filmtotal" group-title="WaipuTV",FILMTOTAL
+https://tv-waipu.mark-clark.workers.dev/?ID=filmtotal
+#EXTINF:-1 tvg-id="32" tvg-name="zdfkrimi" group-title="WaipuTV",ZDFKRIMI
+https://tv-waipu.mark-clark.workers.dev/?ID=zdfkrimi
+#EXTINF:-1 tvg-id="33" tvg-name="filmlegenden" group-title="WaipuTV",FILMLEGENDEN
+https://tv-waipu.mark-clark.workers.dev/?ID=filmlegenden
+#EXTINF:-1 tvg-id="34" tvg-name="filmboxarthouse" group-title="WaipuTV",FILMBOXARTHOUSE
+https://tv-waipu.mark-clark.workers.dev/?ID=filmboxarthouse
+#EXTINF:-1 tvg-id="35" tvg-name="kabeleinsclassics" group-title="WaipuTV",KABELEINSCLASSICS
+https://tv-waipu.mark-clark.workers.dev/?ID=kabeleinsclassics
+#EXTINF:-1 tvg-id="36" tvg-name="prosiebenfun" group-title="WaipuTV",PROSIEBENFUN
+https://tv-waipu.mark-clark.workers.dev/?ID=prosiebenfun
+#EXTINF:-1 tvg-id="37" tvg-name="prosieben_maxx" group-title="WaipuTV",PROSIEBEN_MAXX
+https://tv-waipu.mark-clark.workers.dev/?ID=prosieben_maxx
+#EXTINF:-1 tvg-id="38" tvg-name="tele5" group-title="WaipuTV",TELE5
+https://tv-waipu.mark-clark.workers.dev/?ID=tele5
+#EXTINF:-1 tvg-id="39" tvg-name="bloodymovies" group-title="WaipuTV",BLOODYMOVIES
+https://tv-waipu.mark-clark.workers.dev/?ID=bloodymovies
+#EXTINF:-1 tvg-id="40" tvg-name="silverline" group-title="WaipuTV",SILVERLINE
+https://tv-waipu.mark-clark.workers.dev/?ID=silverline
+#EXTINF:-1 tvg-id="41" tvg-name="silverlinecatchupat" group-title="WaipuTV",SILVERLINECATCHUPAT
+https://tv-waipu.mark-clark.workers.dev/?ID=silverlinecatchupat
+#EXTINF:-1 tvg-id="42" tvg-name="homeofhorror" group-title="WaipuTV",HOMEOFHORROR
+https://tv-waipu.mark-clark.workers.dev/?ID=homeofhorror
+#EXTINF:-1 tvg-id="43" tvg-name="screamtime" group-title="WaipuTV",SCREAMTIME
+https://tv-waipu.mark-clark.workers.dev/?ID=screamtime
+#EXTINF:-1 tvg-id="44" tvg-name="zdfneo" group-title="WaipuTV",ZDFNEO
+https://tv-waipu.mark-clark.workers.dev/?ID=zdfneo
+#EXTINF:-1 tvg-id="45" tvg-name="krimiklassiker" group-title="WaipuTV",KRIMIKLASSIKER
+https://tv-waipu.mark-clark.workers.dev/?ID=krimiklassiker
+#EXTINF:-1 tvg-id="46" tvg-name="tvklassiker" group-title="WaipuTV",TVKLASSIKER
+https://tv-waipu.mark-clark.workers.dev/?ID=tvklassiker
+#EXTINF:-1 tvg-id="47" tvg-name="axnblackcatchup" group-title="WaipuTV",AXNBLACKCATCHUP
+https://tv-waipu.mark-clark.workers.dev/?ID=axnblackcatchup
+#EXTINF:-1 tvg-id="48" tvg-name="axnwhitecatchup" group-title="WaipuTV",AXNWHITECATCHUP
+https://tv-waipu.mark-clark.workers.dev/?ID=axnwhitecatchup
+#EXTINF:-1 tvg-id="49" tvg-name="fernsehschaetze" group-title="WaipuTV",FERNSEHSCHAETZE
+https://tv-waipu.mark-clark.workers.dev/?ID=fernsehschaetze
+#EXTINF:-1 tvg-id="50" tvg-name="natgeo" group-title="WaipuTV",NATGEO
+https://tv-waipu.mark-clark.workers.dev/?ID=natgeo
+#EXTINF:-1 tvg-id="51" tvg-name="natgeowild" group-title="WaipuTV",NATGEOWILD
+https://tv-waipu.mark-clark.workers.dev/?ID=natgeowild
+#EXTINF:-1 tvg-id="52" tvg-name="animalplanet" group-title="WaipuTV",ANIMALPLANET
+https://tv-waipu.mark-clark.workers.dev/?ID=animalplanet
+#EXTINF:-1 tvg-id="53" tvg-name="geo" group-title="WaipuTV",GEO
+https://tv-waipu.mark-clark.workers.dev/?ID=geo
+#EXTINF:-1 tvg-id="54" tvg-name="discovery" group-title="WaipuTV",DISCOVERY
+https://tv-waipu.mark-clark.workers.dev/?ID=discovery
+#EXTINF:-1 tvg-id="55" tvg-name="history" group-title="WaipuTV",HISTORY
+https://tv-waipu.mark-clark.workers.dev/?ID=history
+#EXTINF:-1 tvg-id="56" tvg-name="kultkrimi" group-title="WaipuTV",KULTKRIMI
+https://tv-waipu.mark-clark.workers.dev/?ID=kultkrimi
+#EXTINF:-1 tvg-id="57" tvg-name="krimikollegen" group-title="WaipuTV",KRIMIKOLLEGEN
+https://tv-waipu.mark-clark.workers.dev/?ID=krimikollegen
+#EXTINF:-1 tvg-id="58" tvg-name="crimetime" group-title="WaipuTV",CRIMETIME
+https://tv-waipu.mark-clark.workers.dev/?ID=crimetime
+#EXTINF:-1 tvg-id="59" tvg-name="wedotruestories" group-title="WaipuTV",WEDOTRUESTORIES
+https://tv-waipu.mark-clark.workers.dev/?ID=wedotruestories
+#EXTINF:-1 tvg-id="60" tvg-name="crimeinvestigation" group-title="WaipuTV",CRIMEINVESTIGATION
+https://tv-waipu.mark-clark.workers.dev/?ID=crimeinvestigation
+#EXTINF:-1 tvg-id="61" tvg-name="realcrime" group-title="WaipuTV",REALCRIME
+https://tv-waipu.mark-clark.workers.dev/?ID=realcrime
+#EXTINF:-1 tvg-id="62" tvg-name="toptruecrime" group-title="WaipuTV",TOPTRUECRIME
+https://tv-waipu.mark-clark.workers.dev/?ID=toptruecrime
+#EXTINF:-1 tvg-id="63" tvg-name="pridetv" group-title="WaipuTV",PRIDETV
+https://tv-waipu.mark-clark.workers.dev/?ID=pridetv
+#EXTINF:-1 tvg-id="64" tvg-name="cirkus" group-title="WaipuTV",CIRKUS
+https://tv-waipu.mark-clark.workers.dev/?ID=cirkus
+#EXTINF:-1 tvg-id="65" tvg-name="rtlliving" group-title="WaipuTV",RTLLIVING
+https://tv-waipu.mark-clark.workers.dev/?ID=rtlliving
+#EXTINF:-1 tvg-id="66" tvg-name="sat1emotions" group-title="WaipuTV",SAT1EMOTIONS
+https://tv-waipu.mark-clark.workers.dev/?ID=sat1emotions
+#EXTINF:-1 tvg-id="67" tvg-name="sat1gold" group-title="WaipuTV",SAT1GOLD
+https://tv-waipu.mark-clark.workers.dev/?ID=sat1gold
+#EXTINF:-1 tvg-id="68" tvg-name="rtlplus" group-title="WaipuTV",RTLPLUS
+https://tv-waipu.mark-clark.workers.dev/?ID=rtlplus
+#EXTINF:-1 tvg-id="69" tvg-name="sixx" group-title="WaipuTV",SIXX
+https://tv-waipu.mark-clark.workers.dev/?ID=sixx
+#EXTINF:-1 tvg-id="70" tvg-name="serienhits" group-title="WaipuTV",SERIENHITS
+https://tv-waipu.mark-clark.workers.dev/?ID=serienhits
+#EXTINF:-1 tvg-id="71" tvg-name="romance" group-title="WaipuTV",ROMANCE
+https://tv-waipu.mark-clark.workers.dev/?ID=romance
+#EXTINF:-1 tvg-id="72" tvg-name="romancecatchup" group-title="WaipuTV",ROMANCECATCHUP
+https://tv-waipu.mark-clark.workers.dev/?ID=romancecatchup
+#EXTINF:-1 tvg-id="73" tvg-name="fernsehenmitherz" group-title="WaipuTV",FERNSEHENMITHERZ
+https://tv-waipu.mark-clark.workers.dev/?ID=fernsehenmitherz
+#EXTINF:-1 tvg-id="74" tvg-name="buntetv" group-title="WaipuTV",BUNTETV
+https://tv-waipu.mark-clark.workers.dev/?ID=buntetv
+#EXTINF:-1 tvg-id="75" tvg-name="taff" group-title="WaipuTV",TAFF
+https://tv-waipu.mark-clark.workers.dev/?ID=taff
+#EXTINF:-1 tvg-id="76" tvg-name="harrison" group-title="WaipuTV",HARRISON
+https://tv-waipu.mark-clark.workers.dev/?ID=harrison
+#EXTINF:-1 tvg-id="77" tvg-name="tlc" group-title="WaipuTV",TLC
+https://tv-waipu.mark-clark.workers.dev/?ID=tlc
+#EXTINF:-1 tvg-id="78" tvg-name="zdftelenovela" group-title="WaipuTV",ZDFTELENOVELA
+https://tv-waipu.mark-clark.workers.dev/?ID=zdftelenovela
+#EXTINF:-1 tvg-id="79" tvg-name="rtlzweiclips" group-title="WaipuTV",RTLZWEICLIPS
+https://tv-waipu.mark-clark.workers.dev/?ID=rtlzweiclips
+#EXTINF:-1 tvg-id="80" tvg-name="rtlzweifamilies" group-title="WaipuTV",RTLZWEIFAMILIES
+https://tv-waipu.mark-clark.workers.dev/?ID=rtlzweifamilies
+#EXTINF:-1 tvg-id="81" tvg-name="mystory" group-title="WaipuTV",MYSTORY
+https://tv-waipu.mark-clark.workers.dev/?ID=mystory
+#EXTINF:-1 tvg-id="82" tvg-name="rechtgerechtigkeit" group-title="WaipuTV",RECHTGERECHTIGKEIT
+https://tv-waipu.mark-clark.workers.dev/?ID=rechtgerechtigkeit
+#EXTINF:-1 tvg-id="83" tvg-name="rechtordnung" group-title="WaipuTV",RECHTORDNUNG
+https://tv-waipu.mark-clark.workers.dev/?ID=rechtordnung
+#EXTINF:-1 tvg-id="84" tvg-name="kalktv" group-title="WaipuTV",KALKTV
+https://tv-waipu.mark-clark.workers.dev/?ID=kalktv
+#EXTINF:-1 tvg-id="85" tvg-name="bestofcomedy" group-title="WaipuTV",BESTOFCOMEDY
+https://tv-waipu.mark-clark.workers.dev/?ID=bestofcomedy
+#EXTINF:-1 tvg-id="86" tvg-name="bully" group-title="WaipuTV",BULLY
+https://tv-waipu.mark-clark.workers.dev/?ID=bully
+#EXTINF:-1 tvg-id="87" tvg-name="ladykracher" group-title="WaipuTV",LADYKRACHER
+https://tv-waipu.mark-clark.workers.dev/?ID=ladykracher
+#EXTINF:-1 tvg-id="88" tvg-name="comedy_central" group-title="WaipuTV",COMEDY_CENTRAL
+https://tv-waipu.mark-clark.workers.dev/?ID=comedy_central
+#EXTINF:-1 tvg-id="89" tvg-name="comedyshows" group-title="WaipuTV",COMEDYSHOWS
+https://tv-waipu.mark-clark.workers.dev/?ID=comedyshows
+#EXTINF:-1 tvg-id="90" tvg-name="doityourself" group-title="WaipuTV",DOITYOURSELF
+https://tv-waipu.mark-clark.workers.dev/?ID=doityourself
+#EXTINF:-1 tvg-id="91" tvg-name="hgtv" group-title="WaipuTV",HGTV
+https://tv-waipu.mark-clark.workers.dev/?ID=hgtv
+#EXTINF:-1 tvg-id="92" tvg-name="landlust" group-title="WaipuTV",LANDLUST
+https://tv-waipu.mark-clark.workers.dev/?ID=landlust
+#EXTINF:-1 tvg-id="93" tvg-name="voxup" group-title="WaipuTV",VOXUP
+https://tv-waipu.mark-clark.workers.dev/?ID=voxup
+#EXTINF:-1 tvg-id="94" tvg-name="ewtn" group-title="WaipuTV",EWTN
+https://tv-waipu.mark-clark.workers.dev/?ID=ewtn
+#EXTINF:-1 tvg-id="95" tvg-name="hopetv" group-title="WaipuTV",HOPETV
+https://tv-waipu.mark-clark.workers.dev/?ID=hopetv
+#EXTINF:-1 tvg-id="96" tvg-name="bibel" group-title="WaipuTV",BIBEL
+https://tv-waipu.mark-clark.workers.dev/?ID=bibel
+#EXTINF:-1 tvg-id="97" tvg-name="ktv" group-title="WaipuTV",KTV
+https://tv-waipu.mark-clark.workers.dev/?ID=ktv
+#EXTINF:-1 tvg-id="98" tvg-name="wetter" group-title="WaipuTV",WETTER
+https://tv-waipu.mark-clark.workers.dev/?ID=wetter
+#EXTINF:-1 tvg-id="99" tvg-name="planetmovies" group-title="WaipuTV",PLANETMOVIES
+https://tv-waipu.mark-clark.workers.dev/?ID=planetmovies
+#EXTINF:-1 tvg-id="100" tvg-name="watch4crime" group-title="WaipuTV",WATCH4CRIME
+https://tv-waipu.mark-clark.workers.dev/?ID=watch4crime
+#EXTINF:-1 tvg-id="101" tvg-name="kabeleinsdoku" group-title="WaipuTV",KABELEINSDOKU
+https://tv-waipu.mark-clark.workers.dev/?ID=kabeleinsdoku
+#EXTINF:-1 tvg-id="102" tvg-name="dokusat" group-title="WaipuTV",DOKUSAT
+https://tv-waipu.mark-clark.workers.dev/?ID=dokusat
+#EXTINF:-1 tvg-id="103" tvg-name="wir24" group-title="WaipuTV",WIR24
+https://tv-waipu.mark-clark.workers.dev/?ID=wir24
+#EXTINF:-1 tvg-id="104" tvg-name="sonnenklar" group-title="WaipuTV",SONNENKLAR
+https://tv-waipu.mark-clark.workers.dev/?ID=sonnenklar
+#EXTINF:-1 tvg-id="105" tvg-name="heimatkanal" group-title="WaipuTV",HEIMATKANAL
+https://tv-waipu.mark-clark.workers.dev/?ID=heimatkanal
+#EXTINF:-1 tvg-id="106" tvg-name="filmpalast" group-title="WaipuTV",FILMPALAST
+https://tv-waipu.mark-clark.workers.dev/?ID=filmpalast
+#EXTINF:-1 tvg-id="107" tvg-name="cinenet" group-title="WaipuTV",CINENET
+https://tv-waipu.mark-clark.workers.dev/?ID=cinenet
+#EXTINF:-1 tvg-id="108" tvg-name="moviesphere" group-title="WaipuTV",MOVIESPHERE
+https://tv-waipu.mark-clark.workers.dev/?ID=moviesphere
+#EXTINF:-1 tvg-id="109" tvg-name="hakunan" group-title="WaipuTV",HAKUNAN
+https://tv-waipu.mark-clark.workers.dev/?ID=hakunan
+#EXTINF:-1 tvg-id="110" tvg-name="craction" group-title="WaipuTV",CRACTION
+https://tv-waipu.mark-clark.workers.dev/?ID=craction
+#EXTINF:-1 tvg-id="111" tvg-name="kika" group-title="WaipuTV",KIKA
+https://tv-waipu.mark-clark.workers.dev/?ID=kika
+#EXTINF:-1 tvg-id="112" tvg-name="nickjr" group-title="WaipuTV",NICKJR
+https://tv-waipu.mark-clark.workers.dev/?ID=nickjr
+#EXTINF:-1 tvg-id="113" tvg-name="kiddinxkids" group-title="WaipuTV",KIDDINXKIDS
+https://tv-waipu.mark-clark.workers.dev/?ID=kiddinxkids
+#EXTINF:-1 tvg-id="114" tvg-name="nickelodeon" group-title="WaipuTV",NICKELODEON
+https://tv-waipu.mark-clark.workers.dev/?ID=nickelodeon
+#EXTINF:-1 tvg-id="115" tvg-name="naruto" group-title="WaipuTV",NARUTO
+https://tv-waipu.mark-clark.workers.dev/?ID=naruto
+#EXTINF:-1 tvg-id="116" tvg-name="yugioh" group-title="WaipuTV",YUGIOH
+https://tv-waipu.mark-clark.workers.dev/?ID=yugioh
+#EXTINF:-1 tvg-id="117" tvg-name="kartoon" group-title="WaipuTV",KARTOON
+https://tv-waipu.mark-clark.workers.dev/?ID=kartoon
+#EXTINF:-1 tvg-id="118" tvg-name="spielmit" group-title="WaipuTV",SPIELMIT
+https://tv-waipu.mark-clark.workers.dev/?ID=spielmit
+#EXTINF:-1 tvg-id="119" tvg-name="fixfoxi" group-title="WaipuTV",FIXFOXI
+https://tv-waipu.mark-clark.workers.dev/?ID=fixfoxi
+#EXTINF:-1 tvg-id="120" tvg-name="kixi" group-title="WaipuTV",KIXI
+https://tv-waipu.mark-clark.workers.dev/?ID=kixi
+#EXTINF:-1 tvg-id="121" tvg-name="ric" group-title="WaipuTV",RIC
+https://tv-waipu.mark-clark.workers.dev/?ID=ric
+#EXTINF:-1 tvg-id="122" tvg-name="hoppipolla" group-title="WaipuTV",HOPPIPOLLA
+https://tv-waipu.mark-clark.workers.dev/?ID=hoppipolla
+#EXTINF:-1 tvg-id="123" tvg-name="toggoplus" group-title="WaipuTV",TOGGOPLUS
+https://tv-waipu.mark-clark.workers.dev/?ID=toggoplus
+#EXTINF:-1 tvg-id="124" tvg-name="amusekids" group-title="WaipuTV",AMUSEKIDS
+https://tv-waipu.mark-clark.workers.dev/?ID=amusekids
+#EXTINF:-1 tvg-id="125" tvg-name="myanimationkids" group-title="WaipuTV",MYANIMATIONKIDS
+https://tv-waipu.mark-clark.workers.dev/?ID=myanimationkids
+#EXTINF:-1 tvg-id="126" tvg-name="looloo" group-title="WaipuTV",LOOLOO
+https://tv-waipu.mark-clark.workers.dev/?ID=looloo
+#EXTINF:-1 tvg-id="127" tvg-name="cosmoundwanda" group-title="WaipuTV",COSMOUNDWANDA
+https://tv-waipu.mark-clark.workers.dev/?ID=cosmoundwanda
+#EXTINF:-1 tvg-id="128" tvg-name="janosch" group-title="WaipuTV",JANOSCH
+https://tv-waipu.mark-clark.workers.dev/?ID=janosch
+#EXTINF:-1 tvg-id="129" tvg-name="storyzoo" group-title="WaipuTV",STORYZOO
+https://tv-waipu.mark-clark.workers.dev/?ID=storyzoo
+#EXTINF:-1 tvg-id="130" tvg-name="daznrise" group-title="WaipuTV",DAZNRISE
+https://tv-waipu.mark-clark.workers.dev/?ID=daznrise
+#EXTINF:-1 tvg-id="131" tvg-name="daznfast" group-title="WaipuTV",DAZNFAST
+https://tv-waipu.mark-clark.workers.dev/?ID=daznfast
+#EXTINF:-1 tvg-id="132" tvg-name="eurosport1" group-title="WaipuTV",EUROSPORT1
+https://tv-waipu.mark-clark.workers.dev/?ID=eurosport1
+#EXTINF:-1 tvg-id="133" tvg-name="eurosport2" group-title="WaipuTV",EUROSPORT2
+https://tv-waipu.mark-clark.workers.dev/?ID=eurosport2
+#EXTINF:-1 tvg-id="134" tvg-name="sport1" group-title="WaipuTV",SPORT1
+https://tv-waipu.mark-clark.workers.dev/?ID=sport1
+#EXTINF:-1 tvg-id="135" tvg-name="sportdigital" group-title="WaipuTV",SPORTDIGITAL
+https://tv-waipu.mark-clark.workers.dev/?ID=sportdigital
+#EXTINF:-1 tvg-id="136" tvg-name="sport1plus" group-title="WaipuTV",SPORT1PLUS
+https://tv-waipu.mark-clark.workers.dev/?ID=sport1plus
+#EXTINF:-1 tvg-id="137" tvg-name="" group-title="WaipuTV",
+https://tv-waipu.mark-clark.workers.dev/?ID=
+#EXTINF:-1 tvg-id="138" tvg-name="gametoon" group-title="WaipuTV",GAMETOON
+https://tv-waipu.mark-clark.workers.dev/?ID=gametoon
+#EXTINF:-1 tvg-id="139" tvg-name="eotv" group-title="WaipuTV",EOTV
+https://tv-waipu.mark-clark.workers.dev/?ID=eotv
+#EXTINF:-1 tvg-id="140" tvg-name="mtstvh" group-title="WaipuTV",MTSTVH
+https://tv-waipu.mark-clark.workers.dev/?ID=mtstvh
+#EXTINF:-1 tvg-id="141" tvg-name="adactv" group-title="WaipuTV",ADACTV
+https://tv-waipu.mark-clark.workers.dev/?ID=adactv
+#EXTINF:-1 tvg-id="142" tvg-name="motorvision" group-title="WaipuTV",MOTORVISION
+https://tv-waipu.mark-clark.workers.dev/?ID=motorvision
+#EXTINF:-1 tvg-id="143" tvg-name="motorvisiontvfree" group-title="WaipuTV",MOTORVISIONTVFREE
+https://tv-waipu.mark-clark.workers.dev/?ID=motorvisiontvfree
+#EXTINF:-1 tvg-id="144" tvg-name="bbctopgear" group-title="WaipuTV",BBCTOPGEAR
+https://tv-waipu.mark-clark.workers.dev/?ID=bbctopgear
+#EXTINF:-1 tvg-id="145" tvg-name="motorvisionclassics" group-title="WaipuTV",MOTORVISIONCLASSICS
+https://tv-waipu.mark-clark.workers.dev/?ID=motorvisionclassics
+#EXTINF:-1 tvg-id="146" tvg-name="jpperformance" group-title="WaipuTV",JPPERFORMANCE
+https://tv-waipu.mark-clark.workers.dev/?ID=jpperformance
+#EXTINF:-1 tvg-id="147" tvg-name="abt" group-title="WaipuTV",ABT
+https://tv-waipu.mark-clark.workers.dev/?ID=abt
+#EXTINF:-1 tvg-id="148" tvg-name="amsc" group-title="WaipuTV",AMSC
+https://tv-waipu.mark-clark.workers.dev/?ID=amsc
+#EXTINF:-1 tvg-id="149" tvg-name="fightbox" group-title="WaipuTV",FIGHTBOX
+https://tv-waipu.mark-clark.workers.dev/?ID=fightbox
+#EXTINF:-1 tvg-id="150" tvg-name="1000ps" group-title="WaipuTV",1000PS
+https://tv-waipu.mark-clark.workers.dev/?ID=1000ps
+#EXTINF:-1 tvg-id="151" tvg-name="automotorsporttv" group-title="WaipuTV",AUTOMOTORSPORTTV
+https://tv-waipu.mark-clark.workers.dev/?ID=automotorsporttv
+#EXTINF:-1 tvg-id="152" tvg-name="fight24" group-title="WaipuTV",FIGHT24
+https://tv-waipu.mark-clark.workers.dev/?ID=fight24
+#EXTINF:-1 tvg-id="153" tvg-name="wedosports" group-title="WaipuTV",WEDOSPORTS
+https://tv-waipu.mark-clark.workers.dev/?ID=wedosports
+#EXTINF:-1 tvg-id="154" tvg-name="redbull" group-title="WaipuTV",REDBULL
+https://tv-waipu.mark-clark.workers.dev/?ID=redbull
+#EXTINF:-1 tvg-id="155" tvg-name="redbullexplore" group-title="WaipuTV",REDBULLEXPLORE
+https://tv-waipu.mark-clark.workers.dev/?ID=redbullexplore
+#EXTINF:-1 tvg-id="156" tvg-name="worldoffreesports" group-title="WaipuTV",WORLDOFFREESPORTS
+https://tv-waipu.mark-clark.workers.dev/?ID=worldoffreesports
+#EXTINF:-1 tvg-id="157" tvg-name="tennischannel" group-title="WaipuTV",TENNISCHANNEL
+https://tv-waipu.mark-clark.workers.dev/?ID=tennischannel
+#EXTINF:-1 tvg-id="158" tvg-name="edgesport" group-title="WaipuTV",EDGESPORT
+https://tv-waipu.mark-clark.workers.dev/?ID=edgesport
+#EXTINF:-1 tvg-id="159" tvg-name="fastnfunbox" group-title="WaipuTV",FASTNFUNBOX
+https://tv-waipu.mark-clark.workers.dev/?ID=fastnfunbox
+#EXTINF:-1 tvg-id="160" tvg-name="insighttv" group-title="WaipuTV",INSIGHTTV
+https://tv-waipu.mark-clark.workers.dev/?ID=insighttv
+#EXTINF:-1 tvg-id="161" tvg-name="obsessiontv" group-title="WaipuTV",OBSESSIONTV
+https://tv-waipu.mark-clark.workers.dev/?ID=obsessiontv
+#EXTINF:-1 tvg-id="162" tvg-name="hotpassion" group-title="WaipuTV",HOTPASSION
+https://tv-waipu.mark-clark.workers.dev/?ID=hotpassion
+#EXTINF:-1 tvg-id="163" tvg-name="midnitehaute" group-title="WaipuTV",MIDNITEHAUTE
+https://tv-waipu.mark-clark.workers.dev/?ID=midnitehaute
+#EXTINF:-1 tvg-id="164" tvg-name="fashiontv" group-title="WaipuTV",FASHIONTV
+https://tv-waipu.mark-clark.workers.dev/?ID=fashiontv
+#EXTINF:-1 tvg-id="165" tvg-name="fashionbox" group-title="WaipuTV",FASHIONBOX
+https://tv-waipu.mark-clark.workers.dev/?ID=fashionbox
+#EXTINF:-1 tvg-id="166" tvg-name="360tunebox" group-title="WaipuTV",360TUNEBOX
+https://tv-waipu.mark-clark.workers.dev/?ID=360tunebox
+#EXTINF:-1 tvg-id="167" tvg-name="deluxetv" group-title="WaipuTV",DELUXETV
+https://tv-waipu.mark-clark.workers.dev/?ID=deluxetv
+#EXTINF:-1 tvg-id="168" tvg-name="musicboxclassic" group-title="WaipuTV",MUSICBOXCLASSIC
+https://tv-waipu.mark-clark.workers.dev/?ID=musicboxclassic
+#EXTINF:-1 tvg-id="169" tvg-name="xitehits" group-title="WaipuTV",XITEHITS
+https://tv-waipu.mark-clark.workers.dev/?ID=xitehits
+#EXTINF:-1 tvg-id="170" tvg-name="quello" group-title="WaipuTV",QUELLO
+https://tv-waipu.mark-clark.workers.dev/?ID=quello
+#EXTINF:-1 tvg-id="171" tvg-name="deluxerap" group-title="WaipuTV",DELUXERAP
+https://tv-waipu.mark-clark.workers.dev/?ID=deluxerap
+#EXTINF:-1 tvg-id="172" tvg-name="deluxedance" group-title="WaipuTV",DELUXEDANCE
+https://tv-waipu.mark-clark.workers.dev/?ID=deluxedance
+#EXTINF:-1 tvg-id="173" tvg-name="xiterb" group-title="WaipuTV",XITERB
+https://tv-waipu.mark-clark.workers.dev/?ID=xiterb
+#EXTINF:-1 tvg-id="174" tvg-name="deluxelounge" group-title="WaipuTV",DELUXELOUNGE
+https://tv-waipu.mark-clark.workers.dev/?ID=deluxelounge
+#EXTINF:-1 tvg-id="175" tvg-name="mtv" group-title="WaipuTV",MTV
+https://tv-waipu.mark-clark.workers.dev/?ID=mtv
+#EXTINF:-1 tvg-id="176" tvg-name="mtv80ssd" group-title="WaipuTV",MTV80SSD
+https://tv-waipu.mark-clark.workers.dev/?ID=mtv80ssd
+#EXTINF:-1 tvg-id="177" tvg-name="mtv90s" group-title="WaipuTV",MTV90S
+https://tv-waipu.mark-clark.workers.dev/?ID=mtv90s
+#EXTINF:-1 tvg-id="178" tvg-name="mtv00s" group-title="WaipuTV",MTV00S
+https://tv-waipu.mark-clark.workers.dev/?ID=mtv00s
+#EXTINF:-1 tvg-id="179" tvg-name="mtvhits" group-title="WaipuTV",MTVHITS
+https://tv-waipu.mark-clark.workers.dev/?ID=mtvhits
+#EXTINF:-1 tvg-id="180" tvg-name="mtvlive" group-title="WaipuTV",MTVLIVE
+https://tv-waipu.mark-clark.workers.dev/?ID=mtvlive
+#EXTINF:-1 tvg-id="181" tvg-name="qwest" group-title="WaipuTV",QWEST
+https://tv-waipu.mark-clark.workers.dev/?ID=qwest
+#EXTINF:-1 tvg-id="182" tvg-name="jukebox" group-title="WaipuTV",JUKEBOX
+https://tv-waipu.mark-clark.workers.dev/?ID=jukebox
+#EXTINF:-1 tvg-id="183" tvg-name="gutelaune" group-title="WaipuTV",GUTELAUNE
+https://tv-waipu.mark-clark.workers.dev/?ID=gutelaune
+#EXTINF:-1 tvg-id="184" tvg-name="goldstar" group-title="WaipuTV",GOLDSTAR
+https://tv-waipu.mark-clark.workers.dev/?ID=goldstar
+#EXTINF:-1 tvg-id="185" tvg-name="schlagerdeluxe" group-title="WaipuTV",SCHLAGERDELUXE
+https://tv-waipu.mark-clark.workers.dev/?ID=schlagerdeluxe
+#EXTINF:-1 tvg-id="186" tvg-name="melodietv" group-title="WaipuTV",MELODIETV
+https://tv-waipu.mark-clark.workers.dev/?ID=melodietv
+#EXTINF:-1 tvg-id="187" tvg-name="moviemusic" group-title="WaipuTV",MOVIEMUSIC
+https://tv-waipu.mark-clark.workers.dev/?ID=moviemusic
+#EXTINF:-1 tvg-id="188" tvg-name="stingrayclassica" group-title="WaipuTV",STINGRAYCLASSICA
+https://tv-waipu.mark-clark.workers.dev/?ID=stingrayclassica
+#EXTINF:-1 tvg-id="189" tvg-name="deutschesmusikfernsehen" group-title="WaipuTV",DEUTSCHESMUSIKFERNSEHEN
+https://tv-waipu.mark-clark.workers.dev/?ID=deutschesmusikfernsehen
+#EXTINF:-1 tvg-id="190" tvg-name="domtendo" group-title="WaipuTV",DOMTENDO
+https://tv-waipu.mark-clark.workers.dev/?ID=domtendo
+#EXTINF:-1 tvg-id="191" tvg-name="tierweltlive" group-title="WaipuTV",TIERWELTLIVE
+https://tv-waipu.mark-clark.workers.dev/?ID=tierweltlive
+#EXTINF:-1 tvg-id="192" tvg-name="adventure" group-title="WaipuTV",ADVENTURE
+https://tv-waipu.mark-clark.workers.dev/?ID=adventure
+#EXTINF:-1 tvg-id="193" tvg-name="abenteuerwissen" group-title="WaipuTV",ABENTEUERWISSEN
+https://tv-waipu.mark-clark.workers.dev/?ID=abenteuerwissen
+#EXTINF:-1 tvg-id="194" tvg-name="planet" group-title="WaipuTV",PLANET
+https://tv-waipu.mark-clark.workers.dev/?ID=planet
+#EXTINF:-1 tvg-id="195" tvg-name="spiegelwissen" group-title="WaipuTV",SPIEGELWISSEN
+https://tv-waipu.mark-clark.workers.dev/?ID=spiegelwissen
+#EXTINF:-1 tvg-id="196" tvg-name="spiegelgeschichte" group-title="WaipuTV",SPIEGELGESCHICHTE
+https://tv-waipu.mark-clark.workers.dev/?ID=spiegelgeschichte
+#EXTINF:-1 tvg-id="197" tvg-name="derspiegel" group-title="WaipuTV",DERSPIEGEL
+https://tv-waipu.mark-clark.workers.dev/?ID=derspiegel
+#EXTINF:-1 tvg-id="198" tvg-name="spiegelkonflikte" group-title="WaipuTV",SPIEGELKONFLIKTE
+https://tv-waipu.mark-clark.workers.dev/?ID=spiegelkonflikte
+#EXTINF:-1 tvg-id="199" tvg-name="breakinglab" group-title="WaipuTV",BREAKINGLAB
+https://tv-waipu.mark-clark.workers.dev/?ID=breakinglab
+#EXTINF:-1 tvg-id="200" tvg-name="historyclips" group-title="WaipuTV",HISTORYCLIPS
+https://tv-waipu.mark-clark.workers.dev/?ID=historyclips
+#EXTINF:-1 tvg-id="201" tvg-name="bbchistory" group-title="WaipuTV",BBCHISTORY
+https://tv-waipu.mark-clark.workers.dev/?ID=bbchistory
+#EXTINF:-1 tvg-id="202" tvg-name="timeline" group-title="WaipuTV",TIMELINE
+https://tv-waipu.mark-clark.workers.dev/?ID=timeline
+#EXTINF:-1 tvg-id="203" tvg-name="xplorefree" group-title="WaipuTV",XPLOREFREE
+https://tv-waipu.mark-clark.workers.dev/?ID=xplorefree
+#EXTINF:-1 tvg-id="204" tvg-name="terramater" group-title="WaipuTV",TERRAMATER
+https://tv-waipu.mark-clark.workers.dev/?ID=terramater
+#EXTINF:-1 tvg-id="205" tvg-name="earthstories" group-title="WaipuTV",EARTHSTORIES
+https://tv-waipu.mark-clark.workers.dev/?ID=earthstories
+#EXTINF:-1 tvg-id="206" tvg-name="marcopolo" group-title="WaipuTV",MARCOPOLO
+https://tv-waipu.mark-clark.workers.dev/?ID=marcopolo
+#EXTINF:-1 tvg-id="207" tvg-name="bbctravel" group-title="WaipuTV",BBCTRAVEL
+https://tv-waipu.mark-clark.workers.dev/?ID=bbctravel
+#EXTINF:-1 tvg-id="208" tvg-name="travelxp" group-title="WaipuTV",TRAVELXP
+https://tv-waipu.mark-clark.workers.dev/?ID=travelxp
+#EXTINF:-1 tvg-id="209" tvg-name="df1" group-title="WaipuTV",DF1
+https://tv-waipu.mark-clark.workers.dev/?ID=df1
+#EXTINF:-1 tvg-id="210" tvg-name="weltderwunder" group-title="WaipuTV",WELTDERWUNDER
+https://tv-waipu.mark-clark.workers.dev/?ID=weltderwunder
+#EXTINF:-1 tvg-id="211" tvg-name="bauforum24" group-title="WaipuTV",BAUFORUM24
+https://tv-waipu.mark-clark.workers.dev/?ID=bauforum24
+#EXTINF:-1 tvg-id="212" tvg-name="miniaturwunderland" group-title="WaipuTV",MINIATURWUNDERLAND
+https://tv-waipu.mark-clark.workers.dev/?ID=miniaturwunderland
+#EXTINF:-1 tvg-id="213" tvg-name="waidwerk" group-title="WaipuTV",WAIDWERK
+https://tv-waipu.mark-clark.workers.dev/?ID=waidwerk
+#EXTINF:-1 tvg-id="214" tvg-name="wirangeln" group-title="WaipuTV",WIRANGELN
+https://tv-waipu.mark-clark.workers.dev/?ID=wirangeln
+#EXTINF:-1 tvg-id="215" tvg-name="zdfinfo" group-title="WaipuTV",ZDFINFO
+https://tv-waipu.mark-clark.workers.dev/?ID=zdfinfo
+#EXTINF:-1 tvg-id="216" tvg-name="moconomy" group-title="WaipuTV",MOCONOMY
+https://tv-waipu.mark-clark.workers.dev/?ID=moconomy
+#EXTINF:-1 tvg-id="217" tvg-name="doku" group-title="WaipuTV",DOKU
+https://tv-waipu.mark-clark.workers.dev/?ID=doku
+#EXTINF:-1 tvg-id="218" tvg-name="crimeinvestigationclips" group-title="WaipuTV",CRIMEINVESTIGATIONCLIPS
+https://tv-waipu.mark-clark.workers.dev/?ID=crimeinvestigationclips
+#EXTINF:-1 tvg-id="219" tvg-name="focustv" group-title="WaipuTV",FOCUSTV
+https://tv-waipu.mark-clark.workers.dev/?ID=focustv
+#EXTINF:-1 tvg-id="220" tvg-name="historama" group-title="WaipuTV",HISTORAMA
+https://tv-waipu.mark-clark.workers.dev/?ID=historama
+#EXTINF:-1 tvg-id="221" tvg-name="tempora" group-title="WaipuTV",TEMPORA
+https://tv-waipu.mark-clark.workers.dev/?ID=tempora
+#EXTINF:-1 tvg-id="222" tvg-name="docubox" group-title="WaipuTV",DOCUBOX
+https://tv-waipu.mark-clark.workers.dev/?ID=docubox
+#EXTINF:-1 tvg-id="223" tvg-name="watchdokus" group-title="WaipuTV",WATCHDOKUS
+https://tv-waipu.mark-clark.workers.dev/?ID=watchdokus
+#EXTINF:-1 tvg-id="224" tvg-name="curiositynow" group-title="WaipuTV",CURIOSITYNOW
+https://tv-waipu.mark-clark.workers.dev/?ID=curiositynow
+#EXTINF:-1 tvg-id="225" tvg-name="oneterra" group-title="WaipuTV",ONETERRA
+https://tv-waipu.mark-clark.workers.dev/?ID=oneterra
+#EXTINF:-1 tvg-id="226" tvg-name="sallyswelt" group-title="WaipuTV",SALLYSWELT
+https://tv-waipu.mark-clark.workers.dev/?ID=sallyswelt
+#EXTINF:-1 tvg-id="227" tvg-name="justcooking" group-title="WaipuTV",JUSTCOOKING
+https://tv-waipu.mark-clark.workers.dev/?ID=justcooking
+#EXTINF:-1 tvg-id="228" tvg-name="bbcfood" group-title="WaipuTV",BBCFOOD
+https://tv-waipu.mark-clark.workers.dev/?ID=bbcfood
+#EXTINF:-1 tvg-id="229" tvg-name="meisterderkueche" group-title="WaipuTV",MEISTERDERKUECHE
+https://tv-waipu.mark-clark.workers.dev/?ID=meisterderkueche
+#EXTINF:-1 tvg-id="230" tvg-name="3sat" group-title="WaipuTV",3SAT
+https://tv-waipu.mark-clark.workers.dev/?ID=3sat
+#EXTINF:-1 tvg-id="231" tvg-name="phoenix" group-title="WaipuTV",PHOENIX
+https://tv-waipu.mark-clark.workers.dev/?ID=phoenix
+#EXTINF:-1 tvg-id="232" tvg-name="arte" group-title="WaipuTV",ARTE
+https://tv-waipu.mark-clark.workers.dev/?ID=arte
+#EXTINF:-1 tvg-id="233" tvg-name="einsfestival" group-title="WaipuTV",EINSFESTIVAL
+https://tv-waipu.mark-clark.workers.dev/?ID=einsfestival
+#EXTINF:-1 tvg-id="234" tvg-name="bronco" group-title="WaipuTV",BRONCO
+https://tv-waipu.mark-clark.workers.dev/?ID=bronco
+#EXTINF:-1 tvg-id="235" tvg-name="ddrtv" group-title="WaipuTV",DDRTV
+https://tv-waipu.mark-clark.workers.dev/?ID=ddrtv
+#EXTINF:-1 tvg-id="236" tvg-name="zombieworld" group-title="WaipuTV",ZOMBIEWORLD
+https://tv-waipu.mark-clark.workers.dev/?ID=zombieworld
+#EXTINF:-1 tvg-id="237" tvg-name="artflix" group-title="WaipuTV",ARTFLIX
+https://tv-waipu.mark-clark.workers.dev/?ID=artflix
+#EXTINF:-1 tvg-id="238" tvg-name="bronco" group-title="WaipuTV",BRONCO
+https://tv-waipu.mark-clark.workers.dev/?ID=bronco
+#EXTINF:-1 tvg-id="239" tvg-name="filmrise" group-title="WaipuTV",FILMRISE
+https://tv-waipu.mark-clark.workers.dev/?ID=filmrise
+#EXTINF:-1 tvg-id="240" tvg-name="netzkino" group-title="WaipuTV",NETZKINO
+https://tv-waipu.mark-clark.workers.dev/?ID=netzkino
+#EXTINF:-1 tvg-id="241" tvg-name="alleskino" group-title="WaipuTV",ALLESKINO
+https://tv-waipu.mark-clark.workers.dev/?ID=alleskino
+#EXTINF:-1 tvg-id="242" tvg-name="mymovie" group-title="WaipuTV",MYMOVIE
+https://tv-waipu.mark-clark.workers.dev/?ID=mymovie
+#EXTINF:-1 tvg-id="243" tvg-name="fabella" group-title="WaipuTV",FABELLA
+https://tv-waipu.mark-clark.workers.dev/?ID=fabella
+#EXTINF:-1 tvg-id="244" tvg-name="moviedome" group-title="WaipuTV",MOVIEDOME
+https://tv-waipu.mark-clark.workers.dev/?ID=moviedome
+#EXTINF:-1 tvg-id="245" tvg-name="realstories" group-title="WaipuTV",REALSTORIES
+https://tv-waipu.mark-clark.workers.dev/?ID=realstories
+#EXTINF:-1 tvg-id="246" tvg-name="einsatzamlimit" group-title="WaipuTV",EINSATZAMLIMIT
+https://tv-waipu.mark-clark.workers.dev/?ID=einsatzamlimit
+#EXTINF:-1 tvg-id="247" tvg-name="galileo" group-title="WaipuTV",GALILEO
+https://tv-waipu.mark-clark.workers.dev/?ID=galileo
+#EXTINF:-1 tvg-id="248" tvg-name="watchmoviesnow" group-title="WaipuTV",WATCHMOVIESNOW
+https://tv-waipu.mark-clark.workers.dev/?ID=watchmoviesnow
+#EXTINF:-1 tvg-id="249" tvg-name="topfilme" group-title="WaipuTV",TOPFILME
+https://tv-waipu.mark-clark.workers.dev/?ID=topfilme
+#EXTINF:-1 tvg-id="250" tvg-name="bigtime" group-title="WaipuTV",BIGTIME
+https://tv-waipu.mark-clark.workers.dev/?ID=bigtime
+#EXTINF:-1 tvg-id="251" tvg-name="xfactor" group-title="WaipuTV",XFACTOR
+https://tv-waipu.mark-clark.workers.dev/?ID=xfactor
+#EXTINF:-1 tvg-id="252" tvg-name="topscifi" group-title="WaipuTV",TOPSCIFI
+https://tv-waipu.mark-clark.workers.dev/?ID=topscifi
+#EXTINF:-1 tvg-id="253" tvg-name="utopja" group-title="WaipuTV",UTOPJA
+https://tv-waipu.mark-clark.workers.dev/?ID=utopja
+#EXTINF:-1 tvg-id="254" tvg-name="tagesschau24" group-title="WaipuTV",TAGESSCHAU24
+https://tv-waipu.mark-clark.workers.dev/?ID=tagesschau24
+#EXTINF:-1 tvg-id="255" tvg-name="bralpha" group-title="WaipuTV",BRALPHA
+https://tv-waipu.mark-clark.workers.dev/?ID=bralpha
+#EXTINF:-1 tvg-id="256" tvg-name="cnn_europe" group-title="WaipuTV",CNN_EUROPE
+https://tv-waipu.mark-clark.workers.dev/?ID=cnn_europe
+#EXTINF:-1 tvg-id="257" tvg-name="bbc_world_news_europe" group-title="WaipuTV",BBC_WORLD_NEWS_EUROPE
+https://tv-waipu.mark-clark.workers.dev/?ID=bbc_world_news_europe
+#EXTINF:-1 tvg-id="258" tvg-name="n24doku" group-title="WaipuTV",N24DOKU
+https://tv-waipu.mark-clark.workers.dev/?ID=n24doku
+#EXTINF:-1 tvg-id="259" tvg-name="cnbc_europe" group-title="WaipuTV",CNBC_EUROPE
+https://tv-waipu.mark-clark.workers.dev/?ID=cnbc_europe
+#EXTINF:-1 tvg-id="260" tvg-name="aljazeera_en" group-title="WaipuTV",ALJAZEERA_EN
+https://tv-waipu.mark-clark.workers.dev/?ID=aljazeera_en
+#EXTINF:-1 tvg-id="261" tvg-name="euronews" group-title="WaipuTV",EURONEWS
+https://tv-waipu.mark-clark.workers.dev/?ID=euronews
+#EXTINF:-1 tvg-id="262" tvg-name="france24_en" group-title="WaipuTV",FRANCE24_EN
+https://tv-waipu.mark-clark.workers.dev/?ID=france24_en
+#EXTINF:-1 tvg-id="263" tvg-name="nhk" group-title="WaipuTV",NHK
+https://tv-waipu.mark-clark.workers.dev/?ID=nhk
+#EXTINF:-1 tvg-id="264" tvg-name="waiputvhighlights" group-title="WaipuTV",WAIPUTVHIGHLIGHTS
+https://tv-waipu.mark-clark.workers.dev/?ID=waiputvhighlights
+#EXTINF:-1 tvg-id="265" tvg-name="wdr_koeln" group-title="WaipuTV",WDR_KOELN
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_koeln
+#EXTINF:-1 tvg-id="266" tvg-name="wdr_bi" group-title="WaipuTV",WDR_BI
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_bi
+#EXTINF:-1 tvg-id="267" tvg-name="wdr_bn" group-title="WaipuTV",WDR_BN
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_bn
+#EXTINF:-1 tvg-id="268" tvg-name="wdr_d" group-title="WaipuTV",WDR_D
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_d
+#EXTINF:-1 tvg-id="269" tvg-name="wdr_do" group-title="WaipuTV",WDR_DO
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_do
+#EXTINF:-1 tvg-id="270" tvg-name="wdr_du" group-title="WaipuTV",WDR_DU
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_du
+#EXTINF:-1 tvg-id="271" tvg-name="wdr_e" group-title="WaipuTV",WDR_E
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_e
+#EXTINF:-1 tvg-id="272" tvg-name="wdr_ms" group-title="WaipuTV",WDR_MS
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_ms
+#EXTINF:-1 tvg-id="273" tvg-name="wdr_si" group-title="WaipuTV",WDR_SI
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_si
+#EXTINF:-1 tvg-id="274" tvg-name="wdr_w" group-title="WaipuTV",WDR_W
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_w
+#EXTINF:-1 tvg-id="275" tvg-name="wdr_ac" group-title="WaipuTV",WDR_AC
+https://tv-waipu.mark-clark.workers.dev/?ID=wdr_ac
+#EXTINF:-1 tvg-id="276" tvg-name="n3_hamburg" group-title="WaipuTV",N3_HAMBURG
+https://tv-waipu.mark-clark.workers.dev/?ID=n3_hamburg
+#EXTINF:-1 tvg-id="277" tvg-name="n3_mv" group-title="WaipuTV",N3_MV
+https://tv-waipu.mark-clark.workers.dev/?ID=n3_mv
+#EXTINF:-1 tvg-id="278" tvg-name="n3_ni" group-title="WaipuTV",N3_NI
+https://tv-waipu.mark-clark.workers.dev/?ID=n3_ni
+#EXTINF:-1 tvg-id="279" tvg-name="n3_sh" group-title="WaipuTV",N3_SH
+https://tv-waipu.mark-clark.workers.dev/?ID=n3_sh
+#EXTINF:-1 tvg-id="280" tvg-name="n3_bremen" group-title="WaipuTV",N3_BREMEN
+https://tv-waipu.mark-clark.workers.dev/?ID=n3_bremen
+#EXTINF:-1 tvg-id="281" tvg-name="mdr_st" group-title="WaipuTV",MDR_ST
+https://tv-waipu.mark-clark.workers.dev/?ID=mdr_st
+#EXTINF:-1 tvg-id="282" tvg-name="mdr_th" group-title="WaipuTV",MDR_TH
+https://tv-waipu.mark-clark.workers.dev/?ID=mdr_th
+#EXTINF:-1 tvg-id="283" tvg-name="mdr_sachsen" group-title="WaipuTV",MDR_SACHSEN
+https://tv-waipu.mark-clark.workers.dev/?ID=mdr_sachsen
+#EXTINF:-1 tvg-id="284" tvg-name="rbb_berlin" group-title="WaipuTV",RBB_BERLIN
+https://tv-waipu.mark-clark.workers.dev/?ID=rbb_berlin
+#EXTINF:-1 tvg-id="285" tvg-name="swr_bw" group-title="WaipuTV",SWR_BW
+https://tv-waipu.mark-clark.workers.dev/?ID=swr_bw
+#EXTINF:-1 tvg-id="286" tvg-name="brsued" group-title="WaipuTV",BRSUED
+https://tv-waipu.mark-clark.workers.dev/?ID=brsued
+#EXTINF:-1 tvg-id="287" tvg-name="tvbayernregional" group-title="WaipuTV",TVBAYERNREGIONAL
+https://tv-waipu.mark-clark.workers.dev/?ID=tvbayernregional
+#EXTINF:-1 tvg-id="288" tvg-name="hr" group-title="WaipuTV",HR
+https://tv-waipu.mark-clark.workers.dev/?ID=hr
+#EXTINF:-1 tvg-id="289" tvg-name="sr" group-title="WaipuTV",SR
+https://tv-waipu.mark-clark.workers.dev/?ID=sr
+#EXTINF:-1 tvg-id="290" tvg-name="home_shopping_europe" group-title="WaipuTV",HOME_SHOPPING_EUROPE
+https://tv-waipu.mark-clark.workers.dev/?ID=home_shopping_europe
+#EXTINF:-1 tvg-id="291" tvg-name="qvc" group-title="WaipuTV",QVC
+https://tv-waipu.mark-clark.workers.dev/?ID=qvc
+#EXTINF:-1 tvg-id="292" tvg-name="channel21" group-title="WaipuTV",CHANNEL21
+https://tv-waipu.mark-clark.workers.dev/?ID=channel21
+#EXTINF:-1 tvg-id="293" tvg-name="handystar" group-title="WaipuTV",HANDYSTAR
+https://tv-waipu.mark-clark.workers.dev/?ID=handystar
+#EXTINF:-1 tvg-id="294" tvg-name="zender" group-title="WaipuTV",ZENDER
+https://tv-waipu.mark-clark.workers.dev/?ID=zender
+#EXTINF:-1 tvg-id="295" tvg-name="royalworld" group-title="WaipuTV",ROYALWORLD
+https://tv-waipu.mark-clark.workers.dev/?ID=royalworld
+#EXTINF:-1 tvg-id="296" tvg-name="aquarium" group-title="WaipuTV",AQUARIUM
+https://tv-waipu.mark-clark.workers.dev/?ID=aquarium
+#EXTINF:-1 tvg-id="297" tvg-name="time2rlx" group-title="WaipuTV",TIME2RLX
+https://tv-waipu.mark-clark.workers.dev/?ID=time2rlx
+#EXTINF:-1 tvg-id="298" tvg-name="kaminfeuer" group-title="WaipuTV",KAMINFEUER
+https://tv-waipu.mark-clark.workers.dev/?ID=kaminfeuer
+#EXTINF:-1 tvg-id="299" tvg-name="gronkh" group-title="WaipuTV",GRONKH
+https://tv-waipu.mark-clark.workers.dev/?ID=gronkh
+#EXTINF:-1 tvg-id="300" tvg-name="rot" group-title="WaipuTV",ROT
+https://tv-waipu.mark-clark.workers.dev/?ID=rot
+#EXTINF:-1 tvg-id="301" tvg-name="alexibexi" group-title="WaipuTV",ALEXIBEXI
+https://tv-waipu.mark-clark.workers.dev/?ID=alexibexi
+#EXTINF:-1 tvg-id="302" tvg-name="heyaaron" group-title="WaipuTV",HEYAARON
+https://tv-waipu.mark-clark.workers.dev/?ID=heyaaron
+#EXTINF:-1 tvg-id="303" tvg-name="bestofthevoice" group-title="WaipuTV",BESTOFTHEVOICE
+https://tv-waipu.mark-clark.workers.dev/?ID=bestofthevoice
+#EXTINF:-1 tvg-id="304" tvg-name="bigbrother" group-title="WaipuTV",BIGBROTHER
+https://tv-waipu.mark-clark.workers.dev/?ID=bigbrother
+#EXTINF:-1 tvg-id="305" tvg-name="standup" group-title="WaipuTV",STANDUP
+https://tv-waipu.mark-clark.workers.dev/?ID=standup
+#EXTINF:-1 tvg-id="306" tvg-name="myspass" group-title="WaipuTV",MYSPASS
+https://tv-waipu.mark-clark.workers.dev/?ID=myspass
+#EXTINF:-1 tvg-id="307" tvg-name="rbb_bb" group-title="WaipuTV",RBB_BB
+https://tv-waipu.mark-clark.workers.dev/?ID=rbb_bb
+#EXTINF:-1 tvg-id="308" tvg-name="swr_rp" group-title="WaipuTV",SWR_RP
+https://tv-waipu.mark-clark.workers.dev/?ID=swr_rp
+#EXTINF:-1 tvg-id="309" tvg-name="brnord" group-title="WaipuTV",BRNORD
+https://tv-waipu.mark-clark.workers.dev/?ID=brnord

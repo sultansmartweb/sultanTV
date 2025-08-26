@@ -1,265 +1,267 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1406" tvg-name="PrimaSport 1 HD" group-title="RDS Romania" tvg-logo="",PrimaSport 1 HD
+#EXTINF:-1 tvg-id="1406" tvg-name="PrimaSport 1 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",PrimaSport 1 HD
 https://rds.mark-clark.workers.dev/?ID=primasport-1hd-ro2
-#EXTINF:-1 tvg-id="1405" tvg-name="PrimaSport 2 HD" group-title="RDS Romania" tvg-logo="",PrimaSport 2 HD
+#EXTINF:-1 tvg-id="1405" tvg-name="PrimaSport 2 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMASPORT1.png",PrimaSport 2 HD
 https://rds.mark-clark.workers.dev/?ID=primasport-2-hd-ro1
-#EXTINF:-1 tvg-id="1401" tvg-name="PrimaSport 3 HD" group-title="RDS Romania" tvg-logo="",PrimaSport 3 HD
+#EXTINF:-1 tvg-id="1401" tvg-name="PrimaSport 3 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMASPORT2-1.png",PrimaSport 3 HD
 https://rds.mark-clark.workers.dev/?ID=primasport-3-hd-ro1
-#EXTINF:-1 tvg-id="1871" tvg-name="PrimaSport 4 HD" group-title="RDS Romania" tvg-logo="",PrimaSport 4 HD
+#EXTINF:-1 tvg-id="1871" tvg-name="PrimaSport 4 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMASPORT3-1.png",PrimaSport 4 HD
 https://rds.mark-clark.workers.dev/?ID=primasport-4-hd
-#EXTINF:-1 tvg-id="1873" tvg-name="PrimaSport 5 HD" group-title="RDS Romania" tvg-logo="",PrimaSport 5 HD
+#EXTINF:-1 tvg-id="1873" tvg-name="PrimaSport 5 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/primasport4.png",PrimaSport 5 HD
 https://rds.mark-clark.workers.dev/?ID=primasport-5-hd
-#EXTINF:-1 tvg-id="1795" tvg-name="DigiSport 1 HD" group-title="RDS Romania" tvg-logo="",DigiSport 1 HD
+#EXTINF:-1 tvg-id="1795" tvg-name="DigiSport 1 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/primasport5.png",DigiSport 1 HD
 https://rds.mark-clark.workers.dev/?ID=digisport
-#EXTINF:-1 tvg-id="1409" tvg-name="DigiSport 2 HD" group-title="RDS Romania" tvg-logo="",DigiSport 2 HD
+#EXTINF:-1 tvg-id="1409" tvg-name="DigiSport 2 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGISPORT1.png",DigiSport 2 HD
 https://rds.mark-clark.workers.dev/?ID=digisport-2-hd-ro3
-#EXTINF:-1 tvg-id="1408" tvg-name="DigiSport 3 HD" group-title="RDS Romania" tvg-logo="",DigiSport 3 HD
+#EXTINF:-1 tvg-id="1408" tvg-name="DigiSport 3 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGISPORT2.png",DigiSport 3 HD
 https://rds.mark-clark.workers.dev/?ID=digisport-3-hd-ro3
-#EXTINF:-1 tvg-id="1407" tvg-name="DigiSport 4 HD" group-title="RDS Romania" tvg-logo="",DigiSport 4 HD
+#EXTINF:-1 tvg-id="1407" tvg-name="DigiSport 4 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGISPORT3.png",DigiSport 4 HD
 https://rds.mark-clark.workers.dev/?ID=digisport-4-hd-ro3
-#EXTINF:-1 tvg-id="1917" tvg-name="PrimaSport PPV1" group-title="RDS Romania" tvg-logo="",PrimaSport PPV1
+#EXTINF:-1 tvg-id="1917" tvg-name="PrimaSport PPV1" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGISPORT4.png",PrimaSport PPV1
 https://rds.mark-clark.workers.dev/?ID=primasport-ppv1
-#EXTINF:-1 tvg-id="1921" tvg-name="PrimaSport PPV2" group-title="RDS Romania" tvg-logo="",PrimaSport PPV2
+#EXTINF:-1 tvg-id="1921" tvg-name="PrimaSport PPV2" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/prima-ppv1.png",PrimaSport PPV2
 https://rds.mark-clark.workers.dev/?ID=primasport-ppv2
-#EXTINF:-1 tvg-id="1922" tvg-name="PrimaSport PPV3" group-title="RDS Romania" tvg-logo="",PrimaSport PPV3
+#EXTINF:-1 tvg-id="1922" tvg-name="PrimaSport PPV3" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/prima-ppv2.png",PrimaSport PPV3
 https://rds.mark-clark.workers.dev/?ID=primasport-ppv3
-#EXTINF:-1 tvg-id="1778" tvg-name="TVR Sport HD" group-title="RDS Romania" tvg-logo="",TVR Sport HD
+#EXTINF:-1 tvg-id="1778" tvg-name="TVR Sport HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/prima-ppv3.png",TVR Sport HD
 https://rds.mark-clark.workers.dev/?ID=tvr-sport
-#EXTINF:-1 tvg-id="1400" tvg-name="SportExtra HD" group-title="RDS Romania" tvg-logo="",SportExtra HD
+#EXTINF:-1 tvg-id="1400" tvg-name="SportExtra HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/07/sigla-tvr-sport-1920x1080px_40674600.jpg",SportExtra HD
 https://rds.mark-clark.workers.dev/?ID=sportextra-hd
-#EXTINF:-1 tvg-id="1399" tvg-name="Eurosport 1 HD" group-title="RDS Romania" tvg-logo="",Eurosport 1 HD
+#EXTINF:-1 tvg-id="1399" tvg-name="Eurosport 1 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/SPORTEXTRA.png",Eurosport 1 HD
 https://rds.mark-clark.workers.dev/?ID=eurosport-1-hd-c1
-#EXTINF:-1 tvg-id="1340" tvg-name="Eurosport 2 HD" group-title="RDS Romania" tvg-logo="",Eurosport 2 HD
+#EXTINF:-1 tvg-id="1340" tvg-name="Eurosport 2 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EUROSPORT-1.png",Eurosport 2 HD
 https://rds.mark-clark.workers.dev/?ID=eurosport-2-hd-1
-#EXTINF:-1 tvg-id="1386" tvg-name="Pro Arena HD" group-title="RDS Romania" tvg-logo="",Pro Arena HD
+#EXTINF:-1 tvg-id="1386" tvg-name="Pro Arena HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EUROSPORT2HD.png",Pro Arena HD
 https://rds.mark-clark.workers.dev/?ID=pro-arena-hd-7
-#EXTINF:-1 tvg-id="1454" tvg-name="HBO HD" group-title="RDS Romania" tvg-logo="",HBO HD
+#EXTINF:-1 tvg-id="1454" tvg-name="HBO HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",HBO HD
 https://rds.mark-clark.workers.dev/?ID=hbo-hd-1
-#EXTINF:-1 tvg-id="1453" tvg-name="HBO 2 HD" group-title="RDS Romania" tvg-logo="",HBO 2 HD
+#EXTINF:-1 tvg-id="1453" tvg-name="HBO 2 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO.png",HBO 2 HD
 https://rds.mark-clark.workers.dev/?ID=hbo-2-hd
-#EXTINF:-1 tvg-id="1452" tvg-name="HBO 3 HD" group-title="RDS Romania" tvg-logo="",HBO 3 HD
+#EXTINF:-1 tvg-id="1452" tvg-name="HBO 3 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO2.png",HBO 3 HD
 https://rds.mark-clark.workers.dev/?ID=hbo-3-hd
-#EXTINF:-1 tvg-id="1792" tvg-name="SkyShowTime 1 HD" group-title="RDS Romania" tvg-logo="",SkyShowTime 1 HD
+#EXTINF:-1 tvg-id="1792" tvg-name="SkyShowTime 1 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO3.png",SkyShowTime 1 HD
 https://rds.mark-clark.workers.dev/?ID=skyshowtime-hd
-#EXTINF:-1 tvg-id="1839" tvg-name="SkyShowTime 2 HD" group-title="RDS Romania" tvg-logo="",SkyShowTime 2 HD
+#EXTINF:-1 tvg-id="1839" tvg-name="SkyShowTime 2 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/sky1.png",SkyShowTime 2 HD
 https://rds.mark-clark.workers.dev/?ID=skyshowtime-2-hd
-#EXTINF:-1 tvg-id="1451" tvg-name="Cinemax HD" group-title="RDS Romania" tvg-logo="",Cinemax HD
+#EXTINF:-1 tvg-id="1451" tvg-name="Cinemax HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/12/sky2.png",Cinemax HD
 https://rds.mark-clark.workers.dev/?ID=cinemax-hd
-#EXTINF:-1 tvg-id="1450" tvg-name="Cinemax 2 HD" group-title="RDS Romania" tvg-logo="",Cinemax 2 HD
+#EXTINF:-1 tvg-id="1450" tvg-name="Cinemax 2 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CINEMAXHD.png",Cinemax 2 HD
 https://rds.mark-clark.workers.dev/?ID=cinemax-2
-#EXTINF:-1 tvg-id="1835" tvg-name="BBC First HD" group-title="RDS Romania" tvg-logo="",BBC First HD
+#EXTINF:-1 tvg-id="1835" tvg-name="BBC First HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CINEMAX2HD.png",BBC First HD
 https://rds.mark-clark.workers.dev/?ID=bbc-first-hd
-#EXTINF:-1 tvg-id="1301" tvg-name="AMC HD" group-title="RDS Romania" tvg-logo="",AMC HD
+#EXTINF:-1 tvg-id="1301" tvg-name="AMC HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/12/BBC_First_Logo-2.png",AMC HD
 https://rds.mark-clark.workers.dev/?ID=amc
-#EXTINF:-1 tvg-id="1449" tvg-name="Film Now HD" group-title="RDS Romania" tvg-logo="",Film Now HD
+#EXTINF:-1 tvg-id="1449" tvg-name="Film Now HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AMC.png",Film Now HD
 https://rds.mark-clark.workers.dev/?ID=film-now-ro1
-#EXTINF:-1 tvg-id="1334" tvg-name="DIVA" group-title="RDS Romania" tvg-logo="",DIVA
+#EXTINF:-1 tvg-id="1334" tvg-name="DIVA" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FILMNOW.png",DIVA
 https://rds.mark-clark.workers.dev/?ID=diva
-#EXTINF:-1 tvg-id="1828" tvg-name="FilmBox" group-title="RDS Romania" tvg-logo="",FilmBox
+#EXTINF:-1 tvg-id="1828" tvg-name="FilmBox" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIVA.png",FilmBox
 https://rds.mark-clark.workers.dev/?ID=filmbox
-#EXTINF:-1 tvg-id="1824" tvg-name="FilmBox Premium" group-title="RDS Romania" tvg-logo="",FilmBox Premium
+#EXTINF:-1 tvg-id="1824" tvg-name="FilmBox Premium" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/filmbox.png",FilmBox Premium
 https://rds.mark-clark.workers.dev/?ID=filmbox-premium
-#EXTINF:-1 tvg-id="1817" tvg-name="TV 1000" group-title="RDS Romania" tvg-logo="",TV 1000
+#EXTINF:-1 tvg-id="1817" tvg-name="TV 1000" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/sssss.png",TV 1000
 https://rds.mark-clark.workers.dev/?ID=tv-1000
-#EXTINF:-1 tvg-id="1560" tvg-name="AXN HD" group-title="RDS Romania" tvg-logo="",AXN HD
+#EXTINF:-1 tvg-id="1560" tvg-name="AXN HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/1000.png",AXN HD
 https://rds.mark-clark.workers.dev/?ID=axn
-#EXTINF:-1 tvg-id="1811" tvg-name="AXN White" group-title="RDS Romania" tvg-logo="",AXN White
+#EXTINF:-1 tvg-id="1811" tvg-name="AXN White" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AXN.png",AXN White
 https://rds.mark-clark.workers.dev/?ID=axn-white
-#EXTINF:-1 tvg-id="1807" tvg-name="AXN Black" group-title="RDS Romania" tvg-logo="",AXN Black
+#EXTINF:-1 tvg-id="1807" tvg-name="AXN Black" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/axn-white.png",AXN Black
 https://rds.mark-clark.workers.dev/?ID=axn-black
-#EXTINF:-1 tvg-id="1809" tvg-name="AXN Spin" group-title="RDS Romania" tvg-logo="",AXN Spin
+#EXTINF:-1 tvg-id="1809" tvg-name="AXN Spin" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/axn-black.png",AXN Spin
 https://rds.mark-clark.workers.dev/?ID=axn-spin
-#EXTINF:-1 tvg-id="1448" tvg-name="EpicDrama" group-title="RDS Romania" tvg-logo="",EpicDrama
+#EXTINF:-1 tvg-id="1448" tvg-name="EpicDrama" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/axn-spin.png",EpicDrama
 https://rds.mark-clark.workers.dev/?ID=epicdrama
-#EXTINF:-1 tvg-id="1447" tvg-name="Comedy Central" group-title="RDS Romania" tvg-logo="",Comedy Central
+#EXTINF:-1 tvg-id="1447" tvg-name="Comedy Central" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EPICDRAMA.png",Comedy Central
 https://rds.mark-clark.workers.dev/?ID=comedy-central
-#EXTINF:-1 tvg-id="1335" tvg-name="PRO Cinema" group-title="RDS Romania" tvg-logo="",PRO Cinema
+#EXTINF:-1 tvg-id="1335" tvg-name="PRO Cinema" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/COMEDYCENTRAL.png",PRO Cinema
 https://rds.mark-clark.workers.dev/?ID=pro-cinema-1
-#EXTINF:-1 tvg-id="1333" tvg-name="Cinemaraton HD" group-title="RDS Romania" tvg-logo="",Cinemaraton HD
+#EXTINF:-1 tvg-id="1333" tvg-name="Cinemaraton HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PROCINEMA.png",Cinemaraton HD
 https://rds.mark-clark.workers.dev/?ID=cinemaraton-hd
-#EXTINF:-1 tvg-id="1332" tvg-name="BollywooD TV" group-title="RDS Romania" tvg-logo="",BollywooD TV
+#EXTINF:-1 tvg-id="1332" tvg-name="BollywooD TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CINEMARATON.png",BollywooD TV
 https://rds.mark-clark.workers.dev/?ID=bollywood-tv
-#EXTINF:-1 tvg-id="1838" tvg-name="Bollywood Clasic HD" group-title="RDS Romania" tvg-logo="",Bollywood Clasic HD
+#EXTINF:-1 tvg-id="1838" tvg-name="Bollywood Clasic HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/BOLLYWOOD.png",Bollywood Clasic HD
 https://rds.mark-clark.workers.dev/?ID=bollywood-clasic-hd
-#EXTINF:-1 tvg-id="1320" tvg-name="Warner TV" group-title="RDS Romania" tvg-logo="",Warner TV
+#EXTINF:-1 tvg-id="1320" tvg-name="Warner TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/12/snapedit_1733267873279.png",Warner TV
 https://rds.mark-clark.workers.dev/?ID=warner-tv
-#EXTINF:-1 tvg-id="1314" tvg-name="Prima Comedy" group-title="RDS Romania" tvg-logo="",Prima Comedy
+#EXTINF:-1 tvg-id="1314" tvg-name="Prima Comedy" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/WARNERTV.png",Prima Comedy
 https://rds.mark-clark.workers.dev/?ID=prima-comedy
-#EXTINF:-1 tvg-id="1306" tvg-name="Film Cafe" group-title="RDS Romania" tvg-logo="",Film Cafe
+#EXTINF:-1 tvg-id="1306" tvg-name="Film Cafe" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMACOMEDY.png",Film Cafe
 https://rds.mark-clark.workers.dev/?ID=film-cafe
-#EXTINF:-1 tvg-id="1553" tvg-name="Discovery Channel HD" group-title="RDS Romania" tvg-logo="",Discovery Channel HD
+#EXTINF:-1 tvg-id="1553" tvg-name="Discovery Channel HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",Discovery Channel HD
 https://rds.mark-clark.workers.dev/?ID=discovery-channel
-#EXTINF:-1 tvg-id="1899" tvg-name="Crime & Investigation" group-title="RDS Romania" tvg-logo="",Crime &#038; Investigation
+#EXTINF:-1 tvg-id="1899" tvg-name="Crime & Investigation" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DISCOVERY-CHANNEL.png",Crime & Investigation
 https://rds.mark-clark.workers.dev/?ID=crime-investigation
-#EXTINF:-1 tvg-id="1897" tvg-name="ID Investigation" group-title="RDS Romania" tvg-logo="",ID Investigation
+#EXTINF:-1 tvg-id="1897" tvg-name="ID Investigation" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/crime-investigation.png",ID Investigation
 https://rds.mark-clark.workers.dev/?ID=id-investigation
-#EXTINF:-1 tvg-id="1545" tvg-name="National Geographic HD" group-title="RDS Romania" tvg-logo="",National Geographic HD
+#EXTINF:-1 tvg-id="1545" tvg-name="National Geographic HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/id-investigation.png",National Geographic HD
 https://rds.mark-clark.workers.dev/?ID=national-geographic
-#EXTINF:-1 tvg-id="1549" tvg-name="National Geographic Wild HD" group-title="RDS Romania" tvg-logo="",National Geographic Wild HD
+#EXTINF:-1 tvg-id="1549" tvg-name="National Geographic Wild HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NATINAL-GEOGRAPHIC.png",National Geographic Wild HD
 https://rds.mark-clark.workers.dev/?ID=national-geographic-wild
-#EXTINF:-1 tvg-id="1894" tvg-name="National Geographic People" group-title="RDS Romania" tvg-logo="",National Geographic People
+#EXTINF:-1 tvg-id="1894" tvg-name="National Geographic People" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NAT-GEO-WILD.png",National Geographic People
 https://rds.mark-clark.workers.dev/?ID=national-geographic-people
-#EXTINF:-1 tvg-id="1546" tvg-name="Viasat Nature HD" group-title="RDS Romania" tvg-logo="",Viasat Nature HD
+#EXTINF:-1 tvg-id="1546" tvg-name="Viasat Nature HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/nat-geo-people.png",Viasat Nature HD
 https://rds.mark-clark.workers.dev/?ID=viasat-nature
-#EXTINF:-1 tvg-id="1550" tvg-name="Viasat History HD" group-title="RDS Romania" tvg-logo="",Viasat History HD
+#EXTINF:-1 tvg-id="1550" tvg-name="Viasat History HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/VIASAT-NATURE.png",Viasat History HD
 https://rds.mark-clark.workers.dev/?ID=viasat-history
-#EXTINF:-1 tvg-id="1319" tvg-name="Viasat Explore HD" group-title="RDS Romania" tvg-logo="",Viasat Explore HD
+#EXTINF:-1 tvg-id="1319" tvg-name="Viasat Explore HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/VIASAT-HISTORY.png",Viasat Explore HD
 https://rds.mark-clark.workers.dev/?ID=viasat-explore
-#EXTINF:-1 tvg-id="1557" tvg-name="History Channel HD" group-title="RDS Romania" tvg-logo="",History Channel HD
+#EXTINF:-1 tvg-id="1557" tvg-name="History Channel HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/VIASAT-EXPLORER.png",History Channel HD
 https://rds.mark-clark.workers.dev/?ID=history-channel
-#EXTINF:-1 tvg-id="1925" tvg-name="Food Network HD" group-title="RDS Romania" tvg-logo="",Food Network HD
+#EXTINF:-1 tvg-id="1925" tvg-name="Food Network HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HISTORY-CHANNEL.png",Food Network HD
 https://rds.mark-clark.workers.dev/?ID=food-network-hd
-#EXTINF:-1 tvg-id="1552" tvg-name="Digi World" group-title="RDS Romania" tvg-logo="",Digi World
+#EXTINF:-1 tvg-id="1552" tvg-name="Digi World" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/food.webp",Digi World
 https://rds.mark-clark.workers.dev/?ID=digi-world
-#EXTINF:-1 tvg-id="1547" tvg-name="Digi Animal World" group-title="RDS Romania" tvg-logo="",Digi Animal World
+#EXTINF:-1 tvg-id="1547" tvg-name="Digi Animal World" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGI-WORLD.png",Digi Animal World
 https://rds.mark-clark.workers.dev/?ID=digi-animal-world
-#EXTINF:-1 tvg-id="1544" tvg-name="Digi Life" group-title="RDS Romania" tvg-logo="",Digi Life
+#EXTINF:-1 tvg-id="1544" tvg-name="Digi Life" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGI-ANIMAL-WORLD.png",Digi Life
 https://rds.mark-clark.workers.dev/?ID=digi-life-ro1
-#EXTINF:-1 tvg-id="1555" tvg-name="Travel Mix" group-title="RDS Romania" tvg-logo="",Travel Mix
+#EXTINF:-1 tvg-id="1555" tvg-name="Travel Mix" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGILIFE.png",Travel Mix
 https://rds.mark-clark.workers.dev/?ID=travel-mix
-#EXTINF:-1 tvg-id="1763" tvg-name="DaVinci" group-title="RDS Romania" tvg-logo="",DaVinci
+#EXTINF:-1 tvg-id="1763" tvg-name="DaVinci" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TRAVEL-MIX.png",DaVinci
 https://rds.mark-clark.workers.dev/?ID=davinci
-#EXTINF:-1 tvg-id="1359" tvg-name="Antena 1 HD" group-title="RDS Romania" tvg-logo="",Antena 1 HD
-https://rds.mark-clark.workers.dev/?ID=romaniaantena1hd
-#EXTINF:-1 tvg-id="1357" tvg-name="Pro TV HD" group-title="RDS Romania" tvg-logo="",Pro TV HD
-https://rds.mark-clark.workers.dev/?ID=romaniaprotvhd
-#EXTINF:-1 tvg-id="1376" tvg-name="Kanal D HD" group-title="RDS Romania" tvg-logo="",Kanal D HD
-https://rds.mark-clark.workers.dev/?ID=kanal-d-ro-3
-#EXTINF:-1 tvg-id="1361" tvg-name="Prima TV HD" group-title="RDS Romania" tvg-logo="",Prima TV HD
-https://rds.mark-clark.workers.dev/?ID=prima-tv-hd
-#EXTINF:-1 tvg-id="1765" tvg-name="TV Paprika" group-title="RDS Romania" tvg-logo="",TV Paprika
-https://rds.mark-clark.workers.dev/?ID=tv-paprika
-#EXTINF:-1 tvg-id="1761" tvg-name="CBS Reality" group-title="RDS Romania" tvg-logo="",CBS Reality
-https://rds.mark-clark.workers.dev/?ID=cbs-reality
-#EXTINF:-1 tvg-id="1759" tvg-name="HGTV" group-title="RDS Romania" tvg-logo="",HGTV
-https://rds.mark-clark.workers.dev/?ID=hgtv
-#EXTINF:-1 tvg-id="1757" tvg-name="RAI 1" group-title="RDS Romania" tvg-logo="",RAI 1
-https://rds.mark-clark.workers.dev/?ID=rai-1
-#EXTINF:-1 tvg-id="1752" tvg-name="RAI 3" group-title="RDS Romania" tvg-logo="",RAI 3
-https://rds.mark-clark.workers.dev/?ID=rai-3
-#EXTINF:-1 tvg-id="1561" tvg-name="Agro TV" group-title="RDS Romania" tvg-logo="",Agro TV
-https://rds.mark-clark.workers.dev/?ID=agro-tv
-#EXTINF:-1 tvg-id="1559" tvg-name="TV Moldova" group-title="RDS Romania" tvg-logo="",TV Moldova
-https://rds.mark-clark.workers.dev/?ID=tv-moldova
-#EXTINF:-1 tvg-id="1558" tvg-name="BBC Earth" group-title="RDS Romania" tvg-logo="",BBC Earth
-https://rds.mark-clark.workers.dev/?ID=bbc-earth
-#EXTINF:-1 tvg-id="1556" tvg-name="Fashion TV" group-title="RDS Romania" tvg-logo="",Fashion TV
-https://rds.mark-clark.workers.dev/?ID=fashion-tv
-#EXTINF:-1 tvg-id="1554" tvg-name="E Entertainment" group-title="RDS Romania" tvg-logo="",E Entertainment
-https://rds.mark-clark.workers.dev/?ID=e-entertainment
-#EXTINF:-1 tvg-id="1551" tvg-name="Fishing and Hunting" group-title="RDS Romania" tvg-logo="",Fishing and Hunting
-https://rds.mark-clark.workers.dev/?ID=fishing-and-hunting
-#EXTINF:-1 tvg-id="1317" tvg-name="TLC" group-title="RDS Romania" tvg-logo="",TLC
-https://rds.mark-clark.workers.dev/?ID=tlc
-#EXTINF:-1 tvg-id="1480" tvg-name="TeenNick" group-title="RDS Romania" tvg-logo="",TeenNick
+#EXTINF:-1 tvg-id="1480" tvg-name="TeenNick" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",TeenNick
 https://rds.mark-clark.workers.dev/?ID=teennick
-#EXTINF:-1 tvg-id="1479" tvg-name="Nickelodeon" group-title="RDS Romania" tvg-logo="",Nickelodeon
+#EXTINF:-1 tvg-id="1479" tvg-name="Nickelodeon" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TEENNICK.png",Nickelodeon
 https://rds.mark-clark.workers.dev/?ID=nickelodeon
-#EXTINF:-1 tvg-id="1478" tvg-name="Minimax" group-title="RDS Romania" tvg-logo="",Minimax
+#EXTINF:-1 tvg-id="1478" tvg-name="Minimax" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NICKELODEON.png",Minimax
 https://rds.mark-clark.workers.dev/?ID=minimax
-#EXTINF:-1 tvg-id="1477" tvg-name="Duck TV" group-title="RDS Romania" tvg-logo="",Duck TV
+#EXTINF:-1 tvg-id="1477" tvg-name="Duck TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/MINIMAX.png",Duck TV
 https://rds.mark-clark.workers.dev/?ID=duck-tv
-#EXTINF:-1 tvg-id="1476" tvg-name="Cartoon Network" group-title="RDS Romania" tvg-logo="",Cartoon Network
+#EXTINF:-1 tvg-id="1476" tvg-name="Cartoon Network" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DUCKTV.png",Cartoon Network
 https://rds.mark-clark.workers.dev/?ID=cartoon-network
-#EXTINF:-1 tvg-id="1475" tvg-name="Jim Jam" group-title="RDS Romania" tvg-logo="",Jim Jam
+#EXTINF:-1 tvg-id="1475" tvg-name="Jim Jam" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CARTOON-NETWORK.png",Jim Jam
 https://rds.mark-clark.workers.dev/?ID=jim-jam
-#EXTINF:-1 tvg-id="1474" tvg-name="Nick Jr." group-title="RDS Romania" tvg-logo="",Nick Jr.
+#EXTINF:-1 tvg-id="1474" tvg-name="Nick Jr." group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/JIMJAM.png",Nick Jr.
 https://rds.mark-clark.workers.dev/?ID=nick-jr
-#EXTINF:-1 tvg-id="1473" tvg-name="Nick Toons" group-title="RDS Romania" tvg-logo="",Nick Toons
+#EXTINF:-1 tvg-id="1473" tvg-name="Nick Toons" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NICKJR.png",Nick Toons
 https://rds.mark-clark.workers.dev/?ID=nick-toons
-#EXTINF:-1 tvg-id="1470" tvg-name="Cartoonito" group-title="RDS Romania" tvg-logo="",Cartoonito
+#EXTINF:-1 tvg-id="1470" tvg-name="Cartoonito" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NICKTOONS.png",Cartoonito
 https://rds.mark-clark.workers.dev/?ID=boomerang
-#EXTINF:-1 tvg-id="1469" tvg-name="Disney Channel" group-title="RDS Romania" tvg-logo="",Disney Channel
+#EXTINF:-1 tvg-id="1469" tvg-name="Disney Channel" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/1055172-cartoonitologoconfetti-1280.jpg",Disney Channel
 https://rds.mark-clark.workers.dev/?ID=disney-channel
-#EXTINF:-1 tvg-id="1467" tvg-name="Disney Junior" group-title="RDS Romania" tvg-logo="",Disney Junior
+#EXTINF:-1 tvg-id="1467" tvg-name="Disney Junior" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DISNEYCHANNEL.png",Disney Junior
 https://rds.mark-clark.workers.dev/?ID=disney-junior
-#EXTINF:-1 tvg-id="1457" tvg-name="Tralala" group-title="RDS Romania" tvg-logo="",Tralala
+#EXTINF:-1 tvg-id="1457" tvg-name="Tralala" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DISNEYJUNIOR.png",Tralala
 https://rds.mark-clark.workers.dev/?ID=tralala
-#EXTINF:-1 tvg-id="1765" tvg-name="TV Paprika" group-title="RDS Romania" tvg-logo="",TV Paprika
-https://rds.mark-clark.workers.dev/?ID=tv-paprika
-#EXTINF:-1 tvg-id="1761" tvg-name="CBS Reality" group-title="RDS Romania" tvg-logo="",CBS Reality
-https://rds.mark-clark.workers.dev/?ID=cbs-reality
-#EXTINF:-1 tvg-id="1759" tvg-name="HGTV" group-title="RDS Romania" tvg-logo="",HGTV
-https://rds.mark-clark.workers.dev/?ID=hgtv
-#EXTINF:-1 tvg-id="1757" tvg-name="RAI 1" group-title="RDS Romania" tvg-logo="",RAI 1
-https://rds.mark-clark.workers.dev/?ID=rai-1
-#EXTINF:-1 tvg-id="1752" tvg-name="RAI 3" group-title="RDS Romania" tvg-logo="",RAI 3
-https://rds.mark-clark.workers.dev/?ID=rai-3
-#EXTINF:-1 tvg-id="1561" tvg-name="Agro TV" group-title="RDS Romania" tvg-logo="",Agro TV
-https://rds.mark-clark.workers.dev/?ID=agro-tv
-#EXTINF:-1 tvg-id="1559" tvg-name="TV Moldova" group-title="RDS Romania" tvg-logo="",TV Moldova
-https://rds.mark-clark.workers.dev/?ID=tv-moldova
-#EXTINF:-1 tvg-id="1558" tvg-name="BBC Earth" group-title="RDS Romania" tvg-logo="",BBC Earth
-https://rds.mark-clark.workers.dev/?ID=bbc-earth
-#EXTINF:-1 tvg-id="1556" tvg-name="Fashion TV" group-title="RDS Romania" tvg-logo="",Fashion TV
-https://rds.mark-clark.workers.dev/?ID=fashion-tv
-#EXTINF:-1 tvg-id="1554" tvg-name="E Entertainment" group-title="RDS Romania" tvg-logo="",E Entertainment
-https://rds.mark-clark.workers.dev/?ID=e-entertainment
-#EXTINF:-1 tvg-id="1551" tvg-name="Fishing and Hunting" group-title="RDS Romania" tvg-logo="",Fishing and Hunting
-https://rds.mark-clark.workers.dev/?ID=fishing-and-hunting
-#EXTINF:-1 tvg-id="1317" tvg-name="TLC" group-title="RDS Romania" tvg-logo="",TLC
-https://rds.mark-clark.workers.dev/?ID=tlc
-#EXTINF:-1 tvg-id="1501" tvg-name="U TV" group-title="RDS Romania" tvg-logo="",U TV
-https://rds.mark-clark.workers.dev/?ID=u-tv
-#EXTINF:-1 tvg-id="1481" tvg-name="Kiss TV" group-title="RDS Romania" tvg-logo="",Kiss TV
-https://rds.mark-clark.workers.dev/?ID=kiss-tv
-#EXTINF:-1 tvg-id="1499" tvg-name="Atomic" group-title="RDS Romania" tvg-logo="",Atomic
-https://rds.mark-clark.workers.dev/?ID=atomic
-#EXTINF:-1 tvg-id="1563" tvg-name="Music Channel" group-title="RDS Romania" tvg-logo="",Music Channel
-https://rds.mark-clark.workers.dev/?ID=music-channel
-#EXTINF:-1 tvg-id="1506" tvg-name="Hit Music Channel" group-title="RDS Romania" tvg-logo="",Hit Music Channel
-https://rds.mark-clark.workers.dev/?ID=hit-music-channel-2
-#EXTINF:-1 tvg-id="1819" tvg-name="Mezzo" group-title="RDS Romania" tvg-logo="",Mezzo
-https://rds.mark-clark.workers.dev/?ID=mezzo-ro
-#EXTINF:-1 tvg-id="1789" tvg-name="TVR Folclor HD" group-title="RDS Romania" tvg-logo="",TVR Folclor HD
-https://rds.mark-clark.workers.dev/?ID=tvr-folclor-hd
-#EXTINF:-1 tvg-id="1517" tvg-name="Magic TV" group-title="RDS Romania" tvg-logo="",Magic TV
-https://rds.mark-clark.workers.dev/?ID=magic-tv
-#EXTINF:-1 tvg-id="1505" tvg-name="TV Favorit" group-title="RDS Romania" tvg-logo="",TV Favorit
-https://rds.mark-clark.workers.dev/?ID=tv-favorit
-#EXTINF:-1 tvg-id="1504" tvg-name="Taraf TV HD" group-title="RDS Romania" tvg-logo="",Taraf TV HD
-https://rds.mark-clark.workers.dev/?ID=taraf-tv
-#EXTINF:-1 tvg-id="1503" tvg-name="EtnoTv HD" group-title="RDS Romania" tvg-logo="",EtnoTv HD
-https://rds.mark-clark.workers.dev/?ID=etnotv-hd
-#EXTINF:-1 tvg-id="1502" tvg-name="Balcan Music TV" group-title="RDS Romania" tvg-logo="",Balcan Music TV
-https://rds.mark-clark.workers.dev/?ID=balcan-music-tv
-#EXTINF:-1 tvg-id="1500" tvg-name="ZU TV" group-title="RDS Romania" tvg-logo="",ZU TV
-https://rds.mark-clark.workers.dev/?ID=zu-tv
-#EXTINF:-1 tvg-id="1323" tvg-name="MTV" group-title="RDS Romania" tvg-logo="",MTV
-https://rds.mark-clark.workers.dev/?ID=mtv
-#EXTINF:-1 tvg-id="1322" tvg-name="MTV 80`s" group-title="RDS Romania" tvg-logo="",MTV 80`s
-https://rds.mark-clark.workers.dev/?ID=mtv-80s
-#EXTINF:-1 tvg-id="1318" tvg-name="Traditional TV" group-title="RDS Romania" tvg-logo="",Traditional TV
-https://rds.mark-clark.workers.dev/?ID=traditional-tv
-#EXTINF:-1 tvg-id="1313" tvg-name="Party Mix" group-title="RDS Romania" tvg-logo="",Party Mix
-https://rds.mark-clark.workers.dev/?ID=party-mix
-#EXTINF:-1 tvg-id="1329" tvg-name="Trinitas TV" group-title="RDS Romania" tvg-logo="",Trinitas TV
-https://rds.mark-clark.workers.dev/?ID=trinitas-tv
-#EXTINF:-1 tvg-id="1328" tvg-name="Speranta TV" group-title="RDS Romania" tvg-logo="",Speranta TV
-https://rds.mark-clark.workers.dev/?ID=speranta-tv
-#EXTINF:-1 tvg-id="1327" tvg-name="Alfa Omega" group-title="RDS Romania" tvg-logo="",Alfa Omega
-https://rds.mark-clark.workers.dev/?ID=alfa-omega
-#EXTINF:-1 tvg-id="1304" tvg-name="Credo TV" group-title="RDS Romania" tvg-logo="",Credo TV
-https://rds.mark-clark.workers.dev/?ID=credo-tv
-#EXTINF:-1 tvg-id="1422" tvg-name="Digi24 HD" group-title="RDS Romania" tvg-logo="",Digi24 HD
+#EXTINF:-1 tvg-id="1422" tvg-name="Digi24 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",Digi24 HD
 https://rds.mark-clark.workers.dev/?ID=digi24-hd
-#EXTINF:-1 tvg-id="1425" tvg-name="Antena 3 HD" group-title="RDS Romania" tvg-logo="",Antena 3 HD
+#EXTINF:-1 tvg-id="1425" tvg-name="Antena 3 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIGI24HD.png",Antena 3 HD
 https://rds.mark-clark.workers.dev/?ID=antena-3-hd
-#EXTINF:-1 tvg-id="1424" tvg-name="Realitatea TV HD" group-title="RDS Romania" tvg-logo="",Realitatea TV HD
+#EXTINF:-1 tvg-id="1424" tvg-name="Realitatea TV HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENA3HD.jpg",Realitatea TV HD
 https://rds.mark-clark.workers.dev/?ID=realitatea-tv
-#EXTINF:-1 tvg-id="1423" tvg-name="Romania TV HD" group-title="RDS Romania" tvg-logo="",Romania TV HD
+#EXTINF:-1 tvg-id="1423" tvg-name="Romania TV HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/REALITATEAPLUS.png",Romania TV HD
 https://rds.mark-clark.workers.dev/?ID=romania-tv
-#EXTINF:-1 tvg-id="1421" tvg-name="Euronews Romania" group-title="RDS Romania" tvg-logo="",Euronews Romania
+#EXTINF:-1 tvg-id="1421" tvg-name="Euronews Romania" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ROMANIATV.png",Euronews Romania
 https://rds.mark-clark.workers.dev/?ID=euronews-romania
-#EXTINF:-1 tvg-id="1420" tvg-name="B1TV HD" group-title="RDS Romania" tvg-logo="",B1TV HD
+#EXTINF:-1 tvg-id="1420" tvg-name="B1TV HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EURONEWS-ROMANIA.png",B1TV HD
 https://rds.mark-clark.workers.dev/?ID=b1tv
-#EXTINF:-1 tvg-id="1410" tvg-name="CNN" group-title="RDS Romania" tvg-logo="",CNN
+#EXTINF:-1 tvg-id="1410" tvg-name="CNN" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/B1TV.png",CNN
 https://rds.mark-clark.workers.dev/?ID=cnn
-#EXTINF:-1 tvg-id="1337" tvg-name="BBC World News" group-title="RDS Romania" tvg-logo="",BBC World News
+#EXTINF:-1 tvg-id="1337" tvg-name="BBC World News" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CNN.png",BBC World News
 https://rds.mark-clark.workers.dev/?ID=bbc-world-news
-#EXTINF:-1 tvg-id="1315" tvg-name="Prima News" group-title="RDS Romania" tvg-logo="",Prima News
+#EXTINF:-1 tvg-id="1315" tvg-name="Prima News" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/BBCWORLDNEWS.png",Prima News
 https://rds.mark-clark.workers.dev/?ID=prima-news
-#EXTINF:-1 tvg-id="1813" tvg-name="Deutsche Welle" group-title="RDS Romania" tvg-logo="",Deutsche Welle
+#EXTINF:-1 tvg-id="1813" tvg-name="Deutsche Welle" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMANEWS.png",Deutsche Welle
 https://rds.mark-clark.workers.dev/?ID=deutsche-welle
-#EXTINF:-1 tvg-id="1815" tvg-name="Nasul TV" group-title="RDS Romania" tvg-logo="",Nasul TV
+#EXTINF:-1 tvg-id="1815" tvg-name="Nasul TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/deusche.png",Nasul TV
 https://rds.mark-clark.workers.dev/?ID=nasul-tv-ro
+#EXTINF:-1 tvg-id="1501" tvg-name="U TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",U TV
+https://rds.mark-clark.workers.dev/?ID=u-tv
+#EXTINF:-1 tvg-id="1481" tvg-name="Kiss TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/UTV.png",Kiss TV
+https://rds.mark-clark.workers.dev/?ID=kiss-tv
+#EXTINF:-1 tvg-id="1499" tvg-name="Atomic" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/KISSTV.png",Atomic
+https://rds.mark-clark.workers.dev/?ID=atomic
+#EXTINF:-1 tvg-id="1563" tvg-name="Music Channel" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ATOMIC.png",Music Channel
+https://rds.mark-clark.workers.dev/?ID=music-channel
+#EXTINF:-1 tvg-id="1506" tvg-name="Hit Music Channel" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/MUSCICHNNEL.png",Hit Music Channel
+https://rds.mark-clark.workers.dev/?ID=hit-music-channel-2
+#EXTINF:-1 tvg-id="1819" tvg-name="Mezzo" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HIT-MUSICCHANNEL.png",Mezzo
+https://rds.mark-clark.workers.dev/?ID=mezzo-ro
+#EXTINF:-1 tvg-id="1789" tvg-name="TVR Folclor HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/11/mezzo.png",TVR Folclor HD
+https://rds.mark-clark.workers.dev/?ID=tvr-folclor-hd
+#EXTINF:-1 tvg-id="1517" tvg-name="Magic TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/10/tvr-folclor-1920x1080px_68992300.jpg",Magic TV
+https://rds.mark-clark.workers.dev/?ID=magic-tv
+#EXTINF:-1 tvg-id="1505" tvg-name="TV Favorit" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/magictv.png",TV Favorit
+https://rds.mark-clark.workers.dev/?ID=tv-favorit
+#EXTINF:-1 tvg-id="1504" tvg-name="Taraf TV HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FAVORITTV.png",Taraf TV HD
+https://rds.mark-clark.workers.dev/?ID=taraf-tv
+#EXTINF:-1 tvg-id="1503" tvg-name="EtnoTv HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TARAFTV.png",EtnoTv HD
+https://rds.mark-clark.workers.dev/?ID=etnotv-hd
+#EXTINF:-1 tvg-id="1502" tvg-name="Balcan Music TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ETNOTV.png",Balcan Music TV
+https://rds.mark-clark.workers.dev/?ID=balcan-music-tv
+#EXTINF:-1 tvg-id="1500" tvg-name="ZU TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/BALCANMUSICTV.png",ZU TV
+https://rds.mark-clark.workers.dev/?ID=zu-tv
+#EXTINF:-1 tvg-id="1323" tvg-name="MTV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ZUTV.png",MTV
+https://rds.mark-clark.workers.dev/?ID=mtv
+#EXTINF:-1 tvg-id="1322" tvg-name="MTV 80`s" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/MTV.png",MTV 80`s
+https://rds.mark-clark.workers.dev/?ID=mtv-80s
+#EXTINF:-1 tvg-id="1318" tvg-name="Traditional TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/MTV00.png",Traditional TV
+https://rds.mark-clark.workers.dev/?ID=traditional-tv
+#EXTINF:-1 tvg-id="1313" tvg-name="Party Mix" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TRADITIONALTV.png",Party Mix
+https://rds.mark-clark.workers.dev/?ID=party-mix
+#EXTINF:-1 tvg-id="1765" tvg-name="TV Paprika" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",TV Paprika
+https://rds.mark-clark.workers.dev/?ID=tv-paprika
+#EXTINF:-1 tvg-id="1761" tvg-name="CBS Reality" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/05/tv-paprika.png",CBS Reality
+https://rds.mark-clark.workers.dev/?ID=cbs-reality
+#EXTINF:-1 tvg-id="1759" tvg-name="HGTV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/05/cbs-reality.png",HGTV
+https://rds.mark-clark.workers.dev/?ID=hgtv
+#EXTINF:-1 tvg-id="1757" tvg-name="RAI 1" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/05/hgtv.png",RAI 1
+https://rds.mark-clark.workers.dev/?ID=rai-1
+#EXTINF:-1 tvg-id="1752" tvg-name="RAI 3" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/05/rai-1.png",RAI 3
+https://rds.mark-clark.workers.dev/?ID=rai-3
+#EXTINF:-1 tvg-id="1561" tvg-name="Agro TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2024/05/rai-3.png",Agro TV
+https://rds.mark-clark.workers.dev/?ID=agro-tv
+#EXTINF:-1 tvg-id="1559" tvg-name="TV Moldova" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AGROTV.png",TV Moldova
+https://rds.mark-clark.workers.dev/?ID=tv-moldova
+#EXTINF:-1 tvg-id="1558" tvg-name="BBC Earth" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TV-MOLDOVA-1.png",BBC Earth
+https://rds.mark-clark.workers.dev/?ID=bbc-earth
+#EXTINF:-1 tvg-id="1556" tvg-name="Fashion TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/BBC-EARTH.png",Fashion TV
+https://rds.mark-clark.workers.dev/?ID=fashion-tv
+#EXTINF:-1 tvg-id="1554" tvg-name="E Entertainment" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FASION-TV.png",E Entertainment
+https://rds.mark-clark.workers.dev/?ID=e-entertainment
+#EXTINF:-1 tvg-id="1551" tvg-name="Fishing and Hunting" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/E-ENTERRTAINENT.png",Fishing and Hunting
+https://rds.mark-clark.workers.dev/?ID=fishing-and-hunting
+#EXTINF:-1 tvg-id="1317" tvg-name="TLC" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FISHING-AND-HUNTING.png",TLC
+https://rds.mark-clark.workers.dev/?ID=tlc
+#EXTINF:-1 tvg-id="1357" tvg-name="Pro TV HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",Pro TV HD
+https://rds.mark-clark.workers.dev/?ID=romaniaprotvhd
+#EXTINF:-1 tvg-id="1359" tvg-name="Antena 1 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PROTVHD.png",Antena 1 HD
+https://rds.mark-clark.workers.dev/?ID=romaniaantena1hd
+#EXTINF:-1 tvg-id="1376" tvg-name="Kanal D HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENA1HD.png",Kanal D HD
+https://rds.mark-clark.workers.dev/?ID=kanal-d-ro-3
+#EXTINF:-1 tvg-id="1361" tvg-name="Prima TV HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/KANALDHD.png",Prima TV HD
+https://rds.mark-clark.workers.dev/?ID=prima-tv-hd
+#EXTINF:-1 tvg-id="1381" tvg-name="Happy Channel HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMATVHD.png",Happy Channel HD
+https://rds.mark-clark.workers.dev/?ID=happy-channel
+#EXTINF:-1 tvg-id="1385" tvg-name="Antena Stars HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HAPPYCHANNEL.png",Antena Stars HD
+https://rds.mark-clark.workers.dev/?ID=antena-stars
+#EXTINF:-1 tvg-id="1377" tvg-name="TVR 1 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENASTARSHD.png",TVR 1 HD
+https://rds.mark-clark.workers.dev/?ID=tvr-1-hd
+#EXTINF:-1 tvg-id="1379" tvg-name="TVR 2 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TVR1HD.png",TVR 2 HD
+https://rds.mark-clark.workers.dev/?ID=tvr-2-hd
+#EXTINF:-1 tvg-id="1339" tvg-name="TVR 3" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TVR2HD.png",TVR 3
+https://rds.mark-clark.workers.dev/?ID=tvr-3
+#EXTINF:-1 tvg-id="1857" tvg-name="TVR International" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TVR3.png",TVR International
+https://rds.mark-clark.workers.dev/?ID=tvr-intarnational
+#EXTINF:-1 tvg-id="1384" tvg-name="Acasa TV HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/tvri.png",Acasa TV HD
+https://rds.mark-clark.workers.dev/?ID=acasa-tv-hd
+#EXTINF:-1 tvg-id="1383" tvg-name="Acasa Gold HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ACASATVHD.png",Acasa Gold HD
+https://rds.mark-clark.workers.dev/?ID=acasa-gold
+#EXTINF:-1 tvg-id="1382" tvg-name="National TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ACASAGOLD.png",National TV
+https://rds.mark-clark.workers.dev/?ID=national-tv
+#EXTINF:-1 tvg-id="1378" tvg-name="Metropola TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NATIONALTV.png",Metropola TV
+https://rds.mark-clark.workers.dev/?ID=metropola-tv
+#EXTINF:-1 tvg-id="1336" tvg-name="National Plus 24" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/METROPOLATV.png",National Plus 24
+https://rds.mark-clark.workers.dev/?ID=national-plus-24
+#EXTINF:-1 tvg-id="1321" tvg-name="KANAL D2 HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/NATIONAL24PLUS.png",KANAL D2 HD
+https://rds.mark-clark.workers.dev/?ID=kanald2-1
+#EXTINF:-1 tvg-id="1312" tvg-name="NCN" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/Kanal-D2-fin.png",NCN
+https://rds.mark-clark.workers.dev/?ID=ncn
+#EXTINF:-1 tvg-id="1329" tvg-name="Trinitas TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/logo-rds-nou.png",Trinitas TV
+https://rds.mark-clark.workers.dev/?ID=trinitas-tv
+#EXTINF:-1 tvg-id="1328" tvg-name="Speranta TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/TRINITAS.png",Speranta TV
+https://rds.mark-clark.workers.dev/?ID=speranta-tv
+#EXTINF:-1 tvg-id="1327" tvg-name="Alfa Omega" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/SPERANTATV.png",Alfa Omega
+https://rds.mark-clark.workers.dev/?ID=alfa-omega
+#EXTINF:-1 tvg-id="1304" tvg-name="Credo TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ALFAOMEGATV.png",Credo TV
+https://rds.mark-clark.workers.dev/?ID=credo-tv

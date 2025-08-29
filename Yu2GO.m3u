@@ -1,331 +1,331 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="134" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_1.xml" tvg-name="N1 Info" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/aI6XNy-m7Zw2dXQzv6XjoXUBQcL6VKw8.jpg",N1 Info
-http://sultansmart.serv00.net/Yu2GO.php?ID=134
+http://sultanweb.info/Yu2GO.php?ID=134
 #EXTINF:-1 tvg-id="76" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_665.xml" tvg-name="RTS 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/xq72cqAiuD9rRVyJTaAC-fmhMRh-16e9.jpg",RTS 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=76
+http://sultanweb.info/Yu2GO.php?ID=76
 #EXTINF:-1 tvg-id="77" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_666.xml" tvg-name="RTS 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/fiDmnBSIrZycKMq_TXWRK-eOsLrXQ-QV.jpg",RTS 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=77
+http://sultanweb.info/Yu2GO.php?ID=77
 #EXTINF:-1 tvg-id="221" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_678.xml" tvg-name="Nova S" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/05/X_ezba54Sd3WE0frdigs3NZQMXcxMdUD.jpg",Nova S
-http://sultansmart.serv00.net/Yu2GO.php?ID=221
+http://sultanweb.info/Yu2GO.php?ID=221
 #EXTINF:-1 tvg-id="100" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_743.xml" tvg-name="HRT 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/Wi5BaIMmKJna15twsLSC8gxvv4JOk-ZN.jpg",HRT 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=100
+http://sultanweb.info/Yu2GO.php?ID=100
 #EXTINF:-1 tvg-id="159" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_1431.xml" tvg-name="RTRS" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/Lho5CTWXj2eLXhOCvXWx5A8sPmdprFuq.jpg",RTRS
-http://sultansmart.serv00.net/Yu2GO.php?ID=159
+http://sultanweb.info/Yu2GO.php?ID=159
 #EXTINF:-1 tvg-id="241" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_1429.xml" tvg-name="BHT 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/3lLaDOcQr76Se4PRKBQZhNVpwpC-WV5s.jpg",BHT 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=241
+http://sultanweb.info/Yu2GO.php?ID=241
 #EXTINF:-1 tvg-id="405" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_669.xml" tvg-name="Federalna" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/RS7mI3rSw7882tp38J7ttOhKBYmPea1L.jpg",Federalna
-http://sultansmart.serv00.net/Yu2GO.php?ID=405
+http://sultanweb.info/Yu2GO.php?ID=405
 #EXTINF:-1 tvg-id="238" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_37.xml" tvg-name="RTV CG SAT" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/26RawhxcAhzPsQscS5o9L0QgQzroIjOz.jpg",RTV CG SAT
-http://sultansmart.serv00.net/Yu2GO.php?ID=238
+http://sultanweb.info/Yu2GO.php?ID=238
 #EXTINF:-1 tvg-id="140" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_746.xml" tvg-name="Nova" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/ZhdT6lPJeHTjBoxeIiSgiv_bofjyvRVo.jpg",Nova
-http://sultansmart.serv00.net/Yu2GO.php?ID=140
+http://sultanweb.info/Yu2GO.php?ID=140
 #EXTINF:-1 tvg-id="657" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_136.xml" tvg-name="N1 HR" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/05/gxfbx2VDx4wYYWfKmSfyN4OGW02DfQMa.png",N1 HR
-http://sultansmart.serv00.net/Yu2GO.php?ID=657
+http://sultanweb.info/Yu2GO.php?ID=657
 #EXTINF:-1 tvg-id="219" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_44.xml" tvg-name="TV 1000" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/dNCY8YrUK05v7_NP3tNlumypmoXhcXi_.jpg",TV 1000
-http://sultansmart.serv00.net/Yu2GO.php?ID=219
+http://sultanweb.info/Yu2GO.php?ID=219
 #EXTINF:-1 tvg-id="230" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_584.xml" tvg-name="Pink SciFi & Fantasy" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/Z72JmvvDXV4WDhol7yOAvEuRwHlSncpE.jpg",Pink SciFi & Fantasy
-http://sultansmart.serv00.net/Yu2GO.php?ID=230
+http://sultanweb.info/Yu2GO.php?ID=230
 #EXTINF:-1 tvg-id="231" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_174.xml" tvg-name="Pink Film" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/vaXaLtViAiJCBU9AcW4kF9LD7IDC_5AH.jpg",Pink Film
-http://sultansmart.serv00.net/Yu2GO.php?ID=231
+http://sultanweb.info/Yu2GO.php?ID=231
 #EXTINF:-1 tvg-id="246" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_694.xml" tvg-name="Pink Serije" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/SM8S1k3888NXMjoc8bdIigV5LjD951s0.jpg",Pink Serije
-http://sultansmart.serv00.net/Yu2GO.php?ID=246
+http://sultanweb.info/Yu2GO.php?ID=246
 #EXTINF:-1 tvg-id="81" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_747.xml" tvg-name="RTL" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/Aphssjp6iodybr7tLFVg9bQRfUZYnusG.jpg",RTL
-http://sultansmart.serv00.net/Yu2GO.php?ID=81
+http://sultanweb.info/Yu2GO.php?ID=81
 #EXTINF:-1 tvg-id="85" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_305.xml" tvg-name="RTL 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/1d7jw7vBnp82_WAhdDgJdaJeFXx7IS9k.jpg",RTL 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=85
+http://sultanweb.info/Yu2GO.php?ID=85
 #EXTINF:-1 tvg-id="190" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_60.xml" tvg-name="HBO 1 HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/FUwS7aVld57UI4_g83pbiWmh64fKuc8n.jpg",HBO 1 HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=190
+http://sultanweb.info/Yu2GO.php?ID=190
 #EXTINF:-1 tvg-id="191" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_61.xml" tvg-name="HBO 2 HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/OGDDs7soed97GfWKVqVZGtlMvx2WXX65.jpg",HBO 2 HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=191
+http://sultanweb.info/Yu2GO.php?ID=191
 #EXTINF:-1 tvg-id="192" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_62.xml" tvg-name="HBO 3 HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/JW5imrAE9X7Dhe3sGk29bYvXXuOwzp-Y.jpg",HBO 3 HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=192
+http://sultanweb.info/Yu2GO.php?ID=192
 #EXTINF:-1 tvg-id="223" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_810.xml" tvg-name="Pink Premium" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/UXMxJPzM513YoEXiB_PDtnpC8_MYHkhl.jpg",Pink Premium
-http://sultansmart.serv00.net/Yu2GO.php?ID=223
+http://sultanweb.info/Yu2GO.php?ID=223
 #EXTINF:-1 tvg-id="224" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_568.xml" tvg-name="Pink Comedy" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/Nq6zujFAQHIuUetTupTLGIZjz0EAGQB7.jpg",Pink Comedy
-http://sultansmart.serv00.net/Yu2GO.php?ID=224
+http://sultanweb.info/Yu2GO.php?ID=224
 #EXTINF:-1 tvg-id="225" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_47.xml" tvg-name="Pink Family" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/sPswTSoenqTMqJ9mifrzuntOwxeTFrbY.jpg",Pink Family
-http://sultansmart.serv00.net/Yu2GO.php?ID=225
+http://sultanweb.info/Yu2GO.php?ID=225
 #EXTINF:-1 tvg-id="226" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_567.xml" tvg-name="Pink Thriller" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/qH1QFC3HFT0dcCmpQI7hW7XMOQRdp50w.jpg",Pink Thriller
-http://sultansmart.serv00.net/Yu2GO.php?ID=226
+http://sultanweb.info/Yu2GO.php?ID=226
 #EXTINF:-1 tvg-id="227" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_175.xml" tvg-name="Pink Action" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/F3iLZ9nWHzlzpflXLJLhPtsVmUPxoKJB.jpg",Pink Action
-http://sultansmart.serv00.net/Yu2GO.php?ID=227
+http://sultanweb.info/Yu2GO.php?ID=227
 #EXTINF:-1 tvg-id="228" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_173.xml" tvg-name="Pink Movies" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/qZ0IN7seWag1Ey7oWyCXZi61WVcaMavY.jpg",Pink Movies
-http://sultansmart.serv00.net/Yu2GO.php?ID=228
+http://sultanweb.info/Yu2GO.php?ID=228
 #EXTINF:-1 tvg-id="229" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_659.xml" tvg-name="Pink Crime & Mistery" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/-iCJ7gbtR5vV8qhL81q45Ir8Q9pqb0KT.jpg",Pink Crime & Mistery
-http://sultansmart.serv00.net/Yu2GO.php?ID=229
+http://sultanweb.info/Yu2GO.php?ID=229
 #EXTINF:-1 tvg-id="272" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_690.xml" tvg-name="Pink World Cinema" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/4OaNf8ww42Mh2ab7PwtXExdp7x04Uvux.jpg",Pink World Cinema
-http://sultansmart.serv00.net/Yu2GO.php?ID=272
+http://sultanweb.info/Yu2GO.php?ID=272
 #EXTINF:-1 tvg-id="275" tvg-epg="http://epg.plumrd.com/mts.rs/klasik_tv_duplicate.xml" tvg-name="Klasik TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/KUFg-u1mJjHN3DMbBR21pobwl4J9Xbwb.jpg",Klasik TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=275
+http://sultanweb.info/Yu2GO.php?ID=275
 #EXTINF:-1 tvg-id="446" tvg-epg="" tvg-name="RTL Crime" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/03/kVNuq6PjkVfC81Y802pFO4Qbqg2-iH3e.png",RTL Crime
-http://sultansmart.serv00.net/Yu2GO.php?ID=446
+http://sultanweb.info/Yu2GO.php?ID=446
 #EXTINF:-1 tvg-id="471" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_1480.xml" tvg-name="FilmBox Extra" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/fSBjRQw7GBTwokK9U7Yrm3ZSh1ncRKVS.png",FilmBox Extra
-http://sultansmart.serv00.net/Yu2GO.php?ID=471
+http://sultanweb.info/Yu2GO.php?ID=471
 #EXTINF:-1 tvg-id="495" tvg-epg="" tvg-name="HBO MAX" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/04/dZ8ye4oraCAz6DCfNDxtaITJlWNcCzkt.jpg",HBO MAX
-http://sultansmart.serv00.net/Yu2GO.php?ID=495
+http://sultanweb.info/Yu2GO.php?ID=495
 #EXTINF:-1 tvg-id="513" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_581.xml" tvg-name="Pink Western" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/06/xORyLUxWvQL37FFLqX8CI-KbqiAUI8Sn.png",Pink Western
-http://sultansmart.serv00.net/Yu2GO.php?ID=513
+http://sultanweb.info/Yu2GO.php?ID=513
 #EXTINF:-1 tvg-id="531" tvg-epg="http://epg.plumrd.com/mts.rs/rts_drama.xml" tvg-name="RTS Drama" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/06/rwznes3TuwL_iO-Td-20bP943XqasTEy.png",RTS Drama
-http://sultansmart.serv00.net/Yu2GO.php?ID=531
+http://sultanweb.info/Yu2GO.php?ID=531
 #EXTINF:-1 tvg-id="553" tvg-epg="http://epg.plumrd.com/mts.rs/superstar_2_hd.xml" tvg-name="Superstar 2 TV HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/P7z5eCZif7onG_TlmAUVXpxle40x968E.png",Superstar 2 TV HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=553
+http://sultanweb.info/Yu2GO.php?ID=553
 #EXTINF:-1 tvg-id="599" tvg-epg="http://epg.plumrd.com/mts.rs/superstar_tv_hd.xml" tvg-name="Superstar TV HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/SV3JeVka8QxF-QkKsPX2Gj8SugPNwT9-.png",Superstar TV HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=599
+http://sultanweb.info/Yu2GO.php?ID=599
 #EXTINF:-1 tvg-id="600" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_582.xml" tvg-name="Pink Horror" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/2Aq6rL2JO2pov03ARsso8KtM7G8o-Bs9.jpg",Pink Horror
-http://sultansmart.serv00.net/Yu2GO.php?ID=600
+http://sultanweb.info/Yu2GO.php?ID=600
 #EXTINF:-1 tvg-id="232" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_48.xml" tvg-name="Cinestar TV1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/orylxgyftcZkI8oTPktPcplT60FZ0Rde.jpg",Cinestar TV1
-http://sultansmart.serv00.net/Yu2GO.php?ID=232
+http://sultanweb.info/Yu2GO.php?ID=232
 #EXTINF:-1 tvg-id="441" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_773.xml" tvg-name="Cinestar TV2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/OBINFbm8G0T3f1URYxLQp4DdYoWVPjXb.jpg",Cinestar TV2
-http://sultansmart.serv00.net/Yu2GO.php?ID=441
+http://sultanweb.info/Yu2GO.php?ID=441
 #EXTINF:-1 tvg-id="271" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_50.xml" tvg-name="CineStar Action" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/jzPVjgP2w-OScbjX00-HTMkkV8hLN6fp.jpg",CineStar Action
-http://sultansmart.serv00.net/Yu2GO.php?ID=271
+http://sultanweb.info/Yu2GO.php?ID=271
 #EXTINF:-1 tvg-id="440" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_51.xml" tvg-name="Cinestar Premiere  TV 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/03/uKslGyz7K8DGs2n7KCYXt0yDMyaw78GP.png",Cinestar Premiere  TV 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=440
+http://sultanweb.info/Yu2GO.php?ID=440
 #EXTINF:-1 tvg-id="617" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_52.xml" tvg-name="Cinestar TV Premiere 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/11/O9skLDQRf1UCZSXG3TPJiASWXVuiC5p9.png",Cinestar TV Premiere 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=617
+http://sultanweb.info/Yu2GO.php?ID=617
 #EXTINF:-1 tvg-id="623" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_49.xml" tvg-name="Cinestar fantasy" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/03/kg083I3aM6WORVWQs_6yB7p4DJ0fN_jL.png",Cinestar fantasy
-http://sultansmart.serv00.net/Yu2GO.php?ID=623
+http://sultanweb.info/Yu2GO.php?ID=623
 #EXTINF:-1 tvg-id="150" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_56.xml" tvg-name="Star" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/10/vRk07Lahm2cpJxdaRF-fvuxmFnGL1voV.png",Star
-http://sultansmart.serv00.net/Yu2GO.php?ID=150
+http://sultanweb.info/Yu2GO.php?ID=150
 #EXTINF:-1 tvg-id="124" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_59.xml" tvg-name="Star Movies" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/10/1_xljfiXxDEeclT_KUekaLn4bBilVH2j.png",Star Movies
-http://sultansmart.serv00.net/Yu2GO.php?ID=124
+http://sultanweb.info/Yu2GO.php?ID=124
 #EXTINF:-1 tvg-id="107" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_57.xml" tvg-name="Star Life" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/10/ijqJqaheJkGsAxOcaTaaHR9aWEk9dtOW.png",Star Life
-http://sultansmart.serv00.net/Yu2GO.php?ID=107
+http://sultanweb.info/Yu2GO.php?ID=107
 #EXTINF:-1 tvg-id="205" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_58.xml" tvg-name="Star Crime" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/10/w7ikGB7t_WQvEsYJ0Rth0s14R_hy6ZCm.png",Star Crime
-http://sultansmart.serv00.net/Yu2GO.php?ID=205
+http://sultanweb.info/Yu2GO.php?ID=205
 #EXTINF:-1 tvg-id="111" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_107.xml" tvg-name="National Geographic" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/fzSm4idkFv3ws1h_kwqkyep6lQnkXuQd.jpg",National Geographic
-http://sultansmart.serv00.net/Yu2GO.php?ID=111
+http://sultanweb.info/Yu2GO.php?ID=111
 #EXTINF:-1 tvg-id="112" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_111.xml" tvg-name="Nat Geo Wild" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/uFdJQ8_D7j3pbYysZ605_8bgSUC6GIdO.jpg",Nat Geo Wild
-http://sultansmart.serv00.net/Yu2GO.php?ID=112
+http://sultanweb.info/Yu2GO.php?ID=112
 #EXTINF:-1 tvg-id="143" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_940.xml" tvg-name="TLC" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/-2M5hvJmyc--N32lF4_AGMHMqL-44Pm4.jpg",TLC
-http://sultansmart.serv00.net/Yu2GO.php?ID=143
+http://sultanweb.info/Yu2GO.php?ID=143
 #EXTINF:-1 tvg-id="208" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_120.xml" tvg-name="E!" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/DVOOoTBIDgaS4pdqPXTwFjUJs5MQinsN.jpg",E!
-http://sultansmart.serv00.net/Yu2GO.php?ID=208
+http://sultanweb.info/Yu2GO.php?ID=208
 #EXTINF:-1 tvg-id="63" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_118.xml" tvg-name="24 Kitchen" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/9VQ0paax78kthVDimMS2JXOW3JA6Cnut.jpg",24 Kitchen
-http://sultansmart.serv00.net/Yu2GO.php?ID=63
+http://sultanweb.info/Yu2GO.php?ID=63
 #EXTINF:-1 tvg-id="142" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_730.xml" tvg-name="Viasat Explore" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/6V3NcMyve7IoGgKtFGZ9Z7S0CnRqnHUq.jpg",Viasat Explore
-http://sultansmart.serv00.net/Yu2GO.php?ID=142
+http://sultanweb.info/Yu2GO.php?ID=142
 #EXTINF:-1 tvg-id="141" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_731.xml" tvg-name="Viasat History" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/V_HVbWdvcP8rcZKz6iFDiuI3xeL1XFpb.jpg",Viasat History
-http://sultansmart.serv00.net/Yu2GO.php?ID=141
+http://sultanweb.info/Yu2GO.php?ID=141
 #EXTINF:-1 tvg-id="465" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_732.xml" tvg-name="Viasat Nature" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/03/Z4uxfFej9XgTwwzG91GCHHc1od-C7LTv.png",Viasat Nature
-http://sultansmart.serv00.net/Yu2GO.php?ID=465
+http://sultanweb.info/Yu2GO.php?ID=465
 #EXTINF:-1 tvg-id="264" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_112.xml" tvg-name="BBC Earth HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/psL1hu-ZoYHQYV8_x1y8Gz_BiziPHB2q.jpg",BBC Earth HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=264
+http://sultanweb.info/Yu2GO.php?ID=264
 #EXTINF:-1 tvg-id="161" tvg-epg="http://admin3.plumrd.com/epg/xml/mtel_140.xml" tvg-name="Docu Box HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/IwviPKMI7mf3LzGOv6oLLjCIOFhfbgaa.jpg",Docu Box HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=161
+http://sultanweb.info/Yu2GO.php?ID=161
 #EXTINF:-1 tvg-id="588" tvg-epg="http://epg.plumrd.com/mts.rs/arena_premium_1_hd.xml" tvg-name="Arena Premium 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/11/7nmw1ydVOJ4rfIxtepiAogvmpnCnpniM.jpg",Arena Premium 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=588
+http://sultanweb.info/Yu2GO.php?ID=588
 #EXTINF:-1 tvg-id="589" tvg-epg="http://epg.plumrd.com/mts.rs/arena_premium_2_hd.xml" tvg-name="Arena Premium 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/11/CENy9H_q0_1i2aDD1lwkk6VzHZ87lhgO.jpg",Arena Premium 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=589
+http://sultanweb.info/Yu2GO.php?ID=589
 #EXTINF:-1 tvg-id="590" tvg-epg="http://epg.plumrd.com/mts.rs/arena_premium_3_hd.xml" tvg-name="Arena Premium 3" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/11/glyHeyvmyJQMmihnJ-0mpvHwyf4hRi4D.jpg",Arena Premium 3
-http://sultansmart.serv00.net/Yu2GO.php?ID=590
+http://sultanweb.info/Yu2GO.php?ID=590
 #EXTINF:-1 tvg-id="670" tvg-epg="" tvg-name="Arena Premium 4 HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/08/JOjKpclZCVxqxxNHfnXiTS8_Q2vLvpVP.png",Arena Premium 4 HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=670
+http://sultanweb.info/Yu2GO.php?ID=670
 #EXTINF:-1 tvg-id="671" tvg-epg="" tvg-name="Arena Premium 5 HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/08/W3SiGtenm3NbPfXFlBFqTu96sJZdLQp7.png",Arena Premium 5 HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=671
+http://sultanweb.info/Yu2GO.php?ID=671
 #EXTINF:-1 tvg-id="672" tvg-epg="" tvg-name="Arena Tenis HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/08/MTO-VMlKmybCUUlyBRFfPBm3fuxmHKcS.png",Arena Tenis HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=672
+http://sultanweb.info/Yu2GO.php?ID=672
 #EXTINF:-1 tvg-id="147" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_1_hd.xml" tvg-name="Arena Sport 1 RS" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/p-w2qP3M16d4X0uIpg4TywpAINSladJN.jpg",Arena Sport 1 RS
-http://sultansmart.serv00.net/Yu2GO.php?ID=147
+http://sultanweb.info/Yu2GO.php?ID=147
 #EXTINF:-1 tvg-id="621" tvg-epg="" tvg-name="Max Sport" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/12/UsIVJH5nAtM-Kv6Dj3aRplvAjOeqQwoE.png",Max Sport
-http://sultansmart.serv00.net/Yu2GO.php?ID=621
+http://sultanweb.info/Yu2GO.php?ID=621
 #EXTINF:-1 tvg-id="673" tvg-epg="" tvg-name="Arena Adrenalin HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/08/5zAT5n4BsBRmFVtRyoiLdjqOuQbTrjJ2.png",Arena Adrenalin HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=673
+http://sultanweb.info/Yu2GO.php?ID=673
 #EXTINF:-1 tvg-id="184" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_2_hd.xml" tvg-name="Arena Sport 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/T4-oAvGw6ADDvaLR0B098zI_HCe843zs.jpg",Arena Sport 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=184
+http://sultanweb.info/Yu2GO.php?ID=184
 #EXTINF:-1 tvg-id="185" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_3_hd.xml" tvg-name="Arena Sport 3" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/knjcsnmQ7IDtSfa1tmpys5dEzu3NBhKn.jpg",Arena Sport 3
-http://sultansmart.serv00.net/Yu2GO.php?ID=185
+http://sultanweb.info/Yu2GO.php?ID=185
 #EXTINF:-1 tvg-id="186" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_4_hd.xml" tvg-name="Arena Sport 4" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/W-AUWoUc7tl1D7-ck7rX05T37gInYCnD.jpg",Arena Sport 4
-http://sultansmart.serv00.net/Yu2GO.php?ID=186
+http://sultanweb.info/Yu2GO.php?ID=186
 #EXTINF:-1 tvg-id="187" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_5_hd.xml" tvg-name="Arena Sport 5" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/vkf5LLpWuDuBKo7AUn39KO9Htnub7aJK.jpg",Arena Sport 5
-http://sultansmart.serv00.net/Yu2GO.php?ID=187
+http://sultanweb.info/Yu2GO.php?ID=187
 #EXTINF:-1 tvg-id="459" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_6_hd.xml" tvg-name="Arena Sport 6" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/03/-fgW2t8e8M4WENfNRvYqDUSEEG9-91GS.png",Arena Sport 6
-http://sultansmart.serv00.net/Yu2GO.php?ID=459
+http://sultanweb.info/Yu2GO.php?ID=459
 #EXTINF:-1 tvg-id="658" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_18.xml" tvg-name="Sport Klub HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/s1SWn-PeZSAnyWN8R-3Loxa3slgNRcg6.jpeg",Sport Klub HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=658
+http://sultanweb.info/Yu2GO.php?ID=658
 #EXTINF:-1 tvg-id="130" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_85.xml" tvg-name="Eurosport 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/EqTWHN4d01eC6XX1DE0zqWUDCZgxmZf1.jpg",Eurosport 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=130
+http://sultanweb.info/Yu2GO.php?ID=130
 #EXTINF:-1 tvg-id="148" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_84.xml" tvg-name="Eurosport 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/IMskVNqQCly-KgIKpNTZITnXEWI97CrI.jpg",Eurosport 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=148
+http://sultanweb.info/Yu2GO.php?ID=148
 #EXTINF:-1 tvg-id="526" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_728.xml" tvg-name="Nova Sport" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/06/95ZAgfEHNgNLtunGwaBwqtOy5UZBhbnn.png",Nova Sport
-http://sultansmart.serv00.net/Yu2GO.php?ID=526
+http://sultanweb.info/Yu2GO.php?ID=526
 #EXTINF:-1 tvg-id="592" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_7_hd.xml" tvg-name="Arena Sport 7" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/06/7sQrBXoHzWwYTRRGJoKzwOvOIvYf2qW2.png",Arena Sport 7
-http://sultansmart.serv00.net/Yu2GO.php?ID=592
+http://sultanweb.info/Yu2GO.php?ID=592
 #EXTINF:-1 tvg-id="618" tvg-epg="http://epg.plumrd.com/mts.rs/nba_tv.xml" tvg-name="NBA TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/11/QOP-jDVlNyXc0zGw0PtDAVx6U6uyyTQb.png",NBA TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=618
+http://sultanweb.info/Yu2GO.php?ID=618
 #EXTINF:-1 tvg-id="593" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_8_hd.xml" tvg-name="Arena Sport 8" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/06/7ArTACzb9XOjDCnetcxO3DLZ7SOjVRh0.jpg",Arena Sport 8
-http://sultansmart.serv00.net/Yu2GO.php?ID=593
+http://sultanweb.info/Yu2GO.php?ID=593
 #EXTINF:-1 tvg-id="629" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_9_hd.xml" tvg-name="Arena Sport 9" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/06/aOa3ID_rCgZsa6mkFvvCwg4LLm5b91Mz.jpg",Arena Sport 9
-http://sultansmart.serv00.net/Yu2GO.php?ID=629
+http://sultanweb.info/Yu2GO.php?ID=629
 #EXTINF:-1 tvg-id="630" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_10_hd.xml" tvg-name="Arena Sport 10" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/06/ym6RxHkRDHVuII9fL4IiAR7O8Mta3vv6.jpg",Arena Sport 10
-http://sultansmart.serv00.net/Yu2GO.php?ID=630
+http://sultanweb.info/Yu2GO.php?ID=630
 #EXTINF:-1 tvg-id="594" tvg-epg="http://epg.plumrd.com/mts.rs/arena_sport_1x2_hd.xml" tvg-name="Arena Sport 1x2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/x-5Mk2k4WvV2R3kLSBnmb0nUjOUrKda0.png",Arena Sport 1x2
-http://sultansmart.serv00.net/Yu2GO.php?ID=594
+http://sultanweb.info/Yu2GO.php?ID=594
 #EXTINF:-1 tvg-id="486" tvg-epg="http://epg.plumrd.com/mts.rs/arena_fight_hd.xml" tvg-name="Arena Fight HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/05/dfNnG1VSgqPISTgDyfqcTFj9oihOPHfP.png",Arena Fight HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=486
+http://sultanweb.info/Yu2GO.php?ID=486
 #EXTINF:-1 tvg-id="155" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_88.xml" tvg-name="Nickelodeon" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/x8vY7q3oMbHF9D9diG1xbXlxbG6au1SY.jpg",Nickelodeon
-http://sultansmart.serv00.net/Yu2GO.php?ID=155
+http://sultanweb.info/Yu2GO.php?ID=155
 #EXTINF:-1 tvg-id="193" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_91.xml" tvg-name="Cartoon Network" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/sla7TlWTr4q-LlBJZEgeT8jnADLQR_u4.jpg",Cartoon Network
-http://sultansmart.serv00.net/Yu2GO.php?ID=193
+http://sultanweb.info/Yu2GO.php?ID=193
 #EXTINF:-1 tvg-id="123" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_87.xml" tvg-name="Minimax" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/sV7d5EpDCx3-aXywPOGWvy0x9U1WmOw9.jpg",Minimax
-http://sultansmart.serv00.net/Yu2GO.php?ID=123
+http://sultanweb.info/Yu2GO.php?ID=123
 #EXTINF:-1 tvg-id="410" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_94.xml" tvg-name="Nick Jr." group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/zw7j29WJWOlYr3OuwsuuaBqxNfvK6b_a.jpg",Nick Jr.
-http://sultansmart.serv00.net/Yu2GO.php?ID=410
+http://sultanweb.info/Yu2GO.php?ID=410
 #EXTINF:-1 tvg-id="424" tvg-epg="" tvg-name="Mini TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/01/swcgy2AQ4-EClpRGzVt9Swn0LlB3exhW.jpg",Mini TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=424
+http://sultanweb.info/Yu2GO.php?ID=424
 #EXTINF:-1 tvg-id="425" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_96.xml" tvg-name="Baby TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/01/tQkw9VrrUfTcwMbDN0uuwdMSNGt7X9Jn.jpg",Baby TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=425
+http://sultanweb.info/Yu2GO.php?ID=425
 #EXTINF:-1 tvg-id="523" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_691.xml" tvg-name="Pink Super Kids" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/06/wcVk7Bn4BILb71a6cMO-FnoHHNGKeG1w.png",Pink Super Kids
-http://sultansmart.serv00.net/Yu2GO.php?ID=523
+http://sultanweb.info/Yu2GO.php?ID=523
 #EXTINF:-1 tvg-id="266" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_63.xml" tvg-name="Cinemax HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/rG8A3WAy4s1pWnJaGH8AWwnu2ITx0les.jpg",Cinemax HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=266
+http://sultanweb.info/Yu2GO.php?ID=266
 #EXTINF:-1 tvg-id="265" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_64.xml" tvg-name="Cinemax 2 HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/-h1LQaxnOy4NXy_MmTgJemrlZpbvAK9p.jpg",Cinemax 2 HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=265
+http://sultanweb.info/Yu2GO.php?ID=265
 #EXTINF:-1 tvg-id="665" tvg-epg="" tvg-name="MAX Sport 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/03/erCEMH4FHDQ8k5FDE1_XDqOnLSjTwQHr.png",MAX Sport 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=665
+http://sultanweb.info/Yu2GO.php?ID=665
 #EXTINF:-1 tvg-id="659" tvg-epg="http://epg.plumrd.com/mts.rs/euro_cinema_1.xml" tvg-name="Euro Cinema 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/GfTNBpkwZbHVJnNR_o5rFkMp50EAXlwd.jpeg",Euro Cinema 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=659
+http://sultanweb.info/Yu2GO.php?ID=659
 #EXTINF:-1 tvg-id="660" tvg-epg="http://epg.plumrd.com/mts.rs/euro_cinema_2.xml" tvg-name="Euro Cinema 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/jqU3vUJPcv883XoSpH2MvCt7VFkvmR4G.jpeg",Euro Cinema 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=660
+http://sultanweb.info/Yu2GO.php?ID=660
 #EXTINF:-1 tvg-id="661" tvg-epg="http://epg.plumrd.com/mts.rs/euro_cinema_3.xml" tvg-name="Euro Cinema 3" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/dzqd4PVlq0ELOxDZiSeizvwD0Jpl4My3.jpeg",Euro Cinema 3
-http://sultansmart.serv00.net/Yu2GO.php?ID=661
+http://sultanweb.info/Yu2GO.php?ID=661
 #EXTINF:-1 tvg-id="662" tvg-epg="http://epg.plumrd.com/mts.rs/euro_cinema_4.xml" tvg-name="Euro Cinema 4" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/g0UOUayUvnZfGl1TIdmJcJgL795mm0Kq.png",Euro Cinema 4
-http://sultansmart.serv00.net/Yu2GO.php?ID=662
+http://sultanweb.info/Yu2GO.php?ID=662
 #EXTINF:-1 tvg-id="251" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_697.xml" tvg-name="Pink Music 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/EJwokr4QRUzKCzdu_RRnpsB-hxXod3YM.jpg",Pink Music 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=251
+http://sultanweb.info/Yu2GO.php?ID=251
 #EXTINF:-1 tvg-id="250" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_130.xml" tvg-name="Pink Music" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/UjukgzRH1u8-ZbavlgBzxSrwqVFbnx9j.jpg",Pink Music
-http://sultansmart.serv00.net/Yu2GO.php?ID=250
+http://sultanweb.info/Yu2GO.php?ID=250
 #EXTINF:-1 tvg-id="249" tvg-epg="http://epg.plumrd.com/mts.rs/pink_folk.xml" tvg-name="Pink Folk 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/CtsbFhKeCZO3Mm45Lmq_LJICzwbH6MKc.jpg",Pink Folk 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=249
+http://sultanweb.info/Yu2GO.php?ID=249
 #EXTINF:-1 tvg-id="269" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_9.xml" tvg-name="GRAND TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/NBPHR7gI_sByhKvv0abZ8PownTCfwwqn.jpg",GRAND TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=269
+http://sultanweb.info/Yu2GO.php?ID=269
 #EXTINF:-1 tvg-id="568" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_137.xml" tvg-name="MTV Hits" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/08/5ocRq8vM1dtdutjmIEQ5MzywXc0djltH.png",MTV Hits
-http://sultansmart.serv00.net/Yu2GO.php?ID=568
+http://sultanweb.info/Yu2GO.php?ID=568
 #EXTINF:-1 tvg-id="611" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_1504.xml" tvg-name="SK Fight" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/11/I5F4u4Uh0qCQgH5-74UNQjSUfFvOQ8PS.jpg",SK Fight
-http://sultansmart.serv00.net/Yu2GO.php?ID=611
+http://sultanweb.info/Yu2GO.php?ID=611
 #EXTINF:-1 tvg-id="488" tvg-epg="http://epg.plumrd.com/mtel.ba/ch-407-toxic-tv.xml" tvg-name="Toxic HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/05/lgQKLCMmRZSi8OAtok6pucxpzdqg1FTF.png",Toxic HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=488
+http://sultanweb.info/Yu2GO.php?ID=488
 #EXTINF:-1 tvg-id="94" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_1365.xml" tvg-name="DM SAT" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/kvO8ir9EOzOP5Md789QHGljk8joIHyOo.jpg",DM SAT
-http://sultansmart.serv00.net/Yu2GO.php?ID=94
+http://sultanweb.info/Yu2GO.php?ID=94
 #EXTINF:-1 tvg-id="262" tvg-epg="http://admin3.plumrd.com/epg/xml/mts_556.xml" tvg-name="Hayat MUSIC" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/arAD3iKWOUPxmPitd7nkJPtyldQiVHPm.jpg",Hayat MUSIC
-http://sultansmart.serv00.net/Yu2GO.php?ID=262
+http://sultanweb.info/Yu2GO.php?ID=262
 #EXTINF:-1 tvg-id="263" tvg-epg="http://admin3.plumrd.com/epg/xml/mts_555.xml" tvg-name="Hayat FOLK" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/fKwYyYNMsduWCZ4LcWLdeu6Lf6LBqbwx.jpg",Hayat FOLK
-http://sultansmart.serv00.net/Yu2GO.php?ID=263
+http://sultanweb.info/Yu2GO.php?ID=263
 #EXTINF:-1 tvg-id="79" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_738.xml" tvg-name="b92" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/DXJqxcl01DbgA2IVbgwU_U6RzXt63njA.jpg",b92
-http://sultansmart.serv00.net/Yu2GO.php?ID=79
+http://sultanweb.info/Yu2GO.php?ID=79
 #EXTINF:-1 tvg-id="101" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_744.xml" tvg-name="HRT 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/HHZTezQx4I1-arQc3SKxld7GP8kvpebt.jpg",HRT 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=101
+http://sultanweb.info/Yu2GO.php?ID=101
 #EXTINF:-1 tvg-id="138" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_1398.xml" tvg-name="OBN " group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/S0h8T_xhHVKGxDAsbnXN4HNJKBGCOSCi.jpg",OBN 
-http://sultansmart.serv00.net/Yu2GO.php?ID=138
+http://sultanweb.info/Yu2GO.php?ID=138
 #EXTINF:-1 tvg-id="139" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_34.xml" tvg-name="BN" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/pI9yoXQTEjB7JIyUHE-_RrIK_yPLoEnn.jpg",BN
-http://sultansmart.serv00.net/Yu2GO.php?ID=139
+http://sultanweb.info/Yu2GO.php?ID=139
 #EXTINF:-1 tvg-id="245" tvg-epg="http://epg.plumrd.com/mts.rs/hayat.xml" tvg-name="Hayat HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/h8AKTkmDdRPgYZZXhxGYgB__YgVNPEUH.jpg",Hayat HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=245
+http://sultanweb.info/Yu2GO.php?ID=245
 #EXTINF:-1 tvg-id="82" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_737.xml" tvg-name="Prva" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/AKa_aOOxOujI1fYgWiv46NuwtThj2jwV.jpg",Prva
-http://sultansmart.serv00.net/Yu2GO.php?ID=82
+http://sultanweb.info/Yu2GO.php?ID=82
 #EXTINF:-1 tvg-id="639" tvg-epg="" tvg-name="Doma TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/04/HFstsjqFwhph1Df4wCnfPLG2v0xwPRJF.png",Doma TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=639
+http://sultanweb.info/Yu2GO.php?ID=639
 #EXTINF:-1 tvg-id="88" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_726.xml" tvg-name="Pink" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/H_tV4d_0O5nhApXH72gc5aNZb9yKDs-9.jpg",Pink
-http://sultansmart.serv00.net/Yu2GO.php?ID=88
+http://sultanweb.info/Yu2GO.php?ID=88
 #EXTINF:-1 tvg-id="135" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_5.xml" tvg-name="Happy" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/N-Fl0eNrnFTFFV9evvbPrwtN5_XEuAIs.jpg",Happy
-http://sultansmart.serv00.net/Yu2GO.php?ID=135
+http://sultanweb.info/Yu2GO.php?ID=135
 #EXTINF:-1 tvg-id="153" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_13.xml" tvg-name="RTS 3" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/NyoyxO8WGu8-UzmF8PwBsLJbqZbLUckw.jpg",RTS 3
-http://sultansmart.serv00.net/Yu2GO.php?ID=153
+http://sultanweb.info/Yu2GO.php?ID=153
 #EXTINF:-1 tvg-id="222" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_7.xml" tvg-name="Prva Plus" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/tvOdvVWnPZyN9NPsrQqlzE7rdmUzVbw5.jpg",Prva Plus
-http://sultansmart.serv00.net/Yu2GO.php?ID=222
+http://sultanweb.info/Yu2GO.php?ID=222
 #EXTINF:-1 tvg-id="233" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_1152.xml" tvg-name="Sandžak TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/vmKCEW2XEnKTidLA2W7NbVzNswfUH3h1.jpg",Sandžak TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=233
+http://sultanweb.info/Yu2GO.php?ID=233
 #EXTINF:-1 tvg-id="556" tvg-epg="http://epg.plumrd.com/mts.rs/tanjug_tv.xml" tvg-name="Tanjug TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/12/oVNpWFMwxZ9NdEJnviB4kzZs_vjcDXRn.png",Tanjug TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=556
+http://sultanweb.info/Yu2GO.php?ID=556
 #EXTINF:-1 tvg-id="574" tvg-epg="http://epg.plumrd.com/mts.rs/hayat_plus.xml" tvg-name="Hayat Plus" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/08/1_CkYN3sReQ3oIpyO4gugWOKBbu1arSH.png",Hayat Plus
-http://sultansmart.serv00.net/Yu2GO.php?ID=574
+http://sultanweb.info/Yu2GO.php?ID=574
 #EXTINF:-1 tvg-id="591" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_146.xml" tvg-name="Euronews Srbija" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/tGFEZgP7bCcHs2bU9mAWloPDoLLCQMNF.png",Euronews Srbija
-http://sultansmart.serv00.net/Yu2GO.php?ID=591
+http://sultanweb.info/Yu2GO.php?ID=591
 #EXTINF:-1 tvg-id="595" tvg-epg="http://epg.plumrd.com/mts.rs/kurir_hd.xml" tvg-name="Kurir TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/rLSMU6CgtSn_Oi3pUrSEEeXUSjwzEkIT.png",Kurir TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=595
+http://sultanweb.info/Yu2GO.php?ID=595
 #EXTINF:-1 tvg-id="610" tvg-epg="http://epg.plumrd.com/mts.rs/una_tv.xml" tvg-name="Una TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/11/JrAb-47X_cHrcH4TnNcY1YuTL2QBuNbx.jpg",Una TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=610
+http://sultanweb.info/Yu2GO.php?ID=610
 #EXTINF:-1 tvg-id="635" tvg-epg="http://epg.plumrd.com/mts.rs/face_tv.xml" tvg-name="FACE TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/GUmm6wxZhSwF0YXX3UC_szpkL1NgEBfJ.jpg",FACE TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=635
+http://sultanweb.info/Yu2GO.php?ID=635
 #EXTINF:-1 tvg-id="602" tvg-epg="http://epg.plumrd.com/mtel.ba/ch-444-hgtv.xml" tvg-name="HGTV HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2023/02/90twAs44LdVM3z0nbWHyAh3FifbClu3l.png",HGTV HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=602
+http://sultanweb.info/Yu2GO.php?ID=602
 #EXTINF:-1 tvg-id="108" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_17.xml" tvg-name="Animal Planet" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/WQ3EJwJY4yuT9Y7fHMTS5VXhSDBarJpt.jpg",Animal Planet
-http://sultansmart.serv00.net/Yu2GO.php?ID=108
+http://sultanweb.info/Yu2GO.php?ID=108
 #EXTINF:-1 tvg-id="109" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_776.xml" tvg-name="Discovery" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/k8MTver8j2PXBshA8MENGIb-QgrB0LJI.jpg",Discovery
-http://sultansmart.serv00.net/Yu2GO.php?ID=109
+http://sultanweb.info/Yu2GO.php?ID=109
 #EXTINF:-1 tvg-id="110" tvg-epg="http://epg.plumrd.com/mts.rs/id.xml" tvg-name="ID" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/NfFS-mFebrUmQV_DIk_GImUCbg1f_5pA.jpg",ID
-http://sultansmart.serv00.net/Yu2GO.php?ID=110
+http://sultanweb.info/Yu2GO.php?ID=110
 #EXTINF:-1 tvg-id="160" tvg-epg="http://epg.plumrd.com/mts.rs/hrt_3.xml" tvg-name="HRT 3" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/I-ZIhG-0f9MvCXmB_wOq2__Vo1F7sGSF.jpg",HRT 3
-http://sultansmart.serv00.net/Yu2GO.php?ID=160
+http://sultanweb.info/Yu2GO.php?ID=160
 #EXTINF:-1 tvg-id="194" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_101.xml" tvg-name="Lov i ribolov" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/x7VljkVmRgWQ-gYDrrw_X2BrquJkisu2.jpg",Lov i ribolov
-http://sultansmart.serv00.net/Yu2GO.php?ID=194
+http://sultanweb.info/Yu2GO.php?ID=194
 #EXTINF:-1 tvg-id="242" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_698.xml" tvg-name="Pink Kuvar" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/Rxbj2cGxzNNLqTMCctdOmKq72kqvSC2-.jpg",Pink Kuvar
-http://sultansmart.serv00.net/Yu2GO.php?ID=242
+http://sultanweb.info/Yu2GO.php?ID=242
 #EXTINF:-1 tvg-id="552" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_695.xml" tvg-name="Pink Pedia" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/06/siw5YVJDuK44KyvaBM9eWAnRcjLLW7KF.png",Pink Pedia
-http://sultansmart.serv00.net/Yu2GO.php?ID=552
+http://sultanweb.info/Yu2GO.php?ID=552
 #EXTINF:-1 tvg-id="597" tvg-epg="http://epg.plumrd.com/mts.rs/k1_hd.xml" tvg-name="K1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/h-oWEqdRAa3djyMhBX0kpWAJPKRTc09T.png",K1
-http://sultansmart.serv00.net/Yu2GO.php?ID=597
+http://sultanweb.info/Yu2GO.php?ID=597
 #EXTINF:-1 tvg-id="669" tvg-epg="http://epg.plumrd.com/mts.rs/Informer%20TV.xml" tvg-name="Informer TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/05/XlLPfyWskTbZb-yBmReOPfLnsI-oE-1g.jpg",Informer TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=669
+http://sultanweb.info/Yu2GO.php?ID=669
 #EXTINF:-1 tvg-id="236" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_20.xml" tvg-name="Studio B" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/rnQ6UWJ387OXRvG9wLkoJ5EOPIhcEONM.jpg",Studio B
-http://sultansmart.serv00.net/Yu2GO.php?ID=236
+http://sultanweb.info/Yu2GO.php?ID=236
 #EXTINF:-1 tvg-id="255" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_16.xml" tvg-name="Red" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/B7oQvWtRPOV-FXYD4-yrCa6cUiVlWXiH.jpg",Red
-http://sultansmart.serv00.net/Yu2GO.php?ID=255
+http://sultanweb.info/Yu2GO.php?ID=255
 #EXTINF:-1 tvg-id="256" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_364.xml" tvg-name="Pink Reality" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/8AfLnnq2e22mTbftTLngqSp59yykLDok.jpg",Pink Reality
-http://sultansmart.serv00.net/Yu2GO.php?ID=256
+http://sultanweb.info/Yu2GO.php?ID=256
 #EXTINF:-1 tvg-id="278" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_560.xml" tvg-name="Prva World" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/Z-jBpUDc8NJkAdXdSWBwcGkbA5bkvXKb.jpg",Prva World
-http://sultansmart.serv00.net/Yu2GO.php?ID=278
+http://sultanweb.info/Yu2GO.php?ID=278
 #EXTINF:-1 tvg-id="412" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_403.xml" tvg-name="ALFA" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/12/EP6WE0eelM4cIXbF8xVkmzDUiq2OYcZ4.jpg",ALFA
-http://sultansmart.serv00.net/Yu2GO.php?ID=412
+http://sultanweb.info/Yu2GO.php?ID=412
 #EXTINF:-1 tvg-id="414" tvg-epg="" tvg-name="KANAL 5" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/12/x3hViV2qKH7ae9XFOj-PAhFxSXbQDy36.jpg",KANAL 5
-http://sultansmart.serv00.net/Yu2GO.php?ID=414
+http://sultanweb.info/Yu2GO.php?ID=414
 #EXTINF:-1 tvg-id="415" tvg-epg="" tvg-name="SITEL" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/12/X2jj_xojeDrOXjFMf5L7W98-mv-Iibtd.jpg",SITEL
-http://sultansmart.serv00.net/Yu2GO.php?ID=415
+http://sultanweb.info/Yu2GO.php?ID=415
 #EXTINF:-1 tvg-id="416" tvg-epg="" tvg-name="TELMA" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/12/-59zcvbYxRHTo4B1aW9ZHkcQ4oEHpbLz.jpg",TELMA
-http://sultansmart.serv00.net/Yu2GO.php?ID=416
+http://sultanweb.info/Yu2GO.php?ID=416
 #EXTINF:-1 tvg-id="418" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_404.xml" tvg-name="MRT 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/12/bke0NXbTTP0VOfaPOKOYb3OD-Lw0vrUO.jpg",MRT 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=418
+http://sultanweb.info/Yu2GO.php?ID=418
 #EXTINF:-1 tvg-id="420" tvg-epg="" tvg-name="MRT 3" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/12/ZUncMpr5UNssZeoMtdcmGCUxMRhL0XqT.jpg",MRT 3
-http://sultansmart.serv00.net/Yu2GO.php?ID=420
+http://sultanweb.info/Yu2GO.php?ID=420
 #EXTINF:-1 tvg-id="421" tvg-epg="" tvg-name="MRT 4" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/12/xcsv3UBfHVJ20wrjAeytfSEOLzkohzbi.jpg",MRT 4
-http://sultansmart.serv00.net/Yu2GO.php?ID=421
+http://sultanweb.info/Yu2GO.php?ID=421
 #EXTINF:-1 tvg-id="430" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_1393.xml" tvg-name="Nova BH HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/03/8IokAc3KV_ujIaYMI3CzWeanNfcNVcaM.png",Nova BH HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=430
+http://sultanweb.info/Yu2GO.php?ID=430
 #EXTINF:-1 tvg-id="454" tvg-epg="" tvg-name="MaxCro Select 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/12/TkUKpPi70_lcyycvLy2ZaSaTfVArh60V.jpg",MaxCro Select 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=454
+http://sultanweb.info/Yu2GO.php?ID=454
 #EXTINF:-1 tvg-id="455" tvg-epg="" tvg-name="MaxCro Select 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2021/02/CQWZo42kZEJ9mAPAcW8FHLQqkhmkb1qt.png",MaxCro Select 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=455
+http://sultanweb.info/Yu2GO.php?ID=455
 #EXTINF:-1 tvg-id="622" tvg-epg="http://epg.plumrd.com/mts.rs/blic_tv.xml" tvg-name="BLIC TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/12/tAK4a0QECEvHtZAWLcNJLllusiEzd5Cj.jpg",BLIC TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=622
+http://sultanweb.info/Yu2GO.php?ID=622
 #EXTINF:-1 tvg-id="234" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_170.xml" tvg-name="RTV Novi Pazar" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/VqHA9Y-FLb3rpKOEGlgJ4iJ0GPF7egB0.jpg",RTV Novi Pazar
-http://sultansmart.serv00.net/Yu2GO.php?ID=234
+http://sultanweb.info/Yu2GO.php?ID=234
 #EXTINF:-1 tvg-id="596" tvg-epg="http://epg.plumrd.com/mts.rs/agro_tv.xml" tvg-name="Agro TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/hVVqElB4H-RYrsZJw8u8FRSJgisERl83.jpg",Agro TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=596
+http://sultanweb.info/Yu2GO.php?ID=596
 #EXTINF:-1 tvg-id="601" tvg-epg="" tvg-name="Pester TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/07/ghdsCLa7cAEHcE3RP5eR8FEjAFi6C02k.jpg",Pester TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=601
+http://sultanweb.info/Yu2GO.php?ID=601
 #EXTINF:-1 tvg-id="436" tvg-epg="http://epg.plumrd.com/mts.rs/Zadruga%20live_1.xml" tvg-name="Pink Zadruga 1" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/11/kOQ0uPamc-aZLrX6zmspjdWUWk7Q0EX2.jpg",Pink Zadruga 1
-http://sultansmart.serv00.net/Yu2GO.php?ID=436
+http://sultanweb.info/Yu2GO.php?ID=436
 #EXTINF:-1 tvg-id="437" tvg-epg="http://epg.plumrd.com/mts.rs/Zadruga%20live_2.xml" tvg-name="Pink Zadruga 2" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2022/12/5BysWBs7eUPU-unr50pr9q09QvMzjayo.jpg",Pink Zadruga 2
-http://sultansmart.serv00.net/Yu2GO.php?ID=437
+http://sultanweb.info/Yu2GO.php?ID=437
 #EXTINF:-1 tvg-id="664" tvg-epg="" tvg-name="HustlerTV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2025/06/4yOwm_oRkmwQUnZDknoM7ZW8MX4h3CPa.png",HustlerTV
-http://sultansmart.serv00.net/Yu2GO.php?ID=664
+http://sultanweb.info/Yu2GO.php?ID=664
 #EXTINF:-1 tvg-id="180" tvg-epg="" tvg-name="EroXXX HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/SarEvZ5JhuRrsSSOG41wrnpEJHrQ_m1X.jpg",EroXXX HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=180
+http://sultanweb.info/Yu2GO.php?ID=180
 #EXTINF:-1 tvg-id="213" tvg-epg="http://admin3.plumrd.com/epg/xml/telemachba_179.xml" tvg-name="Private" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/XBDsxbTR6aBTDcdEbYBGDFzMAoHW1zSF.jpg",Private
-http://sultansmart.serv00.net/Yu2GO.php?ID=213
+http://sultanweb.info/Yu2GO.php?ID=213
 #EXTINF:-1 tvg-id="215" tvg-epg="" tvg-name="Redlight HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/04/1-nmob-bkx8BhHoHBC3Pvs4kQeKGfTz4.jpg",Redlight HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=215
+http://sultanweb.info/Yu2GO.php?ID=215
 #EXTINF:-1 tvg-id="261" tvg-epg="http://admin3.plumrd.com/epg/xml/mtel_300.xml" tvg-name="Brazzers" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/xiTTJDA6c-nGk2_pEoLk_bRYQ8ArR1nf.jpg",Brazzers
-http://sultansmart.serv00.net/Yu2GO.php?ID=261
+http://sultanweb.info/Yu2GO.php?ID=261
 #EXTINF:-1 tvg-id="287" tvg-epg="" tvg-name="BABES TV" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2020/10/FCttBuwShoI1z-hsAYNW__rtEmL-o8gR.jpg",BABES TV
-http://sultansmart.serv00.net/Yu2GO.php?ID=287
+http://sultanweb.info/Yu2GO.php?ID=287
 #EXTINF:-1 tvg-id="652" tvg-epg="http://epg.plumrd.com/mtel.ba/ch-170-dorcel.xml" tvg-name="Dorcel HD" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/LSBYWjHPt1Xrd24_PfWZTVIMz4hnW1pF.jpeg",Dorcel HD
-http://sultansmart.serv00.net/Yu2GO.php?ID=652
+http://sultanweb.info/Yu2GO.php?ID=652
 #EXTINF:-1 tvg-id="654" tvg-epg="" tvg-name="Penthouse Gold" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/zecJgdRGNft3nbYv2wjg9SIYeaxeBVtj.jpeg",Penthouse Gold
-http://sultansmart.serv00.net/Yu2GO.php?ID=654
+http://sultanweb.info/Yu2GO.php?ID=654
 #EXTINF:-1 tvg-id="655" tvg-epg="" tvg-name="Penthouse Reality" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/Ig964n2qf0SS4QFMyM9I-2_34Le8qq6S.jpeg",Penthouse Reality
-http://sultansmart.serv00.net/Yu2GO.php?ID=655
+http://sultanweb.info/Yu2GO.php?ID=655
 #EXTINF:-1 tvg-id="656" tvg-epg="http://admin3.plumrd.com/epg/xml/epg_181.xml" tvg-name="Dusk" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/04/SZdZJ8iXhBdBfSKBla3kxsLXFegs9XvJ.jpeg",Dusk
-http://sultansmart.serv00.net/Yu2GO.php?ID=656
+http://sultanweb.info/Yu2GO.php?ID=656
 #EXTINF:-1 tvg-id="651" tvg-epg="http://epg.plumrd.com/mts.rs/nasa_tv.xml" tvg-name="Наша ТВ" group-title="Yu2GO" tvg-logo="http://media.iptv.yu2go.com/2024/02/_IPQYGYRjT2zIRPlI4BEfp4zyMadbYuZ.png",Наша ТВ
-http://sultansmart.serv00.net/Yu2GO.php?ID=651
+http://sultanweb.info/Yu2GO.php?ID=651
